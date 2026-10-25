@@ -245,6 +245,31 @@ footer .wrap{padding-block:18px;color:var(--dim);font-size:12px;display:flex;gap
 .tmn,table.t .tm a,.deal .team a,.list li b a,.line .match b a,.exit .tm a{color:var(--team)}
 .tmn{font-weight:700}
 td.pk{font-size:13px;color:var(--soft);min-width:9ch}
+.deal.thd .tht{padding:12px 16px 0;font-family:var(--display);font-size:20px;line-height:1.15;color:var(--brass)}
+.deal.thd .s.won{background:rgba(143,217,176,.06)}
+.deal.thd .s.won .team{color:var(--team)}
+.deal.thd .rcv b{color:var(--fg);letter-spacing:0;font-size:11px}
+.gets.th{font-weight:600;font-size:14px}
+.gets.th li{display:flex;justify-content:space-between;gap:10px;padding:2px 0;border-bottom:1px dotted var(--line)}
+.gets.th li span{min-width:0;overflow-wrap:anywhere}
+.gets.th em{font-style:normal;font-family:var(--mono);font-size:12px;color:var(--dim);white-space:nowrap}
+.deal.multi .sides{grid-template-columns:repeat(auto-fit,minmax(180px,1fr))}
+.thdate{font-family:var(--mono);font-size:11px;color:var(--dim);margin-left:6px}
+.verdict.g-robbery{background:var(--red);color:#17120A}
+.verdict .mgr,.verdict .tmn{color:inherit}
+.verdict.g-clear{border-color:var(--team);color:var(--team)}
+.verdict.g-close{border-color:var(--gold);color:var(--gold)}
+.verdict.g-push,.verdict.g-jury{border-color:var(--dim);color:var(--dim)}
+tr.former td.tm{font-style:italic;color:var(--dim)}
+td.num.up{color:var(--green)} td.num.dn{color:var(--red)}
+details.thyr{border-top:1px solid var(--line);padding:10px 0}
+details.thyr summary{cursor:pointer;font-family:var(--display);font-size:22px;color:var(--brass);list-style:none}
+details.thyr summary::-webkit-details-marker{display:none}
+details.thyr summary::before{content:"+ ";color:var(--dim)}
+details.thyr[open] summary::before{content:"\2212  "}
+details.thyr summary span{font-family:var(--body);font-size:12px;letter-spacing:1.5px;text-transform:uppercase;color:var(--dim);margin-left:8px}
+details.thyr .grid{margin-top:14px}
+@media (max-width:640px){.deal.thd .sides{grid-template-columns:1fr}.deal.thd .swap{padding:4px 0;border-inline:0;border-block:1px solid var(--line)}}
 .win{display:inline-block;font-weight:800;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;padding:2px 8px;border:1px solid currentColor;white-space:nowrap}
 .win.contend{color:var(--green)} .win.rebuild{color:var(--red)} .win.purgatory,.win.stuck{color:var(--gold)} .win.allin{color:#C9A6FF}
 .legend{display:flex;gap:16px;flex-wrap:wrap;justify-content:center;font-size:12px;color:var(--dim);padding-top:6px}
@@ -343,6 +368,7 @@ td.pk{font-size:13px;color:var(--soft);min-width:9ch}
         <a href="#opinion">Opinion</a>
         <a href="#rumors">Rumor Mill</a>
         <a href="#trades">Trade Desk</a>
+        <a href="#deals">Trade History</a>
         <a href="#payouts">Payouts</a>
         <a href="#hof">Hall of Fame</a>
         <a href="#dynasty">Dynasty</a>
@@ -375,6 +401,7 @@ td.pk{font-size:13px;color:var(--soft);min-width:9ch}
   <section class="page" id="p-commish" hidden></section>
   <section class="page" id="p-rip" hidden></section>
   <section class="page" id="p-dynasty" hidden></section>
+  <section class="page" id="p-deals" hidden></section>
 </main>
 
 <footer><div class="wrap"><span>The Ordinary Gentleman's Club · League of Ordinary Gentlemen on Sleeper</span><span>Rumors are made up. Stats are real.</span></div></footer>
@@ -522,6 +549,22 @@ td.pk{font-size:13px;color:var(--soft);min-width:9ch}
     return '<div class="sec">'+head(R.title,R.sub)+'<div class="rafters">'+R.banners.map(function(b){return '<div class="banner"><div class="rb-tag">'+esc(b.tag)+'</div><div class="u">'+esc(b.u)+'</div><div class="yrs">'+esc(b.yrs)+'</div><div class="rule"></div><div class="stats">'+esc(b.stats)+'</div><div class="rb-line">'+esc(b.line)+'</div></div>';}).join("")+'</div></div>';
   }
 
+  var GL={robbery:"Robbery",clear:"Clear win",close:"Close call",push:"Push",jury:"Jury's out"};
+  function th1(v){return v==null?"":Number(v).toLocaleString("en-US",{minimumFractionDigits:1,maximumFractionDigits:1});}
+  function thCard(r,title,take){
+    var side=function(s,i){var won=r.w===i;return '<div class="s'+(won?' won':'')+'"><div class="team">'+esc(s[0])+'</div><div class="rcv">Received'+(s[1]!=null?' · <b>'+th1(s[1])+' pts</b>':'')+'</div><ul class="gets th">'+s[2].map(function(a){return '<li><span>'+esc(a[0])+'</span>'+(a[1]!=null?'<em>'+th1(a[1])+'</em>':'')+'</li>';}).join("")+'</ul></div>';};
+    var sd=r.sides, body=sd.length===2?side(sd[0],0)+'<div class="swap" aria-hidden="true">⇄</div>'+side(sd[1],1):sd.map(side).join("");
+    return '<div class="deal thd'+(sd.length===2?'':' multi')+'">'+(title?'<div class="tht">'+esc(title)+'</div>':'')+'<div class="sides">'+body+'</div><div class="why">'+(take?esc(take)+' ':'')+'<span class="verdict g-'+r.g+'">'+GL[r.g]+(r.w!=null?': '+esc(sd[r.w][0]):'')+'</span> <span class="thdate">'+esc(r.d)+'</span></div></div>';
+  }
+  function deals(){
+    var T=D.th; if(!T) return home();
+    var h='<div class="sec">'+head("Hindsight 20/20",T.note)+'<div class="grid two">'+T.top.map(function(t){return thCard(T.all[t.i],t.t,t.take);}).join("")+'</div></div>';
+    h+='<div class="sec">'+head("The Trade Ledger",T.ledgerNote)+'<div class="scroll"><table class="t"><thead><tr><th>Manager</th><th>Trades</th><th>Won</th><th>Lost</th><th>Net points</th></tr></thead><tbody>'+T.ledger.map(function(r){return '<tr'+(r[5]?'':' class="former"')+'><td class="tm">'+esc(r[0])+'</td><td class="num">'+r[1]+'</td><td class="num">'+r[2]+'</td><td class="num">'+r[3]+'</td><td class="num '+(r[4]>=0?'up':'dn')+'">'+(r[4]>0?'+':'')+th1(r[4])+'</td></tr>';}).join("")+'</tbody></table></div></div>';
+    var by={};T.all.forEach(function(r){(by[r.s]=by[r.s]||[]).push(r);});
+    h+='<div class="sec">'+head("Every Trade, Graded","Newest season first. Tap a season to open it.")+Object.keys(by).sort().reverse().map(function(y){var L=by[y];return '<details class="thyr"'+(y===Object.keys(by).sort().reverse()[0]?' open':'')+'><summary>'+esc(y)+' <span>'+L.length+' trades</span></summary><div class="grid two">'+L.slice().reverse().map(function(r){return thCard(r);}).join("")+'</div></details>';}).join("")+'</div>';
+    if(T.cur&&T.cur.length) h+='<div class="sec">'+head("2026 Trades: Ask Again Next Year",T.curNote)+'<div class="grid two">'+T.cur.slice().reverse().map(function(c){return '<div class="deal thd'+(c.sides.length===2?'':' multi')+'"><div class="sides">'+c.sides.map(function(s,i){return (i===1&&c.sides.length===2?'<div class="swap" aria-hidden="true">⇄</div>':'')+'<div class="s"><div class="team">'+esc(s[0])+'</div><div class="rcv">Received</div><ul class="gets th">'+s[1].map(function(a){return '<li><span>'+esc(a)+'</span></li>';}).join("")+'</ul></div>';}).join("")+'</div><div class="why"><span class="verdict g-jury">Too early</span> <span class="thdate">'+esc(c.d)+'</span></div></div>';}).join("")+'</div></div>';
+    return h;
+  }
   function dynasty(){
     var Y=D.dyn; if(!Y) return home();
     var h='<div class="sec">'+head("Pick Ledger",Y.picksNote)+'<div class="scroll"><table class="t"><thead><tr><th>Team</th>'+Y.years.map(function(y){return '<th>'+esc(y)+'</th>';}).join("")+'<th>1sts</th></tr></thead><tbody>'+Y.picks.map(function(r){return '<tr><td class="tm">'+tlink(r[0])+'<span class="own">'+esc(r[1])+'</span></td>'+r[2].map(function(c){return '<td class="pk">'+esc(c)+'</td>';}).join("")+'<td class="num">'+esc(r[3])+'</td></tr>';}).join("")+'</tbody></table></div></div>';
@@ -529,7 +572,7 @@ td.pk{font-size:13px;color:var(--soft);min-width:9ch}
     if(Y.taxi&&Y.taxi.length) h+='<div class="sec">'+head("Taxi Squad Watch",Y.taxiNote)+'<div class="grid">'+Y.taxi.map(function(x){return '<div class="item"><div class="kicker">'+esc(x.tag)+'</div><h3>'+esc(x.p)+'</h3><p>'+esc(x.t)+'</p></div>';}).join("")+'</div></div>';
     return h;
   }
-  var pages=["home","recap","rankings","teams","team","rumors","trades","history","lines","story","opinion","col","payouts","hof","commish","rip","dynasty"];
+  var pages=["home","recap","rankings","teams","team","rumors","trades","history","lines","story","opinion","col","payouts","hof","commish","rip","dynasty","deals"];
   function route(){
     if(!D) return;
     var h=(location.hash||"#home").slice(1), view=h, arg=null;
@@ -538,7 +581,7 @@ td.pk{font-size:13px;color:var(--soft);min-width:9ch}
     else if(h.indexOf("col-")===0){view="col";arg=h.slice(4);}
     if(view==="history") view="hof";
     if(pages.indexOf(view)<0) view="home";
-    var html={home:home,recap:recap,rankings:rankings,teams:teams,team:function(){return team(arg);},rumors:rumors,trades:trades,history:history,lines:home,story:function(){return story(arg);},opinion:opinion,col:function(){return column(arg);},payouts:payouts,hof:hof,commish:home,rip:home,dynasty:dynasty}[view]();
+    var html={home:home,recap:recap,rankings:rankings,teams:teams,team:function(){return team(arg);},rumors:rumors,trades:trades,history:history,lines:home,story:function(){return story(arg);},opinion:opinion,col:function(){return column(arg);},payouts:payouts,hof:hof,commish:home,rip:home,dynasty:dynasty,deals:deals}[view]();
     pages.forEach(function(p){var el=document.getElementById("p-"+p);el.hidden=(p!==view);if(p===view){ el.innerHTML=html; try{ mark(el); }catch(e){} }});
     var navKey=view==="team"?"teams":view==="story"?"home":view==="col"?"opinion":view;
     document.querySelectorAll("#nav a").forEach(function(a){if(a.getAttribute("href")==="#"+navKey) a.setAttribute("aria-current","page"); else a.removeAttribute("aria-current");});
@@ -555,7 +598,7 @@ td.pk{font-size:13px;color:var(--soft);min-width:9ch}
       document.getElementById("tickTag").textContent="Wk "+(D.week-1)+" Final";
       items=D.ticker.map(function(t){return '<span><b>'+esc(t[0])+' '+esc(t[1])+'</b> · '+esc(t[2])+' '+esc(t[3])+'</span>';}).join("");
     }
-    [["payouts",D.payouts],["commish",D.commish],["rip",D.ring&&D.ring.banners&&D.ring.banners.length],["dynasty",D.dyn]].forEach(function(x){if(!x[1]){var a=document.querySelector('#nav a[href="#'+x[0]+'"]');if(a)a.remove();}});
+    [["deals",D.th],["payouts",D.payouts],["commish",D.commish],["rip",D.ring&&D.ring.banners&&D.ring.banners.length],["dynasty",D.dyn]].forEach(function(x){if(!x[1]){var a=document.querySelector('#nav a[href="#'+x[0]+'"]');if(a)a.remove();}});
     document.getElementById("run").innerHTML=items+items;
     (function(){var tr=document.querySelector(".ticker .track"),rn=document.getElementById("run"),x=0,t0=null;if(!tr||!rn||!window.requestAnimationFrame)return;function tick(t){if(t0!==null){x+=Math.min(t-t0,100)*0.045;var half=rn.scrollWidth/2;if(half>0&&x>=half)x-=half;tr.scrollLeft=Math.round(x);}t0=t;requestAnimationFrame(tick);}requestAnimationFrame(tick);})();
     var src='<div class="sources">Sources: '+D.sources.map(function(s){return '<a href="'+esc(s[1])+'" target="_blank" rel="noopener">'+esc(s[0])+'</a>';}).join(" · ")+'</div>';
