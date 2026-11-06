@@ -1,5 +1,5 @@
 {
- "updated": "Thursday, Nov 5, 2026 · 6:30 AM ET",
+ "updated": "Friday, Nov 6, 2026 · 6:30 AM ET",
  "week": 9,
  "ticker": [
   [
@@ -41,7 +41,7 @@
  ],
  "wire": [
   {
-   "t": "Week 8 is final. Picken Weiners 180.24 over Ceedees ships coming! 🏆 152.10, Lemon Squeezy 148.76 over Trevor Have I Ever 147.00, 50 Shades of Rae 142.96 over Chubb So Big I Waddle 135.88, Mean Machine 141.48 over Hanging with Hernandez 107.66, I Believe in Love 106.84 over Prepetente is the GOAT! 87.08, and Hurts So Good 92.20 over Young Love Hunters 78.62.",
+   "t": "Week 9 Thursday night is final: Trevor Have I Ever leads Ceedees ships coming! 🏆 42.68 to 0.00, Hurts So Good leads Prepetente is the GOAT! 10.50 to 3.90, I Believe in Love leads Young Love Hunters 11.20 to 0.00, Mean Machine leads Chubb So Big I Waddle 9.50 to 0.00, Picken Weiners leads Lemon Squeezy 8.90 to 0.00, and Hanging with Hernandez leads 50 Shades of Rae 5.58 to 0.00.",
    "src": "League transactions",
    "url": "https://sleeper.com/leagues/1313296545755435008"
   },
@@ -83,14 +83,14 @@
  ],
  "stories": [
   {
-   "id": "wk9preview",
-   "kicker": "Week 9 Preview",
-   "title": "Picken Weiners (6‑2) gets Lemon Squeezy (7‑1) and a 44.8-point deficit on paper",
-   "dek": "Week 9 is still 0.00 for everyone, and the line on Bill_Buttlicker's game hasn't moved: 93% for TotesMagoat.",
+   "id": "tnf9",
+   "kicker": "Thursday Night",
+   "title": "Trevor Have I Ever leads Ceedees ships coming! 🏆 42.68 to 0.00 after Thursday night",
+   "dek": "RedDevil904 took the early lead with a Lamar Jackson-less lineup, and Picken Weiners is already 8.90 behind nothing.",
    "body": [
-    "Thursday morning and every team in the league is still sitting on 0.00, so everyone remains a genius. Picken Weiners (6-2, 1018.68 points) faces Lemon Squeezy (7-1, 1377.22 points) with a projected gap of 44.8 points. The model gives TotesMagoat a 93% chance, which Bill_Buttlicker, who scored 180.24 last week, has chosen to take personally.",
-    "Lemon Squeezy has Christian McCaffrey (calf) and Amon-Ra St. Brown listed questionable, so check the lineup before Sunday. Picken Weiners has Bhayshul Tuten questionable with an ankle, and Alec Pierce and Jordyn Tyson are both on IR. Bill_Buttlicker also still has Cam Ward on the bench, because of course he does.",
-    "Elsewhere, 50 Shades of Rae is a 95% favorite over Hanging with Hernandez, and Ceedees ships coming! 🏆 (4-4) is a 78% favorite at Trevor Have I Ever with Lamar Jackson headed to IR. Young Love Hunters (0-8) is a 92% underdog at I Believe in Love."
+    "Thursday night is in the books and the Week 9 scoreboard finally has numbers on it. Trevor Have I Ever has 42.68 from Trevor Lawrence (15.60), Parker Washington (15.10) and the Jaguars defense (12.00), while Ceedees ships coming! 🏆 has not scored a point yet. The model had ChuckJ10 as a 78% favorite. He's 42.68 behind with the rest of the Sunday slate still to come.",
+    "Elsewhere: Picken Weiners has 8.90 from Bhayshul Tuten (questionable with an ankle, played anyway) against Lemon Squeezy's 0.00, so Bill_Buttlicker is technically beating the 93% favorite. Hurts So Good leads Prepetente is the GOAT! 10.50 to 3.90 on a Jakobi Meyers night, I Believe in Love has 11.20 from Chris Rodriguez Jr. against Young Love Hunters' 0.00, and Mean Machine has 9.50 from Zay Flowers (5.30) and Brenton Strange (4.20) against Chubb So Big I Waddle.",
+    "Nobody should read anything into a Thursday lead. 50 Shades of Rae and Lemon Squeezy haven't played a single starter, and Derrick Henry gave Hanging with Hernandez 5.58 in a game where they're still 51.5 points underdogs. Sunday decides it."
    ]
   },
   {
@@ -425,7 +425,7 @@
     "Swift kick in the Lance (2022, champion)",
     "Taylor (&) Swift (2021, champion)"
    ],
-   "w7": "at Picken Weiners · Lemon Squeezy by 44.8 (93%)",
+   "w7": "at Picken Weiners · Lemon Squeezy by 44.8 (93%) · Thursday: 0.00 to 8.90",
    "inj": [
     "Christian McCaffrey (questionable, calf)",
     "Amon-Ra St. Brown (questionable)"
@@ -450,7 +450,7 @@
     "Rebuild 3.0 (2022, 5-9)",
     "RB Graveyard (2021, 6-8)"
    ],
-   "w7": "vs. Ceedees ships coming! 🏆 · Ceedees ships coming! 🏆 by 24.3 (78%)",
+   "w7": "vs. Ceedees ships coming! 🏆 · Ceedees ships coming! 🏆 by 24.3 (78%) · Thursday: 42.68 to 0.00",
    "inj": [
     "Lamar Jackson (out, headed to IR)",
     "Emeka Egbuka (out, foot)"
@@ -476,7 +476,7 @@
     "Fuck Nick Folk (2022)",
     "Passion of the Clitoris (2021)"
    ],
-   "w7": "vs. Lemon Squeezy · Lemon Squeezy by 44.8 (93%)",
+   "w7": "vs. Lemon Squeezy · Lemon Squeezy by 44.8 (93%) · Thursday: 8.90 to 0.00",
    "inj": [
     "Bhayshul Tuten (questionable, ankle)",
     "Alec Pierce (IR)",
@@ -504,7 +504,7 @@
     "Rae Day (2020, champion)",
     "50 Shades of RAE (2019, champion)"
    ],
-   "w7": "at Hanging with Hernandez · 50 Shades of Rae by 51.5 (95%)",
+   "w7": "at Hanging with Hernandez · 50 Shades of Rae by 51.5 (95%) · Thursday: 0.00 to 5.58",
    "inj": [
     "De'Von Achane (IR)",
     "Jonathon Brooks (IR)",
@@ -530,7 +530,7 @@
     "Times Up! (2022, third place)",
     "LetsGetPhyZekiel!!! (2019, third place)"
    ],
-   "w7": "at Trevor Have I Ever · Ceedees ships coming! 🏆 by 24.3 (78%)",
+   "w7": "at Trevor Have I Ever · Ceedees ships coming! 🏆 by 24.3 (78%) · Thursday: 0.00 to 42.68",
    "inj": [
     "Davante Adams (IR, out 6-10 weeks)",
     "Breece Hall (out, Week 9 target)",
@@ -556,7 +556,7 @@
     "Show us Your Pitts (2021)",
     "Vick in a Box (2020, third place)"
    ],
-   "w7": "at Prepetente is the GOAT! · Hurts So Good by 25.3 (79%)",
+   "w7": "at Prepetente is the GOAT! · Hurts So Good by 25.3 (79%) · Thursday: 10.50 to 3.90",
    "inj": [
     "Jalen Hurts (IR, out for the season)",
     "Michael Pittman Jr. (IR)",
@@ -581,7 +581,7 @@
     "RobMeyers (2020)",
     "MayfieldfFor6 (2019)"
    ],
-   "w7": "vs. Mean Machine · Mean Machine by 21.8 (76%)",
+   "w7": "vs. Mean Machine · Mean Machine by 21.8 (76%) · Thursday: 0.00 to 9.50",
    "inj": [
     "Hunter Henry (out, foot)",
     "David Montgomery (out, groin)"
@@ -601,7 +601,7 @@
    "since": "2026",
    "titles": 0,
    "past": [],
-   "w7": "vs. Young Love Hunters · I Believe in Love by 43.5 (92%)",
+   "w7": "vs. Young Love Hunters · I Believe in Love by 43.5 (92%) · Thursday: 11.20 to 0.00",
    "inj": [
     "Jeremiyah Love (out, ankle)",
     "RJ Harvey (IR, Week 13 earliest)",
@@ -627,7 +627,7 @@
     "Someone's gotta do it (2023, 1-13)",
     "Why do I torture myself (2020, 1-12)"
    ],
-   "w7": "vs. 50 Shades of Rae · 50 Shades of Rae by 51.5 (95%)",
+   "w7": "vs. 50 Shades of Rae · 50 Shades of Rae by 51.5 (95%) · Thursday: 5.58 to 0.00",
    "inj": [
     "Kyle Monangai (out, turf toe)",
     "DeVonta Smith (out)",
@@ -652,7 +652,7 @@
     "My Purdy Average Team (2024, 4-10)",
     "Not the Sacko (2023, 5-9)"
    ],
-   "w7": "vs. Hurts So Good · Hurts So Good by 25.3 (79%)",
+   "w7": "vs. Hurts So Good · Hurts So Good by 25.3 (79%) · Thursday: 3.90 to 10.50",
    "inj": [
     "Terry McLaurin (out for the season)",
     "Carnell Tate (out, shoulder)",
@@ -679,7 +679,7 @@
     "RB's We have THE MEATS! (2022)",
     "Dirty Fuckin' Dangles! (2019)"
    ],
-   "w7": "at Chubb So Big I Waddle · Mean Machine by 21.8 (76%)",
+   "w7": "at Chubb So Big I Waddle · Mean Machine by 21.8 (76%) · Thursday: 9.50 to 0.00",
    "inj": [
     "Mike Evans (out)",
     "Rashee Rice (out)",
@@ -702,7 +702,7 @@
    "past": [
     "Mayfield Loves Mayhem (2025, 3-11)"
    ],
-   "w7": "at I Believe in Love · I Believe in Love by 43.5 (92%)",
+   "w7": "at I Believe in Love · I Believe in Love by 43.5 (92%) · Thursday: 0.00 to 11.20",
    "inj": [
     "Trey Benson (IR)",
     "Raheim Sanders (IR)",
@@ -717,11 +717,11 @@
  "rumors": [
   {
    "src": "Per league sources",
-   "t": "TotesMagoat's 77-11 all-play record has been entered into evidence as proof that the other eleven teams are, technically, a charity."
+   "t": "Trevor Have I Ever has reportedly asked the league office to end Week 9 now since it's up 42.68 to 0.00. The league office pointed out that Sunday exists."
   },
   {
-   "src": "Developing",
-   "t": "superdog91's Cade Klubnik, who cost $602 of FAAB and has scored 0.0 points, has asked the taxi squad whether anyone has seen the stadium. The taxi squad is a stationary list."
+   "src": "Hearing",
+   "t": "Ceedees ships coming! 🏆 has reportedly filed a formal complaint that the ship is stuck in the Thursday night harbor and unable to score. The harbor is the NFL schedule."
   },
   {
    "src": "Hearing",
@@ -921,25 +921,25 @@
  ],
  "columns": [
   {
-   "id": "dd-mouth7",
+   "id": "dd-mouth8",
    "by": "mouth",
    "kicker": "Opinion",
-   "title": "NOBODY HAS SCORED A POINT YET AND I'M ALREADY SWEATING",
-   "dek": "Week 9 is 0.00 across the board and that's the best it will look for BeatULikeABoss",
+   "title": "RED DEVIL IS UP 42.68 TO NOTHING AND I'M SCREAMING",
+   "dek": "Thursday night gave Trevor Have I Ever a head start. It also gave ChuckJ10 a problem.",
    "body": [
-    "EVERY TEAM IN THIS LEAGUE IS AT 0.00 RIGHT NOW! THAT INCLUDES YOUNG LOVE HUNTERS, WHO ARE 0-8 AND HAVE A 0-88 ALL-PLAY RECORD! ENJOY IT, BEATULIKEABOSS!",
-    "SUPERDOG91 PICKED UP REGGIE VIRGIL AND DROPPED TANNER MCKEE! RANDOM WAIVER ACTIVITY! I LOVE IT! SOMEBODY IN THIS LEAGUE IS AWAKE!"
+    "TREVOR HAVE I EVER HAS 42.68! CEEDEES SHIPS COMING! 🏆 HAS 0.00! THAT'S THE WHOLE LEAGUE'S WEEK 9 STORY AND IT'S FRIDAY MORNING!",
+    "TREVOR LAWRENCE HAD 15.60! PARKER WASHINGTON HAD 15.10! THE JAGUARS DEFENSE HAD 12.00! REDDEVIL904 PLAYED THE BACKUP QUARTERBACK AND THE BACKUP QUARTERBACK SHOWED UP! CHUCKJ10 STILL HAS THE WHOLE SUNDAY TO CATCH UP, BUT HE'S ALREADY CHASING!"
    ]
   },
   {
-   "id": "dd-tre4",
+   "id": "dd-tre5",
    "by": "tre",
    "kicker": "Opinion",
-   "title": "Ceedees ships coming! 🏆 scored 152.10 and lost. That's the schedule's fault and the lineup's.",
-   "dek": "Kyler Murray had 20.90 on the bench. Dak Prescott started and had 19.80.",
+   "title": "Bill_Buttlicker leads the favorite and nobody should care yet",
+   "dek": "Picken Weiners 8.90, Lemon Squeezy 0.00. That's it. That's the column.",
    "body": [
-    "Ceedees ships coming! 🏆 is 4-4. It has 1246.92 points, third-most in the league, and a 69-19 all-play record. It also has the most points against, 1188.68. That's a rough schedule, and ChuckJ10 can't do anything about it.",
-    "What he can do is start the quarterback who is hot. Kyler Murray scored 20.90 on his bench while Dak Prescott scored 19.80 as the starter. It wasn't the difference in a 28.14-point loss, but it's a habit. Pollard had 29.70 and Michael Wilson had 26.80. The rest of the lineup had to show up too."
+    "Tuten gave Picken Weiners 8.90 on Thursday. Lemon Squeezy has 0.00 because TotesMagoat's players haven't played yet. A lead on Friday means nothing in a 93% matchup.",
+    "What I'd look at is the roster. Alec Pierce and Jordyn Tyson are both on IR and Cam Ward is still on Bill_Buttlicker's bench. If Picken Weiners is going to beat a 7-1 team, the lineup has to be right before Sunday, not after."
    ]
   },
   {
