@@ -1,5 +1,5 @@
 {
- "updated": "Wednesday, Nov 11, 2026 · 6:30 AM ET",
+ "updated": "Thursday, Nov 12, 2026 · 6:30 AM ET",
  "week": 10,
  "ticker": [
   [
@@ -41,6 +41,21 @@
  ],
  "wire": [
   {
+   "t": "First league trade since Sept. 17: TotesMagoat sent Kaleb Johnson and his 2029 3rd to BeatULikeABoss for BeatULikeABoss's 2029 2nd. BeatULikeABoss also got his own 2029 5th back. Johnson has 23.20 points this season, all of them on Lemon Squeezy's bench, and is already in Young Love Hunters' Week 10 lineup.",
+   "src": "League transactions",
+   "url": "https://sleeper.com/leagues/1313296545755435008"
+  },
+  {
+   "t": "Josh Jacobs is having surgery on a fractured ring finger, with reports ranging from out indefinitely to a maximum of three weeks. Kaleb Johnson ran 14 times for 68 yards and a touchdown in Week 9, and MarShawn Lloyd (Bill_Buttlicker) is reported good to go for Sunday against the Vikings. BertDirty owns Jacobs.",
+   "src": "Fantasy Footballers",
+   "url": "https://www.thefantasyfootballers.com/news/646836/josh-jacobs-finger-surgery-on-tap-ir-a-possibility/"
+  },
+  {
+   "t": "TotesMagoat added David Njoku and the Chargers defense Wednesday night. Njoku is on IR with a fibula injury and was designated to return on Nov. 4, which opened his 21-day practice window. Also Wednesday: BeatULikeABoss dropped the Commanders defense, and Bill_Buttlicker claimed Colts receiver Ashton Dulin and dropped Elijah Mitchell (13.30 points in two weeks on the roster).",
+   "src": "Fantasy Footballers",
+   "url": "https://www.thefantasyfootballers.com/news/645908/david-njoku-cleared-to-resume-practicing/"
+  },
+  {
    "t": "The Ravens traded for Jacoby Brissett and he's expected to start Monday night against the Chargers with Lamar Jackson on IR. Bill_Buttlicker owns Brissett (111.16 points this season) as the backup to Patrick Mahomes. RedDevil904 owns Jackson (84.08 points).",
    "src": "Baltimore Ravens",
    "url": "https://www.baltimoreravens.com/news/jacoby-brissett-ravens-trade-quarterback-cardinals-2026"
@@ -61,27 +76,24 @@
    "url": "https://sports.yahoo.com/articles/rams-lose-puka-nacua-several-220702046.html"
   },
   {
-   "t": "Josh Jacobs has a fractured finger, needs surgery and could miss up to three weeks. Kaleb Johnson (TotesMagoat) and MarShawn Lloyd (Bill_Buttlicker) are the Packers backs on league rosters. Pierre Strong Jr., dropped by BeatULikeABoss on Nov. 8, is a free agent. BertDirty owns Jacobs.",
-   "src": "Forbes via Yahoo Sports",
-   "url": "https://sports.yahoo.com/articles/week-10-fantasy-football-injury-042150136.html"
-  },
-  {
-   "t": "Deadline day moved two more league receivers: Keenan Allen (TotesMagoat) went from the Colts to the 49ers and Josh Downs (G8rDuc) went from the Colts to the Chiefs.",
-   "src": "PrizePicks",
-   "url": "https://www.prizepicks.com/playbook-article/nfl-trade-deadline-tracker-2026-live-trade-updates-rumors-news"
-  },
-  {
    "t": "Gardner Minshew is feared to have a torn UCL and rookie Carson Beck is expected to start for Arizona. RobMeyers has Beck on his taxi squad.",
    "src": "Forbes via Yahoo Sports",
    "url": "https://sports.yahoo.com/articles/week-10-fantasy-football-injury-042150136.html"
-  },
-  {
-   "t": "Buccaneer51 claimed Rams receiver Tutu Atwell for $32 on Monday night. G8rDuc dropped Marquise Brown and Dameon Pierce and ChuckJ10 dropped Andrei Iosivas. Still no league trades since Sept. 17, and the deadline is Week 13.",
-   "src": "League transactions",
-   "url": "https://sleeper.com/leagues/1313296545755435008"
   }
  ],
  "stories": [
+  {
+   "id": "trade1112",
+   "kicker": "Trade Alert",
+   "title": "TotesMagoat sells Kaleb Johnson the week Josh Jacobs goes under the knife",
+   "dek": "Lemon Squeezy (8‑1) flips a bench back and a 2029 3rd for Young Love Hunters' 2029 2nd. It's the first league trade in almost two months.",
+   "body": [
+    "The trade drought is over. TotesMagoat sent Kaleb Johnson and Lemon Squeezy's 2029 3rd to BeatULikeABoss for Young Love Hunters' 2029 2nd, and BeatULikeABoss got his own 2029 5th back in the deal. It's the first trade in this league since Sept. 17. Johnson is 23 and scored 23.20 points in nine weeks for Lemon Squeezy, every one of them on the bench, 12.80 of them in Week 9.",
+    "Here's why it's interesting: Josh Jacobs is getting surgery on a fractured ring finger, and the reports range from out indefinitely to a maximum of three weeks. Johnson ran 14 times for 68 yards and a touchdown against the Patriots once Jacobs went down. MarShawn Lloyd (Bill_Buttlicker, yes, me) is reported good to go for Sunday against the Vikings, so it's not a clean lead job. BeatULikeABoss didn't wait to find out. Johnson is already in Young Love Hunters' Week 10 lineup against 50 Shades of Rae, who is still a 99% favorite.",
+    "The dynasty math: TotesMagoat now owns 2029 2nds from himself and BeatULikeABoss, still has six firsts across the next three drafts, and the team that's 1-8 is the one most likely to make that 2nd an early one. He sold a guy who never cracked his lineup for a better pick in a year when Young Love Hunters could still be bad. BeatULikeABoss gets a 23-year-old back with a possible starting role for a few weeks and still holds eight 2027 picks in the first three rounds. Rich get richer, rebuild gets a running back. Nobody got robbed, which is honestly a disappointment for this website.",
+    "TotesMagoat wasn't done. He picked up David Njoku, who's on IR with a fibula injury but was designated to return on Nov. 4, and the Chargers defense. And I claimed Ashton Dulin and dropped Elijah Mitchell, because the Colts just traded Josh Downs and somebody has to catch passes in Indianapolis."
+   ]
+  },
   {
    "id": "deadline",
    "kicker": "Deadline Fallout",
@@ -94,17 +106,6 @@
    ]
   },
   {
-   "id": "mccord",
-   "kicker": "Waiver Wire",
-   "title": "BeatULikeABoss pays $145 for Kyle McCord, and Young Love Hunters (1‑8) has three QBs",
-   "dek": "Jordan Love still starts. McCord is a 24-year-old with a starting job for at least four weeks.",
-   "body": [
-    "BeatULikeABoss won Kyle McCord on waivers Tuesday night for $145 and dropped Gregory Desrosiers. The reason is real: Malik Willis is on IR for at least four games and McCord starts Sunday at Indianapolis. It's a dynasty roster with a 1-8 record and the youngest core in the league (24.7), so a 24-year-old starting quarterback is a fair thing to own. But Young Love Hunters plays one quarterback a week, and that's Jordan Love, who scored 40.18 in Week 9 and has 198.02 points this season. That's $145 for a bench guy. He still has $800 left.",
-    "The other bid of the week was smarter. Buccaneer51 paid $32 for Tutu Atwell on Monday night with Puka Nacua and Davante Adams both out for the Rams. I Believe in Love is 5-4 and seventh on points (949.24), so it needs bodies. superdog91 has spent $51 of FAAB all year, and Lemon Squeezy, Mean Machine, Chubb So Big I Waddle and Picken Weiners haven't spent a dollar.",
-    "Free agents worth a look: Pierre Strong Jr. is unrostered with Josh Jacobs out up to three weeks, and Marquise Brown and Dameon Pierce are back in the pool after G8rDuc dropped them Tuesday."
-   ]
-  },
-  {
    "id": "injury",
    "kicker": "Injury Watch",
    "title": "50 Shades of Rae loses Puka Nacua for at least a month, and Mean Machine loses Josh Jacobs",
@@ -112,7 +113,7 @@
    "body": [
     "Puka Nacua has MCL and PCL sprains and turf toe, and Sean McVay said he'll be out at least a month. With the Rams' Week 11 bye, he can't be back before Week 15. That's 175.60 points off superdog91's roster, the second-most of any of his receivers behind Christian Watson (181.90). 50 Shades of Rae is still 7-2 with Watson, Bijan Robinson (182.00) and Bucky Irving (161.10), and plays Young Love Hunters this week as a 99% favorite.",
     "Josh Jacobs has a fractured finger, needs surgery and could miss up to three weeks. BertDirty had him for 20.10 and 23.20 in Weeks 7 and 8 and 0.50 in Week 9. Mean Machine is 4-5 with the fourth-most points per game (136.94) and still has Kyren Williams (159.10) and Quinshon Judkins (92.10). It's an 87% favorite over Prepetente is the GOAT!, which is missing Rhamondre Stevenson.",
-    "The Packers backs on league rosters are Kaleb Johnson (TotesMagoat, 12.80 in Week 9) and MarShawn Lloyd (Bill_Buttlicker), who could return from a knee injury this week. Patrick Mahomes is day-to-day with an elbow strain, Justin Herbert's X-rays were negative and Ladd McConkey is day-to-day with back spasms."
+    "The Packers backs on league rosters are Kaleb Johnson (traded Wednesday from TotesMagoat to BeatULikeABoss, 12.80 in Week 9) and MarShawn Lloyd (Bill_Buttlicker), who is reported good to go this week after missing Week 9 with a knee injury. Patrick Mahomes is day-to-day with an elbow strain, Justin Herbert's X-rays were negative and Ladd McConkey is day-to-day with back spasms."
    ]
   },
   {
@@ -312,7 +313,7 @@
    "own": "TotesMagoat",
    "rec": "8-1",
    "ap": "86-13",
-   "take": "8-1 with the most points (1516.28) and an 86-13 all-play record. 139.06 with Jonathan Taylor at 9.40 and a bench that scored 155.88. Still the one to beat."
+   "take": "8-1 with the most points (1516.28) and an 86-13 all-play record. Sold Kaleb Johnson, a bench back, plus a 2029 3rd for Young Love Hunters' 2029 2nd. Six firsts, two 2029 2nds, and still the one to beat."
   },
   {
    "rk": 2,
@@ -411,7 +412,7 @@
    "own": "BeatULikeABoss",
    "rec": "1-8",
    "ap": "5-94",
-   "take": "1-8 and not 0-8. Paid $145 for Kyle McCord, who starts for Miami Sunday. Jordan Love (198.02 points) is still the starter and the core is still the youngest."
+   "take": "1-8. Bought Kaleb Johnson with Josh Jacobs headed for finger surgery and started him right away. Cost: a 2029 2nd that could be a high one. Youngest core in the league."
   }
  ],
  "teams": [
@@ -438,7 +439,7 @@
    ],
    "body": [
     "TotesMagoat is 8-1 with four titles and 1516.28 points, the most in the league, plus an 86-13 all-play record. Week 9 was a 139.06 to 115.58 win over Picken Weiners, with Christian McCaffrey (22.70) and Brock Bowers (22.30) leading the way. His bench scored 155.88 and wins the Week 9 payout.",
-    "Taxi stashes Makai Lemon and Jonah Coleman are both producing (73.70 and 63.90 points), and TotesMagoat owns six firsts across the next three drafts. This week is a Bears bye for Rome Odunze and Colston Loveland, and he's still a 93% favorite."
+    "Taxi stashes Makai Lemon and Jonah Coleman are both producing (73.70 and 63.90 points), and TotesMagoat owns six firsts across the next three drafts. On Wednesday he sent Kaleb Johnson (23.20 points, all on the bench) and his 2029 3rd to BeatULikeABoss for a 2029 2nd, then added David Njoku (IR, designated to return) and the Chargers defense. This week is a Bears bye for Rome Odunze and Colston Loveland, and he's still a 93% favorite."
    ]
   },
   {
@@ -491,7 +492,8 @@
    ],
    "body": [
     "Yes, this is the newsletter guy's team. Bill_Buttlicker is 6-3 after a 115.58 to 139.06 loss to Lemon Squeezy. Ja'Marr Chase scored 32.50 and Bhayshul Tuten scored 8.90, and Swift, who is on bye this week, scored 3.10 as the starter.",
-    "Week 10 is a Bears bye for D'Andre Swift, who has 153.80 points and is his second-best player. Cam Ward (102.50 points) and Jacoby Brissett (111.20) are both on the roster behind Patrick Mahomes. He owns four firsts and plays Hanging with Hernandez as a 71% favorite."
+    "Week 10 is a Bears bye for D'Andre Swift, who has 153.80 points and is his second-best player. Cam Ward (102.50 points) and Jacoby Brissett (111.20) are both on the roster behind Patrick Mahomes. He owns four firsts and plays Hanging with Hernandez as a 71% favorite.",
+    "Wednesday: Bill_Buttlicker claimed Colts receiver Ashton Dulin and dropped Elijah Mitchell. MarShawn Lloyd is reported good to go for Week 10 with Josh Jacobs out."
    ]
   },
   {
@@ -717,11 +719,19 @@
    ],
    "body": [
     "BeatULikeABoss is 1-8 and finally on the board, 109.88 to 77.90 over I Believe in Love. Jordan Love scored 40.18, the top starter score of the week. The team still has the lowest points (633.52) and the youngest core (24.7).",
-    "BeatULikeABoss paid $145 for Kyle McCord, who starts for Miami Sunday with Malik Willis on IR. Jordan Love is still the starter. The plan is still a top pick, and the youngest core in the league (24.7) is still the reason to be patient."
+    "BeatULikeABoss paid $145 for Kyle McCord, who starts for Miami Sunday with Malik Willis on IR, and on Wednesday traded his 2029 2nd for Kaleb Johnson, TotesMagoat's 2029 3rd and his own 2029 5th back. Johnson is in the Week 10 lineup with Josh Jacobs headed for finger surgery. Jordan Love is still the starter, and the youngest core in the league (24.7) is still the reason to be patient."
    ]
   }
  ],
  "rumors": [
+  {
+   "src": "Breaking",
+   "t": "TotesMagoat reportedly accepted the Kaleb Johnson trade from inside a vault filled entirely with draft picks, Scrooge McDuck style. He has asked the league office whether a 2029 2nd can be framed. The league office does not frame things."
+  },
+  {
+   "src": "Per league sources",
+   "t": "BeatULikeABoss's cat has reportedly been promoted to general manager after the Kaleb Johnson trade, and is already asking about a 2031 first. The 2031 draft does not exist yet. The cat does not care."
+  },
   {
    "src": "Per league sources",
    "t": "BeatULikeABoss's $145 bid on Kyle McCord was reportedly entered by his cat walking across the keypad. The cat has also placed a $1 bid on the entire Dolphins practice squad and is expected to win most of it."
@@ -731,20 +741,12 @@
    "t": "RedDevil904 has reportedly asked Sleeper to rename Trevor Have I Ever to 'Kirk Have I Ever' and offered a 2027 third-round pick for the change. He does not own a 2027 third-round pick."
   },
   {
-   "src": "Developing",
-   "t": "TotesMagoat has reportedly filed paperwork to register Lemon Squeezy as a sovereign nation, citing six firsts and a bench that outscored most of the league. The flag is a lemon. The anthem is a Sleeper notification sound."
-  },
-  {
    "src": "Sources say",
    "t": "Bill_Buttlicker has reportedly scheduled a commissioner's hearing on whether Jacoby Brissett becoming a starter counts as 'a plan.' The commissioner presided and ruled that it was always the plan."
   },
   {
    "src": "Per a person familiar",
    "t": "G8rDuc's phone has reportedly been confiscated by the league office after it kept moving J.J. McCarthy into the lineup on its own. The phone denies everything."
-  },
-  {
-   "src": "Unconfirmed",
-   "t": "Buccaneer51 spent $32 on Tutu Atwell and reportedly asked whether that comes with a Rams jersey and parking. It does not. He is appealing to Biscuit the golden retriever, who is still deliberating on last week's case."
   },
   {
    "src": "Rumor mill",
@@ -876,6 +878,14 @@
  },
  "sources": [
   [
+   "Josh Jacobs set for finger surgery, IR a possibility (Fantasy Footballers)",
+   "https://www.thefantasyfootballers.com/news/646836/josh-jacobs-finger-surgery-on-tap-ir-a-possibility/"
+  ],
+  [
+   "David Njoku designated to return from IR (Fantasy Footballers)",
+   "https://www.thefantasyfootballers.com/news/645908/david-njoku-cleared-to-resume-practicing/"
+  ],
+  [
    "Dolphins place Malik Willis on IR; Kyle McCord in line for first start (NFL.com)",
    "https://www.nfl.com/news/dolphins-place-qb-malik-willis-groin-on-injured-reserve-kyle-mccord-in-line-for-first-start"
   ],
@@ -955,14 +965,14 @@
    ]
   },
   {
-   "id": "dd-tre6",
+   "id": "dd-tre7",
    "by": "tre",
    "kicker": "Opinion",
-   "title": "Hanging with Hernandez scored 65.66 and it's not bad luck",
-   "dek": "Bryce Young was on the bench for 20.34 and J.J. McCarthy started.",
+   "title": "TotesMagoat sold a guy he never played. That's how you stay 8‑1",
+   "dek": "Kaleb Johnson started zero games for Lemon Squeezy. Now he's a 2029 2nd.",
    "body": [
-    "G8rDuc started J.J. McCarthy for 7.28 and left Bryce Young's 20.34 on the bench. He also started Derrick Henry (5.58) and Kyle Monangai (0.00) and lost to 50 Shades of Rae by 137.60. That isn't variance. That's a lineup.",
-    "Hanging with Hernandez is 2-7, owns no 2027 picks in the first three rounds and has Travis Kelce, who is 37, as a top-five scorer. Pick a direction. You're not going to coach your way out of this."
+    "Kaleb Johnson was on Lemon Squeezy's roster for nine weeks and started zero times. 23.20 points, all bench. Then Josh Jacobs breaks a finger, Johnson gets 14 carries and a touchdown, and TotesMagoat sells him the same week. That's not luck. That's knowing what you have.",
+    "BeatULikeABoss, I don't hate it. You're 1-8, he's 23, and you put him in the lineup right away. But you paid with your own 2029 2nd, and your team has been bad enough this year that somebody's going to circle that pick. Win some games so it's a late one. That's the whole job now."
    ]
   },
   {
@@ -978,14 +988,14 @@
    ]
   },
   {
-   "id": "dd-gary6",
+   "id": "dd-gary7",
    "by": "gary",
    "kicker": "Analytics",
-   "title": "A 0.48-point game is 0.5% of the winner's score, which my model calls a tie",
-   "dek": "Prepetente is the GOAT! won 95.78 to 95.30 and my spreadsheet is furious.",
+   "title": "55% of Kaleb Johnson's season came in one week, so my model says he's 55% sold",
+   "dek": "23.20 points, nine weeks, zero starts, one trade.",
    "body": [
-    "Prepetente is the GOAT! scored 95.78. The margin was 0.48, which is 0.50% of that score. My 'Photo Finish Index' calls anything under 1% a tie and awards both teams a win, which is why my spreadsheet shows seven wins in a six-game week.",
-    "50 Shades of Rae scored 203.26 and Hanging with Hernandez scored 65.66. Divide one by the other and you get 3.10, which my model calls 'the Hernandez Ratio.' I made that up. It still doesn't mean anything."
+    "Kaleb Johnson scored 12.80 of his 23.20 points in Week 9. That's 55.2% of his season in 11.1% of the weeks, which my 'Concentration Coefficient' rates as 5.0, the highest number I've ever made up. He also scored -0.20 in Week 6, which means at one point he owed Lemon Squeezy points.",
+    "TotesMagoat now owns two 2029 2nds and six firsts across the next three drafts. Young Love Hunters is 1-8 with 633.52 points, or 70.39 per game, which my model converts to a 'Pick Pedigree Score' of 1-8. That's just the record again. I'm told the pick is going to be good, and so is my spreadsheet."
    ]
   }
  ],
@@ -1523,7 +1533,7 @@
     [
      "1, 1 (BertDirty), 1 (G8rDuc), 2, 2 (Bill_Buttlicker), 2 (ChuckJ10), 2 (G8rDuc), 2 (MakeItRains), 3 (Buccaneer51), 3 (RedDevil904)",
      "1, 1 (ChuckJ10), 2, 2 (BertDirty), 2 (Buccaneer51)",
-     "1, 2, 3"
+     "1, 2, 2 (BeatULikeABoss)"
     ],
     "6"
    ],
@@ -1553,7 +1563,7 @@
     [
      "1, 2 (Buccaneer51), 2 (Marco_Polo), 2 (superdog91), 3 (Bill_Buttlicker), 3 (ChuckJ10), 3 (G8rDuc), 3 (Marco_Polo)",
      "1, 2, 2 (Bill_Buttlicker), 2 (G8rDuc), 3",
-     "1, 2, 3"
+     "1, 3, 3 (TotesMagoat)"
     ],
     "3"
    ],
@@ -1734,7 +1744,7 @@
     "1-8",
     "24.7",
     "Rebuild",
-    "Youngest core and eight 2027 picks. Paid $145 for Kyle McCord. The plan is still a top pick."
+    "Youngest core and eight 2027 picks in the first three rounds. Paid $145 for Kyle McCord and a 2029 2nd for Kaleb Johnson. The plan is still a top pick."
    ]
   ],
   "taxiNote": "Five taxi spots per team. These are the stashes worth watching.",
@@ -8446,6 +8456,25 @@
       "BeatULikeABoss",
       [
        "Adonai Mitchell"
+      ]
+     ]
+    ]
+   },
+   {
+    "d": "2026-11-11",
+    "sides": [
+     [
+      "BeatULikeABoss",
+      [
+       "Kaleb Johnson",
+       "2029 R3 (TotesMagoat's)",
+       "2029 R5 (his own, back)"
+      ]
+     ],
+     [
+      "TotesMagoat",
+      [
+       "2029 R2 (BeatULikeABoss's)"
       ]
      ]
     ]
