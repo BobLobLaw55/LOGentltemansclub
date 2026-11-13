@@ -1,5 +1,5 @@
 {
- "updated": "Thursday, Nov 12, 2026 · 6:30 AM ET",
+ "updated": "Friday, Nov 13, 2026 · 6:30 AM ET",
  "week": 10,
  "ticker": [
   [
@@ -41,47 +41,59 @@
  ],
  "wire": [
   {
+   "t": "Thursday night: Commanders 24, Giants 21. Isaiah Likely caught 9 balls for 127 yards and a 66-yard touchdown for 28.70 in superdog91's lineup, Cam Skattebo scored twice for 27.20 for Buccaneer51, and Stefon Diggs caught the 32-yard winner for 20.30 for Bill_Buttlicker. Jayden Daniels scored 20.76 on Marco_Polo's bench behind Brock Purdy.",
+   "src": "ESPN",
+   "url": "http://www.espn.com/nfl/recap?gameId=401873052"
+  },
+  {
+   "t": "The Rams put Puka Nacua on injured reserve Thursday after saying Wednesday they wouldn't. He sits out at least four games: at Arizona, Green Bay, Kansas City and at San Francisco. superdog91 owns Nacua (175.60 points); ChuckJ10 owns Davante Adams, also on Rams IR.",
+   "src": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50466270/rams-wide-receiver-puka-nacua-ir-knee-toe-injuries"
+  },
+  {
+   "t": "Fernando Mendoza makes his first NFL start Sunday against Seattle after the Raiders traded Kirk Cousins. superdog91 rosters Mendoza (2.22 points so far) as a backup to Josh Allen. TotesMagoat (Brock Bowers) and MakeItRains (Ashton Jeanty) get a rookie quarterback.",
+   "src": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50462155/raiders-starting-fernando-mendoza-plan-decision-graziano"
+  },
+  {
+   "t": "Kirk Cousins took his first full practice back with the Vikings Thursday and is expected to start Sunday at Green Bay. RedDevil904 owns Cousins (177.30 points) but has Trevor Lawrence in the Week 10 lineup. TotesMagoat owns Justin Jefferson; Bill_Buttlicker owns Jordan Addison.",
+   "src": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50466164/vikings-hyped-welcome-back-leader-kirk-cousins-1st-day-practice"
+  },
+  {
+   "t": "Patriots-Lions in Munich: Rhamondre Stevenson (Marco_Polo) is expected to miss with a knee injury and TreVeyon Henderson (RobMeyers) is out. Corey Kiner, in BeatULikeABoss's lineup, could lead the backfield. Jets WR Garrett Wilson (TotesMagoat) is questionable coming out of concussion protocol.",
+   "src": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50453355/week-10-picks-predictions-schedule-fantasy-odds-2026"
+  },
+  {
+   "t": "Jacoby Brissett says he's in a 'crash course' for Monday night against the 0-8 Chargers as the Ravens' fourth starting quarterback. Bill_Buttlicker owns Brissett (111.16 points) behind Patrick Mahomes.",
+   "src": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50464938/ravens-qb-brissett-immersed-crash-course-chargers"
+  },
+  {
    "t": "First league trade since Sept. 17: TotesMagoat sent Kaleb Johnson and his 2029 3rd to BeatULikeABoss for BeatULikeABoss's 2029 2nd. BeatULikeABoss also got his own 2029 5th back. Johnson has 23.20 points this season, all of them on Lemon Squeezy's bench, and is already in Young Love Hunters' Week 10 lineup.",
    "src": "League transactions",
    "url": "https://sleeper.com/leagues/1313296545755435008"
   },
   {
-   "t": "Josh Jacobs is having surgery on a fractured ring finger, with reports ranging from out indefinitely to a maximum of three weeks. Kaleb Johnson ran 14 times for 68 yards and a touchdown in Week 9, and MarShawn Lloyd (Bill_Buttlicker) is reported good to go for Sunday against the Vikings. BertDirty owns Jacobs.",
-   "src": "Fantasy Footballers",
-   "url": "https://www.thefantasyfootballers.com/news/646836/josh-jacobs-finger-surgery-on-tap-ir-a-possibility/"
-  },
-  {
-   "t": "TotesMagoat added David Njoku and the Chargers defense Wednesday night. Njoku is on IR with a fibula injury and was designated to return on Nov. 4, which opened his 21-day practice window. Also Wednesday: BeatULikeABoss dropped the Commanders defense, and Bill_Buttlicker claimed Colts receiver Ashton Dulin and dropped Elijah Mitchell (13.30 points in two weeks on the roster).",
-   "src": "Fantasy Footballers",
-   "url": "https://www.thefantasyfootballers.com/news/645908/david-njoku-cleared-to-resume-practicing/"
-  },
-  {
-   "t": "The Ravens traded for Jacoby Brissett and he's expected to start Monday night against the Chargers with Lamar Jackson on IR. Bill_Buttlicker owns Brissett (111.16 points this season) as the backup to Patrick Mahomes. RedDevil904 owns Jackson (84.08 points).",
-   "src": "Baltimore Ravens",
-   "url": "https://www.baltimoreravens.com/news/jacoby-brissett-ravens-trade-quarterback-cardinals-2026"
-  },
-  {
-   "t": "The Vikings got Kirk Cousins from the Raiders for a 2027 third at the deadline, and he's likely to start soon if not right away. RedDevil904 owns Cousins (177.30 points). ChuckJ10 owns Kyler Murray, who is week-to-week with a hamstring strain.",
-   "src": "NBC Sports",
-   "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-10/vikings-bring-back-kirk-cousins-for-third-rounder"
-  },
-  {
    "t": "Malik Willis went to IR with a groin injury and Kyle McCord is in line for his first NFL start Sunday at Indianapolis. BeatULikeABoss owns Willis and claimed McCord for $145 of FAAB on Tuesday night.",
    "src": "NFL.com",
    "url": "https://www.nfl.com/news/dolphins-place-qb-malik-willis-groin-on-injured-reserve-kyle-mccord-in-line-for-first-start"
-  },
-  {
-   "t": "Puka Nacua has MCL and PCL sprains plus turf toe, and Sean McVay said he'll be out at least a month. superdog91 owns Nacua, who has 175.60 points this season.",
-   "src": "Yahoo Sports",
-   "url": "https://sports.yahoo.com/articles/rams-lose-puka-nacua-several-220702046.html"
-  },
-  {
-   "t": "Gardner Minshew is feared to have a torn UCL and rookie Carson Beck is expected to start for Arizona. RobMeyers has Beck on his taxi squad.",
-   "src": "Forbes via Yahoo Sports",
-   "url": "https://sports.yahoo.com/articles/week-10-fantasy-football-injury-042150136.html"
   }
  ],
  "stories": [
+  {
+   "id": "tnf10",
+   "kicker": "Thursday Night",
+   "title": "Isaiah Likely drops 28.70 on Thursday and 50 Shades of Rae is already up 28.70 to 12.20",
+   "dek": "Cam Skattebo gives I Believe in Love a 27.20‑0 head start, and Prepetente is the GOAT! has two empty RB slots heading into Sunday.",
+   "body": [
+    "Commanders 24, Giants 21, and the fantasy damage is already on the board. Isaiah Likely caught 9 passes for 127 yards and a 66-yard touchdown from J.J. McCarthy for 28.70, the best score of the night. superdog91 had him at tight end, so 50 Shades of Rae (7-2) leads Young Love Hunters 28.70 to 12.20 before Sunday even starts. BeatULikeABoss got 12.20 from Antonio Williams and left the Giants defense (5.00) on the bench. That's 1-8 math. The line was 99% before kickoff and Thursday did nothing to change it.",
+    "Cam Skattebo ran for two touchdowns and 27.20 points, so I Believe in Love leads Ceedees ships coming! 🏆 27.20 to 0.00. Buccaneer51 needs all of it. ChuckJ10 is still a 95% favorite with Kenneth Walker III, CeeDee Lamb and Trey McBride going Sunday. Over in my game, Stefon Diggs caught the 32-yard winner with 57 seconds left for 20.30, so Picken Weiners leads Hanging with Hernandez 20.30 to 0.00. G8rDuc had McCarthy (18.12) on the bench, and before you yell: Bryce Young has 150.58 points this season and McCarthy has 37.98. That's the right call that looked wrong for one night.",
+    "Same story on Prepetente is the GOAT!. Jayden Daniels threw two picks, still scored 20.76 on Marco_Polo's bench, and Brock Purdy (175.30 points) is the starter. Fine. The real problem is that as of Friday morning both of Marco_Polo's running back slots are empty. Rhamondre Stevenson is expected to miss Munich with a knee injury, J.K. Dobbins is on a Broncos bye, Sean Tucker is on a Buccaneers bye and Brian Robinson Jr. is on IR. Nobody's dumb here, the roster is just out of running backs. FAAB is open, Marco_Polo. Mean Machine is an 87% favorite and doesn't need the help.",
+    "Lemon Squeezy got 7.40 from Malik Nabers on Thursday, which is the only thing TotesMagoat has done wrong this month. The Week 10 payout is the Highest-Scoring Receiver, and Likely leads it at 28.70 over Diggs (20.30). Somebody on Sunday has to beat a tight end, which is a sentence I never thought this league would need."
+   ]
+  },
   {
    "id": "trade1112",
    "kicker": "Trade Alert",
@@ -95,36 +107,26 @@
    ]
   },
   {
+   "id": "injury",
+   "kicker": "Injury Watch",
+   "title": "The Rams put Puka Nacua on IR, and 50 Shades of Rae's rookie backup is now a starter",
+   "dek": "superdog91 is 7‑2, loses Nacua for at least four games, and somehow gains Fernando Mendoza.",
+   "body": [
+    "The Rams changed course Thursday and put Puka Nacua on injured reserve so they could sign Brennan Presley. He sits out at least four games: at Arizona this week, then Green Bay, Kansas City and at San Francisco, with the Week 11 bye in there too. That's 175.60 points off superdog91's roster, second among his receivers behind Christian Watson (181.90). Davante Adams, ChuckJ10's receiver, is also on Rams IR with a hamstring.",
+    "The weird part: superdog91 also owns Fernando Mendoza, the first pick in the 2026 NFL Draft, who starts Sunday against Seattle's league-best pass defense after the Raiders traded Kirk Cousins. Mendoza has 2.22 fantasy points this season and is Josh Allen's backup, so nothing changes this week. In dynasty, a 50 Shades of Rae roster with four firsts just got a starting rookie quarterback for free. The rich get richer, part 400.",
+    "Josh Jacobs had surgery on a fractured finger, with reports ranging from out indefinitely to a maximum of three weeks. BertDirty is 4-5 with the fourth-most points per game (136.94) and Mean Machine is still an 87% favorite over Prepetente is the GOAT!. Kaleb Johnson, traded Wednesday to BeatULikeABoss, and MarShawn Lloyd (Bill_Buttlicker) are the Packers backs to watch Sunday against the Vikings.",
+    "Elsewhere: Rhamondre Stevenson (Marco_Polo) is expected to miss Sunday in Munich and TreVeyon Henderson (RobMeyers) is out. Garrett Wilson (TotesMagoat) is questionable coming out of concussion protocol. Kyle McCord starts for Miami, Carson Beck starts for Arizona from RobMeyers' taxi squad, and Jacoby Brissett starts Monday night for the Ravens."
+   ]
+  },
+  {
    "id": "deadline",
    "kicker": "Deadline Fallout",
    "title": "The NFL trade deadline just rewrote three quarterback rooms in this league",
-   "dek": "Jacoby Brissett is a Raven, Kirk Cousins is a Viking again, and Kyle McCord cost $145.",
+   "dek": "Jacoby Brissett is a Raven, Kirk Cousins is a Viking again, Fernando Mendoza is a starter and Kyle McCord cost $145.",
    "body": [
     "The Ravens traded for Jacoby Brissett with Lamar Jackson on IR, and Brissett is expected to start Monday night against the Chargers. Bill_Buttlicker owns him as the backup to Patrick Mahomes, who is day-to-day with an elbow strain and expected to play at Atlanta. So the commissioner's QB2 is now an actual NFL starter. I'd like to say that was the plan. It was not the plan. RedDevil904 owns Jackson (84.08 points) and gets nothing out of this except a reason to start Kirk Cousins.",
     "Speaking of Cousins: the Vikings sent the Raiders a 2027 third for him at the deadline, and he's likely to start soon if not right away. RedDevil904 has him at 177.30 points this season, and Trevor Have I Ever is 5-4 with no 2027 first, second or third. Cousins is 38. All-In doesn't mean what it used to. ChuckJ10 owns Kyler Murray, who is week-to-week with a hamstring strain, so the Vikings job he'd come back to now has Cousins in it.",
-    "In Miami, Malik Willis went to IR and Kyle McCord gets his first NFL start Sunday at Indianapolis. BeatULikeABoss owns Willis and paid $145 of FAAB Tuesday night for McCord. Also moved at the deadline: Keenan Allen (TotesMagoat) to the 49ers and Josh Downs (G8rDuc) to the Chiefs. Week 10 lines haven't moved: Lemon Squeezy 93%, 50 Shades of Rae 99%, Ceedees ships coming! 🏆 95%, Mean Machine 87%, Trevor Have I Ever 74% and Picken Weiners 71%."
-   ]
-  },
-  {
-   "id": "injury",
-   "kicker": "Injury Watch",
-   "title": "50 Shades of Rae loses Puka Nacua for at least a month, and Mean Machine loses Josh Jacobs",
-   "dek": "superdog91 is still 7‑2 and a 99% favorite. BertDirty is 4‑5 and needs a running back.",
-   "body": [
-    "Puka Nacua has MCL and PCL sprains and turf toe, and Sean McVay said he'll be out at least a month. With the Rams' Week 11 bye, he can't be back before Week 15. That's 175.60 points off superdog91's roster, the second-most of any of his receivers behind Christian Watson (181.90). 50 Shades of Rae is still 7-2 with Watson, Bijan Robinson (182.00) and Bucky Irving (161.10), and plays Young Love Hunters this week as a 99% favorite.",
-    "Josh Jacobs has a fractured finger, needs surgery and could miss up to three weeks. BertDirty had him for 20.10 and 23.20 in Weeks 7 and 8 and 0.50 in Week 9. Mean Machine is 4-5 with the fourth-most points per game (136.94) and still has Kyren Williams (159.10) and Quinshon Judkins (92.10). It's an 87% favorite over Prepetente is the GOAT!, which is missing Rhamondre Stevenson.",
-    "The Packers backs on league rosters are Kaleb Johnson (traded Wednesday from TotesMagoat to BeatULikeABoss, 12.80 in Week 9) and MarShawn Lloyd (Bill_Buttlicker), who is reported good to go this week after missing Week 9 with a knee injury. Patrick Mahomes is day-to-day with an elbow strain, Justin Herbert's X-rays were negative and Ladd McConkey is day-to-day with back spasms."
-   ]
-  },
-  {
-   "id": "recap9",
-   "kicker": "Week 9 Recap",
-   "title": "Prepetente is the GOAT! beats Hurts So Good by 0.48, and 50 Shades of Rae drops 203.26",
-   "dek": "The closest game of the year, the biggest blowout of the year (+137.60), and a winless team that finally isn't.",
-   "body": [
-    "Prepetente is the GOAT! 95.78, Hurts So Good 95.30. That's a 0.48-point game, the closest of 2026 (the old mark was 0.94 in Week 3). Brock Purdy gave Marco_Polo 25.28 at quarterback, and he still left Kayshon Boutte's 29.50 on the bench. MakeItRains left Darren Waller's 23.00 on the pine while Greg Dulcich started at FLEX for 3.40. Either of those moves flips a game decided by less than a point, and one of them did flip it.",
-    "50 Shades of Rae hung 203.26 on Hanging with Hernandez, who scored 65.66, the lowest score of the week. The 137.60-point margin is the biggest of the season (the old mark was 113.42 in Week 7). Puka Nacua had 35.00, Christian Watson 31.10, Bucky Irving 28.50 and Bijan Robinson 26.70 for superdog91, who is 7-2 and second in points.",
-    "Elsewhere: Lemon Squeezy beat Picken Weiners 139.06 to 115.58 and is 8-1, Ceedees ships coming! 🏆 beat Trevor Have I Ever 165.80 to 137.98 on Kenneth Walker III (36.30) and CeeDee Lamb (35.50), Mean Machine beat Chubb So Big I Waddle 119.24 to 97.06 behind Joe Burrow's 31.54, and Young Love Hunters got its first win. TotesMagoat's 155.88 bench total takes the Week 9 bench payout."
+    "In Miami, Malik Willis went to IR and Kyle McCord will start for at least the next four weeks, beginning Sunday at Indianapolis. BeatULikeABoss owns Willis and paid $145 of FAAB Tuesday night for McCord. In Las Vegas, the Cousins trade made Fernando Mendoza (superdog91) the starter. Also moved at the deadline: Keenan Allen (TotesMagoat) to the 49ers and Josh Downs (G8rDuc) to the Chiefs. Week 10 lines haven't moved: Lemon Squeezy 93%, 50 Shades of Rae 99%, Ceedees ships coming! 🏆 95%, Mean Machine 87%, Trevor Have I Ever 74% and Picken Weiners 71%."
    ]
   }
  ],
@@ -322,7 +324,7 @@
    "own": "superdog91",
    "rec": "7-2",
    "ap": "75-24",
-   "take": "7-2 after 203.26, the top score of Week 9. Puka Nacua (175.60 points) is out at least a month, but Watson, Robinson and Irving are still here. Four firsts."
+   "take": "7-2 and up 28.70 to 12.20 after Isaiah Likely's Thursday night. Puka Nacua (175.60 points) went on IR for at least four games, but Watson, Robinson and Irving are still here. Four firsts, and backup QB Fernando Mendoza is now a starter."
   },
   {
    "rk": 3,
@@ -376,7 +378,7 @@
    "own": "Buccaneer51",
    "rec": "5-4",
    "ap": "34-65",
-   "take": "5-4, but lost 109.88 to 77.90 to the 0-8 team and sits seventh on points (949.24). Left 38.18 on the bench."
+   "take": "5-4, lost 109.88 to 77.90 to the 0-8 team, and sits seventh on points (949.24). Up 27.20 to 0.00 on Ceedees ships coming! 🏆 thanks to Cam Skattebo's two Thursday touchdowns."
   },
   {
    "rk": 9,
@@ -385,7 +387,7 @@
    "own": "Marco_Polo",
    "rec": "3-6",
    "ap": "24-75",
-   "take": "3-6 but won the 0.48-point game and has Purdy (175.30 points) and Daniels. Left 50.10 on the bench, the most in the league."
+   "take": "3-6, Purdy (175.30 points) and Daniels (20.76 on the bench Thursday). Both RB slots are empty for now with Stevenson hurt and Dobbins and Tucker on byes."
   },
   {
    "rk": 10,
@@ -432,9 +434,9 @@
     "Swift kick in the Lance (2022, champion)",
     "Taylor (&) Swift (2021, champion)"
    ],
-   "w7": "vs. Hurts So Good · Lemon Squeezy 93% favorite (by 45)",
+   "w7": "vs. Hurts So Good · Lemon Squeezy 93% favorite (by 45) · leads 7.40 to 0.00 after Thursday",
    "inj": [
-    "Garrett Wilson (concussion protocol)",
+    "Garrett Wilson (questionable, concussion)",
     "Bears bye: Rome Odunze, Colston Loveland"
    ],
    "body": [
@@ -464,7 +466,7 @@
    ],
    "body": [
     "RedDevil904 has never made the playoffs in this league. Eight seasons, zero trips, and he's 5-4 with three straight losses. Matthew Golden scored 34.40 in Week 9 and the team still lost 165.80 to 137.98.",
-    "Kirk Cousins went to the Vikings for a 2027 third at the NFL deadline and is likely to start soon, which matters with Lamar Jackson on IR. RedDevil904 has no 2027 first, second or third, so this roster has to win now with a 38-year-old quarterback."
+    "Kirk Cousins took his first full practice back with the Vikings Thursday and is expected to start at Green Bay, which matters with Lamar Jackson on IR. Trevor Lawrence is in the Week 10 lineup for now. RedDevil904 has no 2027 first, second or third, so this roster has to win now."
    ]
   },
   {
@@ -483,7 +485,7 @@
     "Fuck Nick Folk (2022)",
     "Passion of the Clitoris (2021)"
    ],
-   "w7": "vs. Hanging with Hernandez · Picken Weiners 71% favorite (by 17)",
+   "w7": "vs. Hanging with Hernandez · Picken Weiners 71% favorite (by 17) · leads 20.30 to 0.00 after Thursday",
    "inj": [
     "D'Andre Swift (Bears bye)",
     "Patrick Mahomes (day-to-day, elbow)",
@@ -493,7 +495,7 @@
    "body": [
     "Yes, this is the newsletter guy's team. Bill_Buttlicker is 6-3 after a 115.58 to 139.06 loss to Lemon Squeezy. Ja'Marr Chase scored 32.50 and Bhayshul Tuten scored 8.90, and Swift, who is on bye this week, scored 3.10 as the starter.",
     "Week 10 is a Bears bye for D'Andre Swift, who has 153.80 points and is his second-best player. Cam Ward (102.50 points) and Jacoby Brissett (111.20) are both on the roster behind Patrick Mahomes. He owns four firsts and plays Hanging with Hernandez as a 71% favorite.",
-    "Wednesday: Bill_Buttlicker claimed Colts receiver Ashton Dulin and dropped Elijah Mitchell. MarShawn Lloyd is reported good to go for Week 10 with Josh Jacobs out."
+    "Wednesday: Bill_Buttlicker claimed Colts receiver Ashton Dulin and dropped Elijah Mitchell. Thursday: Stefon Diggs caught the game-winner for 20.30, so Picken Weiners leads Hanging with Hernandez 20.30 to 0.00. Jordan Addison gets Kirk Cousins back at quarterback Sunday, and Jacoby Brissett starts Monday night for the Ravens."
    ]
   },
   {
@@ -513,15 +515,15 @@
     "Rae Day (2020, champion)",
     "50 Shades of RAE (2019, champion)"
    ],
-   "w7": "vs. Young Love Hunters · 50 Shades of Rae 99% favorite (by 85)",
+   "w7": "vs. Young Love Hunters · 50 Shades of Rae 99% favorite (by 85) · leads 28.70 to 12.20 after Thursday",
    "inj": [
-    "Puka Nacua (MCL/PCL sprain, out at least a month)",
+    "Puka Nacua (IR, knee/toe, at least four games)",
     "Buccaneers bye: Bucky Irving",
     "Broncos bye: DEN defense"
    ],
    "body": [
     "superdog91 is 7-2 with three titles and the second-most points in the league (1487.42). Week 9 was 203.26 against Hanging with Hernandez, the top score of the week and a 137.60-point blowout. Puka Nacua had 35.00, Christian Watson 31.10, Bucky Irving 28.50 and Bijan Robinson 26.70.",
-    "Four firsts and one of the youngest cores in the league. This week costs him Bucky Irving (Buccaneers bye) and the Broncos defense, and Puka Nacua is getting a knee checked, but Young Love Hunters is the opponent and he's a 99% favorite."
+    "Four firsts and one of the youngest cores in the league. Puka Nacua went on IR Thursday and misses at least four games, and Bucky Irving and the Broncos defense are on byes, but Isaiah Likely scored 28.70 on Thursday night and Young Love Hunters trails 28.70 to 12.20. Bonus: backup quarterback Fernando Mendoza starts Sunday for the Raiders."
    ]
   },
   {
@@ -539,7 +541,7 @@
     "Times Up! (2022, third place)",
     "LetsGetPhyZekiel!!! (2019, third place)"
    ],
-   "w7": "vs. I Believe in Love · Ceedees ships coming! 🏆 95% favorite (by 50)",
+   "w7": "vs. I Believe in Love · Ceedees ships coming! 🏆 95% favorite (by 50) · trails 27.20 to 0.00 after Thursday",
    "inj": [
     "Michael Wilson (season-ending, neck)",
     "Davante Adams (IR)",
@@ -566,7 +568,7 @@
     "Show us Your Pitts (2021)",
     "Vick in a Box (2020, third place)"
    ],
-   "w7": "vs. Lemon Squeezy · Lemon Squeezy 93% favorite (by 45)",
+   "w7": "vs. Lemon Squeezy · Lemon Squeezy 93% favorite (by 45) · trails 7.40 to 0.00 after Thursday",
    "inj": [
     "Jalen Hurts (IR)",
     "Michael Pittman Jr. (IR)",
@@ -594,7 +596,8 @@
    "w7": "vs. Trevor Have I Ever · Trevor Have I Ever 74% favorite (by 20)",
    "inj": [
     "Jaylen Waddle (concussion protocol, Broncos bye)",
-    "Caleb Williams (Bears bye)"
+    "Caleb Williams (Bears bye)",
+    "TreVeyon Henderson (out)"
    ],
    "body": [
     "RobMeyers is 3-6 with four straight losses after a 97.06 to 119.24 loss to Mean Machine. Shedeur Sanders scored 24.68 on the bench while Caleb Williams started for 13.76. 25.02 left on the bench.",
@@ -611,7 +614,7 @@
    "since": "2026",
    "titles": 0,
    "past": [],
-   "w7": "vs. Ceedees ships coming! 🏆 · Ceedees ships coming! 🏆 95% favorite (by 50)",
+   "w7": "vs. Ceedees ships coming! 🏆 · Ceedees ships coming! 🏆 95% favorite (by 50) · leads 27.20 to 0.00 after Thursday",
    "inj": [
     "Jeremiyah Love (IR)",
     "RJ Harvey (IR)",
@@ -619,7 +622,7 @@
    ],
    "body": [
     "Buccaneer51 is 5-4 after losing 109.88 to 77.90 to a team that was 0-8. Jared Goff scored 5.30 and Ladd McConkey scored 0.00, while SF defense (19.00) and Bo Nix (15.68) sat on the bench. 38.18 left on the bench.",
-    "Matthew Stafford is 38 and Jared Goff is 32, with Bo Nix (26) the only one of the three under 30. Jeremiyah Love (21) is on IR for at least four games, and the team's 949.24 points are the fewest of any winning team. Ceedees ships coming! 🏆 is a 95% favorite this week."
+    "Matthew Stafford is 38 and Jared Goff is 32, with Bo Nix (26) the only one of the three under 30. Jeremiyah Love (21) is on IR for at least four games, and the team's 949.24 points are the fewest of any winning team. Ceedees ships coming! 🏆 is a 95% favorite this week. Cam Skattebo's two touchdowns Thursday (27.20) have Buccaneer51 up 27.20 to 0.00."
    ]
   },
   {
@@ -637,14 +640,14 @@
     "Someone's gotta do it (2023, 1-13)",
     "Why do I torture myself (2020, 1-12)"
    ],
-   "w7": "vs. Picken Weiners · Picken Weiners 71% favorite (by 17)",
+   "w7": "vs. Picken Weiners · Picken Weiners 71% favorite (by 17) · trails 20.30 to 0.00 after Thursday",
    "inj": [
     "Kyle Monangai (turf toe)",
     "Eagles, Bears and Buccaneers byes: DeVonta Smith, Kyle Monangai, Kenny Gainwell"
    ],
    "body": [
     "G8rDuc is 2-7 and scored 65.66, the lowest of the week, in a 203.26-point loss to 50 Shades of Rae. Bryce Young scored 20.34 on the bench while J.J. McCarthy started for 7.28. 40.78 left on the bench.",
-    "Travis Kelce is 37 and Derrick Henry is 32. G8rDuc has no 2027 picks in the first three rounds and holds one 2028 first. The Eagles, Bears and Buccaneers all have the week off, which takes DeVonta Smith, Kyle Monangai and Kenny Gainwell out of the mix."
+    "Travis Kelce is 37 and Derrick Henry is 32. G8rDuc has no 2027 picks in the first three rounds and holds one 2028 first. The Eagles, Bears and Buccaneers all have the week off, which takes DeVonta Smith, Kyle Monangai and Kenny Gainwell out of the mix. J.J. McCarthy scored 18.12 Thursday on the bench, but Bryce Young (150.58 points) was the right start."
    ]
   },
   {
@@ -663,13 +666,14 @@
    ],
    "w7": "vs. Mean Machine · Mean Machine 87% favorite (by 34.5)",
    "inj": [
-    "Rhamondre Stevenson (out, knee)",
+    "Rhamondre Stevenson (knee, expected to miss)",
     "Xavier Worthy (out, hamstring)",
-    "Bears bye: CHI defense"
+    "Bears bye: CHI defense",
+    "Broncos/Buccaneers byes: J.K. Dobbins, Sean Tucker"
    ],
    "body": [
     "Marco_Polo is 3-6 and won 95.78 to 95.30, a 0.48-point game, the closest of the year. Brock Purdy scored 25.28. Kayshon Boutte put up 29.50 on the bench and the 50.10 left there is the most in the league.",
-    "Brock Purdy (175.30 points) and Jayden Daniels (118.20) give him two young QBs and the best quarterback room of any rebuilder. Mean Machine is the opponent as an 87% favorite."
+    "Brock Purdy (175.30 points) and Jayden Daniels (118.20) give him two young QBs and the best quarterback room of any rebuilder. Daniels scored 20.76 on the bench Thursday. As of Friday morning both RB slots are empty, with Stevenson hurt and Dobbins and Tucker on byes. Mean Machine is an 87% favorite."
    ]
   },
   {
@@ -710,7 +714,7 @@
    "past": [
     "Mayfield Loves Mayhem (2025, 3-11)"
    ],
-   "w7": "vs. 50 Shades of Rae · 50 Shades of Rae 99% favorite (by 85)",
+   "w7": "vs. 50 Shades of Rae · 50 Shades of Rae 99% favorite (by 85) · trails 12.20 to 28.70 after Thursday",
    "inj": [
     "Malik Willis (IR, groin)",
     "Jalen McMillan (IR)",
@@ -719,42 +723,42 @@
    ],
    "body": [
     "BeatULikeABoss is 1-8 and finally on the board, 109.88 to 77.90 over I Believe in Love. Jordan Love scored 40.18, the top starter score of the week. The team still has the lowest points (633.52) and the youngest core (24.7).",
-    "BeatULikeABoss paid $145 for Kyle McCord, who starts for Miami Sunday with Malik Willis on IR, and on Wednesday traded his 2029 2nd for Kaleb Johnson, TotesMagoat's 2029 3rd and his own 2029 5th back. Johnson is in the Week 10 lineup with Josh Jacobs headed for finger surgery. Jordan Love is still the starter, and the youngest core in the league (24.7) is still the reason to be patient."
+    "BeatULikeABoss paid $145 for Kyle McCord, who starts for Miami Sunday with Malik Willis on IR, and on Wednesday traded his 2029 2nd for Kaleb Johnson, TotesMagoat's 2029 3rd and his own 2029 5th back. Johnson is in the Week 10 lineup with Josh Jacobs headed for finger surgery. Jordan Love is still the starter, and the youngest core in the league (24.7) is still the reason to be patient. Antonio Williams scored 12.20 Thursday; Corey Kiner could lead the Patriots backfield in Munich."
    ]
   }
  ],
  "rumors": [
   {
    "src": "Breaking",
-   "t": "TotesMagoat reportedly accepted the Kaleb Johnson trade from inside a vault filled entirely with draft picks, Scrooge McDuck style. He has asked the league office whether a 2029 2nd can be framed. The league office does not frame things."
+   "t": "Jameis Winston reportedly tried his 'Who Let the Dogs Out' fourth-down bit on BeatULikeABoss's cat Thursday night. The cat jumped offsides, declined the penalty and submitted another $145 bid on Kyle McCord."
   },
   {
    "src": "Per league sources",
-   "t": "BeatULikeABoss's cat has reportedly been promoted to general manager after the Kaleb Johnson trade, and is already asking about a 2031 first. The 2031 draft does not exist yet. The cat does not care."
-  },
-  {
-   "src": "Per league sources",
-   "t": "BeatULikeABoss's $145 bid on Kyle McCord was reportedly entered by his cat walking across the keypad. The cat has also placed a $1 bid on the entire Dolphins practice squad and is expected to win most of it."
+   "t": "superdog91 has reportedly asked the league office if he can trade Fernando Mendoza's Heisman for Puka Nacua's knee. The league office explained that's not how knees work. superdog91 asked if it's how Heismans work."
   },
   {
    "src": "Hearing",
-   "t": "RedDevil904 has reportedly asked Sleeper to rename Trevor Have I Ever to 'Kirk Have I Ever' and offered a 2027 third-round pick for the change. He does not own a 2027 third-round pick."
+   "t": "Marco_Polo has reportedly started a GoFundMe for two running backs. The only donation so far is a 2029 3rd from TotesMagoat, who wants it back with interest."
   },
   {
    "src": "Sources say",
-   "t": "Bill_Buttlicker has reportedly scheduled a commissioner's hearing on whether Jacoby Brissett becoming a starter counts as 'a plan.' The commissioner presided and ruled that it was always the plan."
+   "t": "Bill_Buttlicker has reportedly declared Stefon Diggs's 32-yard game-winner 'a commissioner's decision.' He has also declared himself Week 10 Executive of the Year, pending his own review, which he approved."
   },
   {
    "src": "Per a person familiar",
-   "t": "G8rDuc's phone has reportedly been confiscated by the league office after it kept moving J.J. McCarthy into the lineup on its own. The phone denies everything."
+   "t": "RedDevil904 reportedly played Creed's 'Higher' on repeat in his car Thursday to feel closer to Kirk Cousins, then left Cousins on the bench anyway. Trevor Lawrence has been told not to read into it."
   },
   {
    "src": "Rumor mill",
-   "t": "MakeItRains is reportedly petitioning to amend the bylaws so Darren Waller is automatically locked into the FLEX. The bylaws are written on a napkin, and somebody used the napkin."
+   "t": "ChuckJ10 is reportedly appealing Cam Skattebo's second touchdown on the grounds that it happened before Ceedees ships coming! 🏆 had any players play. The appeal was denied because that's how football works."
   },
   {
    "src": "Whispers",
-   "t": "superdog91 has reportedly asked whether the 203.26 from Week 9 can roll over into Week 10 like unused cell phone minutes. The league office said no, then checked whether it actually could."
+   "t": "TotesMagoat has reportedly filed a formal complaint about Malik Nabers's 7.40 with the vault of draft picks. The vault reviewed it and recommended trading Nabers for a 2031 1st, which does not exist."
+  },
+  {
+   "src": "Developing",
+   "t": "G8rDuc reportedly kept J.J. McCarthy on the bench, watched him score 18.12, and then called it 'growth.' Analysts agree it's the most correct thing Hanging with Hernandez has done all year."
   }
  ],
  "trades": [
@@ -857,8 +861,8 @@
     "Lost 109.88 to 77.90 to a team that was 0-8. Buccaneer51 started Ladd McConkey for 0.00 and the Vikings defense for 6.00 and left SF defense (19.00) on the bench."
    ],
    [
-    "Hurts So Good",
-    "Lost by 0.48 with Darren Waller (23.00) on the bench and Greg Dulcich (3.40) starting at FLEX. MakeItRains, one swap."
+    "Prepetente is the GOAT!",
+    "Two empty RB slots as of Friday. Rhamondre Stevenson is hurt and J.K. Dobbins and Sean Tucker are on byes, so it's a roster problem, not a lineup problem. Marco_Polo, the waiver wire is right there. Mean Machine is an 87% favorite and doesn't need the help."
    ]
   ],
   "gfy": [
@@ -868,15 +872,39 @@
    ],
    [
     "50 Shades of Rae",
-    "203.26 and a 137.60-point win. Good for you, superdog91. Nobody asked, but nobody could stop it."
+    "Lost Puka Nacua to IR and immediately got 28.70 from a tight end and a rookie starting quarterback on the bench. Good for you, superdog91. Nobody likes it."
    ],
    [
-    "Picken Weiners",
-    "Bill_Buttlicker's backup quarterback, Jacoby Brissett, is now the Ravens' starter. Good for you, commish. You didn't plan it, but you'll take credit for it."
+    "I Believe in Love",
+    "Cam Skattebo scored twice Thursday and Buccaneer51 leads Ceedees ships coming! 🏆 27.20 to 0.00. Good for you. It's Friday. Enjoy it."
    ]
   ]
  },
  "sources": [
+  [
+   "Commanders rally to beat the Giants 24-21 (ESPN/AP)",
+   "http://www.espn.com/nfl/recap?gameId=401873052"
+  ],
+  [
+   "Rams put Puka Nacua on IR (ESPN)",
+   "https://www.espn.com/nfl/story/_/id/50466270/rams-wide-receiver-puka-nacua-ir-knee-toe-injuries"
+  ],
+  [
+   "Fernando Mendoza and the Raiders' plan (ESPN)",
+   "https://www.espn.com/nfl/story/_/id/50462155/raiders-starting-fernando-mendoza-plan-decision-graziano"
+  ],
+  [
+   "Vikings welcome back Kirk Cousins at practice (ESPN)",
+   "https://www.espn.com/nfl/story/_/id/50466164/vikings-hyped-welcome-back-leader-kirk-cousins-1st-day-practice"
+  ],
+  [
+   "NFL Week 10 preview: picks and fantasy notes (ESPN)",
+   "https://www.espn.com/nfl/story/_/id/50453355/week-10-picks-predictions-schedule-fantasy-odds-2026"
+  ],
+  [
+   "Jacoby Brissett's crash course for the Chargers (ESPN)",
+   "https://www.espn.com/nfl/story/_/id/50464938/ravens-qb-brissett-immersed-crash-course-chargers"
+  ],
   [
    "Josh Jacobs set for finger surgery, IR a possibility (Fantasy Footballers)",
    "https://www.thefantasyfootballers.com/news/646836/josh-jacobs-finger-surgery-on-tap-ir-a-possibility/"
@@ -900,26 +928,6 @@
   [
    "Ravens trading for Jacoby Brissett (Baltimore Ravens)",
    "https://www.baltimoreravens.com/news/jacoby-brissett-ravens-trade-quarterback-cardinals-2026"
-  ],
-  [
-   "Vikings bring back Kirk Cousins (NBC Sports)",
-   "https://www.nbcsports.com/fantasy/football/player-news/2026-11-10/vikings-bring-back-kirk-cousins-for-third-rounder"
-  ],
-  [
-   "Cousins trade and the Week 10 line vs. Packers (SI)",
-   "https://www.si.com/betting/kirk-cousins-trade-improves-vikings-super-bowl-playoff-odds-in-2026-alters-line-vs-packers-in-week-10"
-  ],
-  [
-   "NFL trade deadline tracker 2026 (PrizePicks)",
-   "https://www.prizepicks.com/playbook-article/nfl-trade-deadline-tracker-2026-live-trade-updates-rumors-news"
-  ],
-  [
-   "Week 10 injury report (FantasyPros)",
-   "https://www.fantasypros.com/2026/11/fantasy-football-injury-report-updates-week-10-2026/"
-  ],
-  [
-   "2026 NFL bye weeks (Fox Sports)",
-   "https://www.foxsports.com/stories/nfl/2026-nfl-bye-weeks-schedule-all-32-teams"
   ]
  ],
  "columnists": [
@@ -954,14 +962,15 @@
  ],
  "columns": [
   {
-   "id": "dd-mouth12",
+   "id": "dd-mouth13",
    "by": "mouth",
    "kicker": "Opinion",
-   "title": "KIRK COUSINS IS 38 AND HE'S A VIKING AGAIN!",
-   "dek": "AND SOMEBODY PAID $145 FOR A BACKUP IN A ONE-QB LEAGUE!",
+   "title": "ISAIAH LIKELY 28.70! ON A THURSDAY! FROM A TIGHT END!",
+   "dek": "AND THE TEAM THAT'S 7‑2 GOT A STARTING ROOKIE QUARTERBACK FOR FREE!",
    "body": [
-    "THE VIKINGS GAVE THE RAIDERS A 2027 THIRD FOR KIRK COUSINS! RedDevil904 OWNS HIM! 177.30 POINTS THIS SEASON! 29.18 IN WEEK 8! Trevor Have I Ever IS 5-4 WITH NO 2027 FIRST, NO SECOND AND NO THIRD AND THE WHOLE PLAN IS A 38-YEAR-OLD QUARTERBACK! I LOVE IT! I HATE IT! I CAN'T TELL!",
-    "AND BeatULikeABoss PAID $145 FOR KYLE McCORD! FINE! HE STARTS SUNDAY AT INDY! I GET IT! BUT Young Love Hunters ALREADY HAS JORDAN LOVE AND JORDAN LOVE SCORED 40.18 LAST WEEK! IT'S A ONE-QB LEAGUE! YOU CAN ONLY START ONE OF THEM! WHO'S THE THIRD ONE FOR?! THE CAT?!"
+    "NINE CATCHES! 127 YARDS! A 66-YARD TOUCHDOWN! ISAIAH LIKELY IS ON 50 Shades of Rae! OF COURSE HE IS! superdog91 LOSES PUKA NACUA TO IR ON THURSDAY AFTERNOON AND BY THURSDAY NIGHT HE'S UP 28.70 TO 12.20! THE UNIVERSE IS RIGGED AND IT'S RIGGED FOR superdog91!",
+    "AND THEN! FERNANDO MENDOZA! FIRST PICK IN THE DRAFT! STARTING SUNDAY! WHO OWNS HIM?! superdog91! AS A BACKUP! 2.22 POINTS ALL YEAR! DOESN'T MATTER! DYNASTY! THE RICH TEAM HAS FOUR FIRSTS AND NOW IT HAS A STARTING QUARTERBACK IT WILL NEVER START! I NEED TO LIE DOWN! I'M NOT LYING DOWN! I'M SHOUTING!",
+    "MEANWHILE Prepetente is the GOAT! HAS TWO EMPTY RUNNING BACK SLOTS! ZERO! TWO ZEROES! STEVENSON'S HURT, DOBBINS AND TUCKER ARE ON BYE! IT'S NOT DUMB, IT'S JUST SAD! Marco_Polo! THE WIRE! GO TO THE WIRE! BUY ANYBODY WITH LEGS!"
    ]
   },
   {
@@ -976,15 +985,16 @@
    ]
   },
   {
-   "id": "dd-dale6",
+   "id": "dd-dale7",
    "by": "dale",
    "kicker": "Strategy",
-   "title": "Holden McGroin's Three Rules For Trade Deadline Week",
-   "dek": "The NFL deadline is over. Ours is Week 13. I have a system.",
+   "title": "Holden McGroin's Four Rules After Thursday Night Football",
+   "dek": "One game is a sample size. I've built a whole system on it.",
    "body": [
-    "1. The market price for a backup quarterback is $145. BeatULikeABoss set it Tuesday night with Kyle McCord. That means every backup quarterback in the league is worth $145, and if you have $146 you should bid it on Brady Cook just to be safe.",
-    "2. Buy players the day after they change teams. Josh Downs went to the Chiefs and Keenan Allen went to the 49ers. New teams mean new playbooks, and new playbooks mean nobody has figured out how to stop them yet. Allen is 34, which means he's seen 34 playbooks.",
-    "3. Bench your starter for the guy who hasn't played. Jacoby Brissett scored 0.00 for Bill_Buttlicker in Week 9 and 3.46 in Week 8. That's not a slump. That's a man saving his points for Monday night."
+    "1. Always start the quarterback who scored on Thursday. Jayden Daniels scored 20.76 on Marco_Polo's bench. Brock Purdy has scored 0.00 in Week 10. That's a 20.76-point lead for Daniels, and the math doesn't care that Purdy has 175.30 points this season and hasn't played yet.",
+    "2. Never start a quarterback whose team is about to win. G8rDuc benched J.J. McCarthy and the Giants lost 24-21 anyway. If McCarthy had been in the lineup the Giants would've known they had to try harder. That's called accountability.",
+    "3. Tight ends are wide receivers now. Isaiah Likely (28.70) is leading the Week 10 Highest-Scoring Receiver payout. Going forward I'm starting tight ends at quarterback. My first pick is Travis Kelce, who is 37 and has been throwing in the backyard for years, probably.",
+    "4. Empty roster spots are just players who haven't been named yet. Marco_Polo has two of them at running back this week. Think of the upside. Zero carries means zero fumbles. Every week. Undefeated."
    ]
   },
   {
@@ -1485,7 +1495,7 @@
     "w": 10,
     "c": "Highest-Scoring Receiver",
     "win": "",
-    "detail": "",
+    "detail": "Live: Isaiah Likely (superdog91) leads with 28.70 after Thursday night, ahead of Stefon Diggs (Bill_Buttlicker) at 20.30. Starting WR/TE only.",
     "st": "live"
    },
    {
@@ -1664,7 +1674,7 @@
     "7-2",
     "25.8",
     "Contend",
-    "One of the youngest cores in the league and four firsts. 203.26 this week. Built to last."
+    "One of the youngest cores in the league, four firsts, and Fernando Mendoza on the bench as a starting NFL rookie. Nacua's IR stint doesn't change the window."
    ],
    [
     "Picken Weiners",
@@ -1762,7 +1772,7 @@
    {
     "p": "Carson Beck",
     "tag": "Chubb So Big I Waddle",
-    "t": "23-year-old rookie quarterback on RobMeyers' taxi squad with 0.0 points. Gardner Minshew is feared to have a torn UCL and Beck is expected to start for Arizona."
+    "t": "23-year-old rookie quarterback on RobMeyers' taxi squad with 0.0 points. He makes his first NFL start Sunday at home against the Rams."
    },
    {
     "p": "Jonah Coleman",
