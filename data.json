@@ -1,5 +1,5 @@
 {
- "updated": "Tuesday, Nov 17, 2026 · 6:30 AM ET",
+ "updated": "Wednesday, Nov 18, 2026 · 7:00 AM ET",
  "week": 11,
  "ticker": [
   [
@@ -41,42 +41,59 @@
  ],
  "wire": [
   {
-   "t": "Final: Picken Weiners 208.12, Hanging with Hernandez 85.66. Derrick Henry scored 19.00 on Monday, so the margin settled at 122.46, second-biggest of 2026 behind 50 Shades of Rae's 137.60 in Week 9.",
+   "t": "Waivers cleared overnight: BertDirty paid $200 for Texans running back Emari Demercado, beating Buccaneer51's $81 bid. It's the biggest single bid of the week and the first FAAB Mean Machine has spent all season ($800 left).",
    "src": "League transactions",
    "url": "https://sleeper.com/leagues/1313296545755435008"
   },
   {
-   "t": "Week 10 payout is final: George Pickens, 43.50, for Bill_Buttlicker. Zay Flowers (11.40), Mark Andrews (16.20) and Quentin Johnston (1.60) didn't come close on Monday. The commissioner has now paid himself twice in three weeks.",
+   "t": "Why Demercado: Woody Marks, BertDirty's starter, left Sunday's game with a concussion and is in the protocol. Draft Sharks calls him very unlikely to play Thursday against the Colts on three days' rest, and David Montgomery has missed four straight games with a groin injury.",
+   "src": "Draft Sharks",
+   "url": "https://www.draftsharks.com/fantasy-football-news/84249/emari-demercado-takes-over-after-woody-marks-concussion"
+  },
+  {
+   "t": "BertDirty also put in a $0 claim on Jaylen Wright, the running back Bill_Buttlicker cut Sunday. BeatULikeABoss bid $1 and got him, dropping Roschon Johnson.",
    "src": "League transactions",
    "url": "https://sleeper.com/leagues/1313296545755435008"
   },
   {
-   "t": "Drake Maye hurt his ankle on the Patriots' first drive in Munich and didn't return; Mike Vrabel said more tests are coming. The Patriots are on bye in Week 11. Maye scored 3.02 for TotesMagoat.",
-   "src": "ClutchPoints",
-   "url": "https://clutchpoints.com/nfl/new-england-patriots/patriots-news-drake-maye-injury-severity-unknown-more-tests-come-lions-blowout"
+   "t": "An AP source says Drake Maye's right ankle injury will keep him out indefinitely, and the Patriots are deciding whether he needs surgery. Mike Vrabel: 'I wouldn't imagine him being available when we come out of the bye.' That's TotesMagoat's quarterback; C.J. Stroud starts for Lemon Squeezy.",
+   "src": "AJC / AP",
+   "url": "https://www.ajc.com/news/2026/11/patriots-drake-maye-will-be-sidelined-indefinitely-with-an-ankle-injury-ap-source-says/"
   },
   {
-   "t": "The Chiefs ruled Kenneth Walker III out Saturday with a groin injury from Thursday's practice. ChuckJ10 swapped him out in time. Rookie Emmett Johnson took the carries and scored 35.10 for Buccaneer51.",
-   "src": "KY3 / AP",
-   "url": "https://www.ky3.com/2026/11/15/chiefs-rule-out-kenneth-walker-nfls-no-2-rusher-sundays-game-atlanta-with-groin-injury/"
+   "t": "Brock Bowers is day-to-day with an ankle injury and isn't believed to have a major injury, per Ian Rapoport. Klint Kubiak: 'It's not as bad as we thought.' Practice reports this week decide Lemon Squeezy's tight end.",
+   "src": "The Fantasy Footballers",
+   "url": "https://www.thefantasyfootballers.com/news/648132/brock-bowers-viewed-as-day-to-day-with-ankle-injury/"
   },
   {
-   "t": "Mean Machine closed out Prepetente is the GOAT! 146.86 to 101.46. Fourth straight win for BertDirty, who is 5-5 and seventh, 174.58 points behind Ceedees ships coming! 🏆 for the last playoff spot.",
+   "t": "TotesMagoat cut George Holani and the Chargers D/ST on Tuesday, leaving the Lions and Texans defenses for the Week 11 defense payout. The Texans play Thursday. Lemon Squeezy has spent $0 of its $1000 FAAB this season.",
    "src": "League transactions",
    "url": "https://sleeper.com/leagues/1313296545755435008"
   },
   {
-   "t": "Week 11 byes: Falcons, Browns, Packers, Rams, Patriots and Seahawks. That knocks out Jaxon Smith-Njigba, Bijan Robinson, Christian Watson, Kyren Williams, Jordan Love and four of last week's starting defenses.",
-   "src": "Sleeper schedule",
-   "url": "https://api.sleeper.com/schedule/nfl/regular/2026"
+   "t": "Buccaneer51 added Colts receiver Laquon Treadwell for $12 and dropped Khalil Herbert. That's $672 spent this season, the most in the league.",
+   "src": "League transactions",
+   "url": "https://sleeper.com/leagues/1313296545755435008"
   },
   {
-   "t": "Quiet wire since Sunday. Bill_Buttlicker's open roster spot from the Jaylen Wright drop is still open. The trade deadline is after Week 13.",
+   "t": "Week 10 payout is paid: George Pickens, 43.50, for Bill_Buttlicker. Week 11 is Highest-Scoring Defense and kicks off Thursday with Colts at Texans.",
    "src": "League transactions",
    "url": "https://sleeper.com/leagues/1313296545755435008"
   }
  ],
  "stories": [
+  {
+   "id": "waivers1118",
+   "kicker": "Waiver Wednesday",
+   "title": "Mean Machine spends $200 on Emari Demercado because it has to",
+   "dek": "Woody Marks is in the concussion protocol and every other BertDirty running back is out or on bye. BertDirty also lost Jaylen Wright by one dollar.",
+   "body": [
+    "Waivers ran overnight and the big check came from Mean Machine. BertDirty bid $200 on Emari Demercado, beating Buccaneer51's $81. Before this, BertDirty hadn't spent a dollar of FAAB all season. Now he's got $800 left and a Texans running back who ran 7 times for 16 yards on Sunday.",
+    "Before anybody calls it dumb, look at the roster. Woody Marks left Sunday with a concussion, and Draft Sharks says he's very unlikely to play Thursday on three days' rest. Kyren Williams (Rams) and Quinshon Judkins (Browns) are on bye. Josh Jacobs is out and the Packers are off anyway. Emanuel Wilson is on the Seahawks bye. Isiah Pacheco is on IR. Demercado is the only healthy Mean Machine running back with a game this week. With Marks out, he's probably the Texans' lead back against the Colts on Thursday. That's not panic. That's the lineup.",
+    "Here's the roast: Mean Machine starts two running backs, and Demercado is one. BertDirty also put in a claim on Jaylen Wright, the guy I cut Sunday, for $0. BeatULikeABoss bid $1 and took him. You spent $200 on one back and lost the other over a dollar. Four straight wins, 5-5, a playoff spot on the line, and the second RB slot might be a Thursday-morning free agent.",
+    "Elsewhere: Buccaneer51 grabbed Laquon Treadwell for $12 and is up to $672 spent, the most in the league. TotesMagoat cut George Holani and the Chargers defense and still hasn't spent a FAAB dollar at 9-1. Drake Maye is out indefinitely, so C.J. Stroud is Lemon Squeezy's quarterback, and Brock Bowers is day-to-day, which is better than it sounded Monday. Mean Machine is still a 98% favorite over Young Love Hunters. Bad roster luck, same result."
+   ]
+  },
   {
    "id": "wk10recap",
    "kicker": "Week 10 Recap",
@@ -90,23 +107,12 @@
    ]
   },
   {
-   "id": "hurts1117",
-   "kicker": "Bad Beat",
-   "title": "Hurts So Good scored 156.98, beat nine teams on paper, and lost",
-   "dek": "Jahmyr Gibbs had 45.20. MakeItRains ran into McCaffrey and is 5‑5 in eighth.",
-   "body": [
-    "MakeItRains did almost everything right. Jahmyr Gibbs scored 45.20, Deebo Samuel Sr. 26.90, Blake Corum 20.90 and DK Metcalf 16.40. 156.98 was the third-best score of Week 10. It beat everyone except Picken Weiners and Lemon Squeezy, and Lemon Squeezy was the opponent.",
-    "Here's the part that's on him: Tyler Shough scored 9.98 at quarterback. With Jalen Hurts on IR and Geno Smith listed out, there's no answer on the roster. Darren Waller scored 4.40 at FLEX. Shough plus Waller was 14.38. McCaffrey alone was 49.30.",
-    "Hurts So Good is 5-5 and eighth, 309.60 points behind Ceedees ships coming! 🏆 for the sixth spot on the tiebreaker. Week 11 is Ceedees ships coming! 🏆, with Corum on the Rams bye. Lose that and it's 5-6 behind three 5-5 teams. MakeItRains, go get a quarterback. The trade block is open until after Week 13."
-   ]
-  },
-  {
    "id": "bye1117",
    "kicker": "Week 11 Preview",
    "title": "Six teams on bye, and Mean Machine's defense is two of them",
    "dek": "Jaxon Smith-Njigba, Bijan Robinson, Christian Watson, Kyren Williams and Jordan Love all sit. Every favorite is still a favorite.",
    "body": [
-    "Week 11 has six NFL teams on bye: the Falcons, Browns, Packers, Rams, Patriots and Seahawks. Young Love Hunters loses Jordan Love, Kaleb Johnson and the Packers defense. Mean Machine loses Kyren Williams, Quinshon Judkins, Kyle Pitts Sr. and both the Rams and Falcons defenses, leaving the Titans D/ST. Lemon Squeezy loses Jaxon Smith-Njigba, with Brock Bowers listed out and Drake Maye hurt.",
+    "Week 11 has six NFL teams on bye: the Falcons, Browns, Packers, Rams, Patriots and Seahawks. Young Love Hunters loses Jordan Love, Kaleb Johnson and the Packers defense. Mean Machine loses Kyren Williams, Quinshon Judkins, Kyle Pitts Sr. and both the Rams and Falcons defenses, leaving the Titans D/ST, and Woody Marks is in the concussion protocol. Lemon Squeezy loses Jaxon Smith-Njigba and Drake Maye, while Brock Bowers is day-to-day.",
     "The lines: Mean Machine over Young Love Hunters, 98% (by 63). 50 Shades of Rae over Prepetente is the GOAT!, 91% (by 41), even without Bijan Robinson and Christian Watson. Lemon Squeezy over I Believe in Love, 86% (by 34). Picken Weiners over Chubb So Big I Waddle, 81% (by 27). Ceedees ships coming! 🏆 over Hurts So Good, 81% (by 27). Trevor Have I Ever over Hanging with Hernandez, 74% (by 20).",
     "Week 11's payout is Highest-Scoring Defense, and the bye list takes out the Seahawks (Bill_Buttlicker), Browns (RobMeyers), Packers (BeatULikeABoss), and Rams and Falcons (BertDirty). Thursday is Colts at Texans: Colts D/ST is Marco_Polo's, Texans D/ST is TotesMagoat's.",
     "Line math, for the record: the spread is each team's points per game difference, adjusted for byes and injuries, and the percentage is how often that spread holds up. If you're mad about your number, score more points."
@@ -337,7 +343,7 @@
   },
   {
    "rk": 4,
-   "prev": 6,
+   "prev": 4,
    "team": "Trevor Have I Ever",
    "own": "RedDevil904",
    "rec": "6-4",
@@ -351,11 +357,11 @@
    "own": "BertDirty",
    "rec": "5-5",
    "ap": "63-47",
-   "take": "Four straight wins. Beat Prepetente is the GOAT! 146.86 to 101.46 behind Joe Burrow's 35.16. 5-5 and the hottest team in the league that isn't TotesMagoat. A 98% favorite this week."
+   "take": "Four straight wins and 5-5. Spent $200 of FAAB on Emari Demercado overnight with Woody Marks in the concussion protocol and every other running back out or on bye. Still a 98% favorite over Young Love Hunters."
   },
   {
    "rk": 6,
-   "prev": 4,
+   "prev": 6,
    "team": "Ceedees ships coming! 🏆",
    "own": "ChuckJ10",
    "rec": "5-5",
@@ -436,14 +442,14 @@
    ],
    "w7": "vs. I Believe in Love · Lemon Squeezy 86% favorite (by 34)",
    "inj": [
-    "Drake Maye (ankle, out; Patriots bye)",
-    "Brock Bowers (out)",
+    "Drake Maye (ankle, out indefinitely)",
+    "Brock Bowers (ankle, day-to-day)",
     "Jaxon Smith-Njigba (Seahawks bye)",
     "David Njoku (IR)"
    ],
    "body": [
     "TotesMagoat is 9-1 after beating Hurts So Good 173.72 to 156.98. Christian McCaffrey scored 49.30, the best starter score in the league in Week 10, and Jaxon Smith-Njigba added 32.10 at FLEX. Drake Maye hurt his ankle on the Patriots' opening drive in Munich and finished with 3.02, which is the only reason C.J. Stroud's 20.44 was on the bench. Six straight wins and a 96-14 all-play record.",
-    "Week 11 is the first real test of the depth: Smith-Njigba is on bye, Brock Bowers is listed out and the Patriots are off. Stroud starts, and Justin Herbert (16.26 on the bench last week) is the backup. Six firsts across the next three drafts, taxi stashes Makai Lemon (73.70) and Jonah Coleman (63.90), and the most points in the league (1690.00). Sickening."
+    "Week 11 is the first real test of the depth: Smith-Njigba is on bye, and an AP source says Drake Maye is out indefinitely. Brock Bowers is day-to-day and isn't believed to have a major ankle injury. Stroud starts, and Justin Herbert (16.26 on the bench last week) is the backup. TotesMagoat cut George Holani and the Chargers defense Tuesday and still hasn't spent a FAAB dollar. Six firsts across the next three drafts, taxi stashes Makai Lemon (73.70) and Jonah Coleman (63.90), and the most points in the league (1690.00). Sickening."
    ]
   },
   {
@@ -622,13 +628,13 @@
    "w7": "vs. Lemon Squeezy · Lemon Squeezy 86% favorite (by 34)",
    "inj": [
     "Matthew Stafford (Rams bye)",
-    "T.J. Hockenson (out)",
+    "T.J. Hockenson (questionable)",
     "Jeremiyah Love (IR)",
-    "Wan'Dale Robinson (questionable)"
+    "Wan'Dale Robinson (IR)"
    ],
    "body": [
     "Buccaneer51 beat Ceedees ships coming! 🏆 155.82 to 141.22, the team's best score of the season. Emmett Johnson got the Chiefs' carries with Kenneth Walker III out and scored 35.10 at FLEX. Cam Skattebo added 27.20 and the Vikings defense 22.00. I Believe in Love is 6-4 and the fifth seed, with the ninth-most points in the league.",
-    "Week 11 is Lemon Squeezy, and the line is TotesMagoat by 34. Matthew Stafford is on the Rams bye, which doesn't matter while Jared Goff starts. Stafford is 38 and Goff is 32, and Jeremiyah Love (21) is on IR. Three firsts across the next three drafts."
+    "Week 11 is Lemon Squeezy, and the line is TotesMagoat by 34. Matthew Stafford is on the Rams bye, which doesn't matter while Jared Goff starts. Buccaneer51 lost the Emari Demercado auction at $81, added Laquon Treadwell for $12 and leads the league with $672 of FAAB spent. Stafford is 38 and Goff is 32, and Jeremiyah Love (21) is on IR. Three firsts across the next three drafts."
    ]
   },
   {
@@ -701,6 +707,7 @@
    ],
    "w7": "vs. Young Love Hunters · Mean Machine 98% favorite (by 63)",
    "inj": [
+    "Woody Marks (concussion, doubtful)",
     "Kyren Williams (Rams bye)",
     "Quinshon Judkins (Browns bye)",
     "Josh Jacobs (out)",
@@ -708,7 +715,7 @@
    ],
    "body": [
     "BertDirty beat Prepetente is the GOAT! 146.86 to 101.46 for a fourth straight win. Joe Burrow scored 35.16, Nico Collins 24.40 and the Rams defense 17.00. Mean Machine is 5-5, one spot out of the playoffs on points (1379.36 to Ceedees ships coming! 🏆's 1553.94).",
-    "Week 11 is the strangest bye week in the league: Kyren Williams, Quinshon Judkins and Kyle Pitts Sr. are off, and two of the three defenses on the roster, the Rams and Falcons, are on bye. The Titans D/ST is the fallback. Against Young Love Hunters it doesn't matter: 98% favorite. TotesMagoat owns Mean Machine's 2027 first."
+    "Week 11 is the strangest bye week in the league: Kyren Williams, Quinshon Judkins and Kyle Pitts Sr. are off, Woody Marks is in the concussion protocol, and the Rams and Falcons defenses are on bye. BertDirty paid $200 for Emari Demercado overnight, the only healthy running back on the roster with a game, and lost Jaylen Wright to a $1 bid. Against Young Love Hunters it doesn't matter: 98% favorite. TotesMagoat owns Mean Machine's 2027 first."
    ]
   },
   {
@@ -732,30 +739,30 @@
    ],
    "body": [
     "BeatULikeABoss lost 111.64 to 63.10 to 50 Shades of Rae, the lowest score of Week 10 and the ninth time in ten weeks Young Love Hunters has posted the league's low. Jordan Love scored 10.80 while Kyle McCord scored 12.76 on the bench. Young Love Hunters is 1-9 and 5-105 in all-play.",
-    "Week 11 is Mean Machine, and Jordan Love, Kaleb Johnson and the Packers defense are all on bye. It's a 63-point line. The good news is dynasty: the youngest core in the league (24.3), all his firsts, three extra 2027 seconds, and TotesMagoat's 2029 third from last week's Kaleb Johnson deal."
+    "Week 11 is Mean Machine, and Jordan Love, Kaleb Johnson and the Packers defense are all on bye. It's a 63-point line. BeatULikeABoss did win one thing this week: Jaylen Wright, for $1, over BertDirty's $0. The good news is dynasty: the youngest core in the league (24.3), all his firsts, three extra 2027 seconds, and TotesMagoat's 2029 third from last week's Kaleb Johnson deal."
    ]
   }
  ],
  "rumors": [
   {
    "src": "Breaking",
-   "t": "Bill_Buttlicker has reportedly framed the Week 10 payout check and hung it next to the Week 8 payout check, under a plaque that reads 'Commissioner of the Year, as voted by the Commissioner.'"
+   "t": "BertDirty reportedly wrote the $200 Emari Demercado bid on a napkin, then a second napkin for Jaylen Wright that just said '$0, he'll understand.' BeatULikeABoss did not understand."
   },
   {
    "src": "Sources",
-   "t": "BeatULikeABoss has asked Sleeper whether 'lowest score of the week' can count as a payout category, since he's won it nine times. Sleeper has not responded. The commissioner said he'd consider it if he can enter too."
+   "t": "TotesMagoat's $1000 of unspent FAAB has reportedly started charging the league interest. The commissioner says it's legal because TotesMagoat is 9-1 and nobody wants to argue."
   },
   {
    "src": "Developing",
-   "t": "Marco_Polo is said to be holding open tryouts for the two empty running back spots. Applicants so far: a mascot, a kicker who lost a bet, and Marco_Polo's own fantasy avatar, which reportedly showed up in cleats."
+   "t": "Buccaneer51 has spent $672 of FAAB and is said to be setting up a payment plan for Laquon Treadwell. The $12 will be paid in monthly installments of $1 through 2027."
   },
   {
    "src": "Per a league source",
-   "t": "BertDirty has refused to wash his jersey during the four-game win streak. Mean Machine's league chat avatar now has visible stink lines."
+   "t": "BertDirty still hasn't washed his jersey during the four-game win streak. Mean Machine's running back room is now down to Emari Demercado and whoever answers the stink."
   },
   {
    "src": "Rumor mill",
-   "t": "TotesMagoat has offered to buy the rights to Week 11's bye week so his players don't have to take it. He is reportedly paying in 2029 seconds."
+   "t": "Bill_Buttlicker has framed the Week 10 payout check next to the Week 8 one, under a plaque that reads 'Commissioner of the Year, as voted by the Commissioner.' A third frame is already on the wall, empty, labeled 'Week 11?'"
   },
   {
    "src": "Unconfirmed",
@@ -763,7 +770,7 @@
   },
   {
    "src": "Exclusive",
-   "t": "G8rDuc has reportedly replaced his start/sit process with a Magic 8-Ball. In early testing it said 'Ask again later' about Bryce Young and J.J. McCarthy, which is still the most decisive answer that roster has gotten."
+   "t": "BeatULikeABoss has hung the $1 Jaylen Wright receipt in the league chat as 'the first W of the season that counted.' Young Love Hunters is 1-9."
   },
   {
    "src": "Whispers",
@@ -792,7 +799,7 @@
    "bget": [
     "2028 3rd (BertDirty)"
    ],
-   "why": "Josh Jacobs and Woody Marks are listed out and Kyren Williams is on bye. Warren (28) has 152.90 points. BertDirty has won four straight and needs bodies. G8rDuc is 2-8 with no 2027 picks.",
+   "why": "Woody Marks is in the concussion protocol, Josh Jacobs is out and Kyren Williams is on bye. BertDirty just spent $200 on Emari Demercado and still has a hole at RB2. Warren (28) has 152.90 points. G8rDuc is 2-8 with no 2027 picks.",
    "tag": "Both sides win"
   },
   {
@@ -894,7 +901,7 @@
    ],
    [
     "Mean Machine",
-    "Four straight wins. Joe Burrow 35.16, Nico Collins 24.40, Rams defense 17.00. BertDirty went from 1-5 to 5-5 and the playoff spot is 174.58 points of tiebreaker away. Win out."
+    "Four straight wins, then $200 for the only healthy running back available with Woody Marks in the protocol. Smart. Losing Jaylen Wright to BeatULikeABoss over one dollar, less smart. BertDirty is 5-5 and 174.58 points of tiebreaker out of sixth."
    ],
    [
     "I Believe in Love",
@@ -904,20 +911,20 @@
  },
  "sources": [
   [
-   "Patriots news: Drake Maye injury severity unknown, more tests to come (ClutchPoints)",
-   "https://clutchpoints.com/nfl/new-england-patriots/patriots-news-drake-maye-injury-severity-unknown-more-tests-come-lions-blowout"
+   "Patriots' Drake Maye will be sidelined indefinitely with an ankle injury, AP source says (AJC / AP)",
+   "https://www.ajc.com/news/2026/11/patriots-drake-maye-will-be-sidelined-indefinitely-with-an-ankle-injury-ap-source-says/"
   ],
   [
-   "Chiefs rule out Kenneth Walker for Sunday's game in Atlanta with a groin injury (KY3 / AP)",
-   "https://www.ky3.com/2026/11/15/chiefs-rule-out-kenneth-walker-nfls-no-2-rusher-sundays-game-atlanta-with-groin-injury/"
+   "Emari Demercado takes over after Woody Marks concussion (Draft Sharks)",
+   "https://www.draftsharks.com/fantasy-football-news/84249/emari-demercado-takes-over-after-woody-marks-concussion"
   ],
   [
-   "Drake Maye won't return in Week 10 against Detroit (RotoBaller)",
-   "https://www.rotoballer.com/?p=1994383"
+   "Brock Bowers viewed as day-to-day with ankle injury (The Fantasy Footballers)",
+   "https://www.thefantasyfootballers.com/news/648132/brock-bowers-viewed-as-day-to-day-with-ankle-injury/"
   ],
   [
-   "Monday NFL Roundup: Week 10 (Footballguys)",
-   "https://www.footballguys.com/article/2026-monday-nfl-roundup-week10"
+   "Texans place Jaylin Noel on IR, claim Emari Demercado (4for4)",
+   "https://www.4for4.com/news/texans-place-jaylin-noel-ir-claim-emari-demercado"
   ],
   [
    "2026 NFL regular-season schedule and byes (Sleeper)",
@@ -960,16 +967,16 @@
  ],
  "columns": [
   {
-   "id": "dd-mouth17",
+   "id": "dd-mouth18",
    "by": "mouth",
    "kicker": "Opinion",
-   "title": "THE COMMISSIONER PAID HIMSELF AGAIN AND NOBODY IS STOPPING HIM",
-   "dek": "TWO PAYOUTS IN THREE WEEKS! 208.12 POINTS! AND MEAN MACHINE IS 5‑5 AND COMING FOR EVERYBODY!",
+   "title": "TWO HUNDRED DOLLARS! AND HE LOST THE OTHER GUY BY ONE!",
+   "dek": "BertDirty finally opens the wallet. TotesMagoat is 9‑1 and HASN'T SPENT A PENNY.",
    "body": [
-    "GEORGE PICKENS! 43.50! THE WEEK 10 RECEIVER PAYOUT GOES TO BILL_BUTTLICKER! THE SAME BILL_BUTTLICKER WHO WON WEEK 8 WITH BHAYSHUL TUTEN! THE SAME BILL_BUTTLICKER WHO RUNS THE LEAGUE! WHO APPROVES THE PAYOUTS! I HAVE QUESTIONS AND NOBODY WILL ANSWER THEM!",
-    "Picken Weiners scored 208.12 and won by 122.46. Fine. Great. Wonderful. HE STARTED SAM LaPORTA FOR 2.60! HAROLD FANNIN JR. SCORED 16.10 ON THE BENCH! IF I DID THAT THEY'D TAKE AWAY MY PRESS PASS! The man wins by 122 and still makes the worst lineup call in the league!",
-    "And nobody is talking about MEAN MACHINE! FOUR STRAIGHT! BertDirty was 1-5! ONE AND FIVE! Now he's 5-5 and Joe Burrow is throwing for 35.16 like it's nothing! He's 174.58 points behind Ceedees ships coming! 🏆 on the tiebreaker, and ChuckJ10 should be SWEATING THROUGH HIS SHIRT!",
-    "YOUNG LOVE HUNTERS! LOWEST SCORE OF THE WEEK! NINE TIMES IN TEN WEEKS! THAT'S NOT A SLUMP, THAT'S A BRAND! I'M DONE! I'M GOING TO DUNKIN'! I'LL BE BACK WEDNESDAY AND I'LL STILL BE YELLING!"
+    "BERTDIRTY! TWO HUNDRED DOLLARS! ON EMARI DEMERCADO! A MAN WHO RAN SEVEN TIMES FOR SIXTEEN YARDS ON SUNDAY! AND YOU KNOW WHAT? HE HAD TO! Woody Marks is in the concussion protocol, Kyren Williams is on bye, Quinshon Judkins is on bye, Josh Jacobs is out! DEMERCADO IS THE ONLY HEALTHY RUNNING BACK HE'S GOT WITH A GAME! I'M NOT EVEN MAD! I'M IMPRESSED!",
+    "BUT THEN! THEN! He bids ZERO DOLLARS on Jaylen Wright! ZERO! And BeatULikeABoss, the 1-9 man, the NINE-LOWS-IN-TEN-WEEKS man, bids ONE DOLLAR and TAKES HIM! YOU GOT OUTBID BY YOUNG LOVE HUNTERS! THAT'S LIKE LOSING A FOOTRACE TO A PARKED CAR!",
+    "And over here is TOTESMAGOAT! NINE AND ONE! ONE THOUSAND DOLLARS OF FAAB! SPENT: ZERO! Drake Maye is out indefinitely and he just shrugs and starts C.J. Stroud! He CUT the Chargers defense yesterday to make room for NOTHING! THAT'S NOT A ROSTER, THAT'S A BANK VAULT WITH A LINEUP!",
+    "Buccaneer51! SIX HUNDRED SEVENTY-TWO DOLLARS! The most in the league! And he lost the Demercado auction by $119 and bought LAQUON TREADWELL FOR TWELVE! THURSDAY IS COLTS AT TEXANS! DEMERCADO VERSUS TREADWELL! THE $212 BOWL! I'LL BE WATCHING! I'LL BE YELLING! I'M ALWAYS YELLING!"
    ]
   },
   {
@@ -1000,16 +1007,16 @@
    ]
   },
   {
-   "id": "dd-gary10",
+   "id": "dd-gary11",
    "by": "gary",
    "kicker": "Analytics",
-   "title": "By my model, Hurts So Good went 9‑2 this week, and Young Love Hunters is on pace for 12.6 weekly lows",
-   "dek": "All-play, points against and the commissioner's payout rate, run through a spreadsheet nobody asked for.",
+   "title": "The FAAB efficiency index: TotesMagoat is 9‑1 at $0.00 per win",
+   "dek": "$2,686 spent leaguewide, sorted into a model that is wrong but very confident.",
    "body": [
-    "Let's start with Hurts So Good. MakeItRains scored 156.98 in Week 10 and would have beaten nine of the other eleven teams. In my model, that's a 9-2 week. In the standings, it's a loss. I trust my model. Hurts So Good is 56-54 in all-play, which means they're winning, which means they're a playoff team. They're eighth.",
-    "Next: Young Love Hunters has posted the lowest score in the league in nine of ten weeks. That's a 90% rate. Over 14 weeks, that projects to 12.6 weekly lows. You can't post 0.6 of a low, so I'm rounding up to 13 and calling it a dynasty.",
-    "Ceedees ships coming! 🏆 has allowed 1482.48 points, the most in the league. Teams that score a lot against you are, by definition, good teams. So ChuckJ10 has played the toughest schedule, which means he's the best team. 5-5 is a rounding error.",
-    "Finally, the commissioner has won two of ten weekly payouts (Week 8 and Week 10). That's 20%. He's won 100% of the payouts he approved for himself. Correlation isn't causation, but it is suspicious, and I'm putting it in a pie chart."
+    "The league has spent $2,686 of FAAB this season. I've divided it by wins, because that's what spreadsheets are for. TotesMagoat has spent $0 and has nine wins: $0.00 per win, a perfect score. Bill_Buttlicker has spent $0 and has seven wins, also perfect. RobMeyers has spent $0 and has three wins. Also perfect. My model says spending money is bad.",
+    "Buccaneer51 has spent $672 for six wins, which is $112 per win. Marco_Polo has spent $631 for three wins, $210.33 per win. G8rDuc has spent $415 for two wins, $207.50 per win. So Marco_Polo pays the most per win in the league, and he has two empty running back slots to show for it. That's not a correlation. That's a receipt.",
+    "Now Emari Demercado. Sunday he ran 7 times for 16 yards and caught one pass for minus one yard. That's 2.50 PPR points. BertDirty paid $200, so $80.00 per point. Buccaneer51 bid $81, which means the market valued him at $32.40 per point. BertDirty overpaid by 147%. He also has no other healthy running back with a game this week, which my model does not track, so I'm ignoring it.",
+    "Finally, BeatULikeABoss won Jaylen Wright for $1 over BertDirty's $0. That's an infinite percentage increase in the bid. Young Love Hunters has won one FAAB showdown by infinity and one game all season. Per my projections, that's a turnaround."
    ]
   }
  ],
@@ -1506,7 +1513,7 @@
     "w": 11,
     "c": "Biggest D: Highest-Scoring Defense",
     "win": "",
-    "detail": "Live: Week 11 starts Thursday with Colts at Texans (Colts D/ST: Marco_Polo, Texans D/ST: TotesMagoat). On bye: Seahawks (Bill_Buttlicker), Browns (RobMeyers), Packers (BeatULikeABoss), Rams and Falcons (BertDirty).",
+    "detail": "Live: Week 11 starts Thursday with Colts at Texans (Colts D/ST: Marco_Polo, Texans D/ST: TotesMagoat, who also has the Lions and cut the Chargers on Tuesday). On bye: Seahawks (Bill_Buttlicker), Browns (RobMeyers), Packers (BeatULikeABoss), Rams and Falcons (BertDirty).",
     "st": "live"
    },
    {
