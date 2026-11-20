@@ -1,5 +1,5 @@
 {
- "updated": "Thursday, Nov 19, 2026 · 7:00 AM ET",
+ "updated": "Friday, Nov 20, 2026 · 7:00 AM ET",
  "week": 11,
  "ticker": [
   [
@@ -41,69 +41,68 @@
  ],
  "wire": [
   {
-   "t": "Woody Marks is officially out for Thursday's Colts-Texans game with a concussion, and David Montgomery has no injury designation after practicing fully all week. Marvin Harrison Jr. (hamstring) is also out.",
-   "src": "NBC Sports / PFT",
-   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/david-montgomery-has-no-injury-designation-for-thursday-woody-marks-ruled-out"
+   "t": "Texans 26, Colts 3 on Thursday night. C.J. Stroud threw for 194 yards and 3 touchdowns, his third straight game with at least three, and David Montgomery ran 26 times for 107 yards in his first game back since Week 4.",
+   "src": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50538998/cj-stroud-stays-groove-texans-blowout-colts"
   },
   {
-   "t": "Fantasy fallout: Montgomery is in RobMeyers' FLEX for Chubb So Big I Waddle tonight. Emari Demercado, BertDirty's $200 pickup, is expected to be his main complement instead of the lead back.",
-   "src": "RotoWire",
-   "url": "https://www.rotowire.com/football/headlines/emari-demercado-news-set-to-complement-montgomery-in-week-11-648516"
-  },
-  {
-   "t": "Brock Bowers didn't practice Wednesday. Klint Kubiak says the ankle 'isn't as bad as we thought, but still significant.' TotesMagoat already has him on the Lemon Squeezy bench, with Colston Loveland at tight end.",
-   "src": "Yahoo Sports",
-   "url": "https://sports.yahoo.com/articles/brock-bowers-did-not-practice-194433826.html"
-  },
-  {
-   "t": "MakeItRains added Titans receiver Chimere Dike as a free agent Wednesday afternoon, no drop. It's the only league move since waivers ran.",
-   "src": "League transactions",
-   "url": "https://sleeper.com/leagues/1313296545755435008"
-  },
-  {
-   "t": "Lineup check as of Thursday morning: Mean Machine has one RB slot empty (Demercado is in the other), and Prepetente is the GOAT! has both RB slots empty for a third straight week. Lineups lock per game, so there's time before Sunday.",
+   "t": "Fantasy fallout: Lemon Squeezy banked 43.16 on Thursday (Stroud 21.46, Texans D/ST 15.00, Jonathan Taylor 6.70). I Believe in Love got 0.00 from Laquon Treadwell. RobMeyers got 15.40 from Montgomery at FLEX against Picken Weiners.",
    "src": "League matchups",
    "url": "https://sleeper.com/leagues/1313296545755435008"
   },
   {
-   "t": "Jonah Coleman is off the Lemon Squeezy taxi squad and in the starting lineup. Draft Sharks called him Denver's clear lead back after a 77% snap share in Week 9, and the Broncos are coming off their bye.",
-   "src": "Draft Sharks",
-   "url": "https://www.draftsharks.com/fantasy-football-news/84082/jonah-coleman-established-himself-as-lead-rb"
-  },
-  {
-   "t": "Thursday night fantasy stakes: Lemon Squeezy starts C.J. Stroud, Jonathan Taylor and the Texans D/ST. Prepetente is the GOAT! starts the Colts D/ST and Xavier Hutchinson. Also playing: Nico Collins, Tank Dell, Tyler Warren, Laquon Treadwell and Seth McGowan.",
+   "t": "Prepetente is the GOAT! started Dalton Schultz (2.10) and Xavier Hutchinson (3.30) while Marlin Klein (12.40) and Kayshon Boutte (12.00) scored 24.40 on the bench. Marco_Polo did bench the Colts D/ST (3.00) for the Bears and put J.K. Dobbins in one RB slot. The other one is still empty.",
    "src": "League matchups",
    "url": "https://sleeper.com/leagues/1313296545755435008"
   },
   {
-   "t": "Week 11 payout is Highest-Scoring Defense. Only two starting defenses play tonight: the Texans (TotesMagoat) and the Colts (Marco_Polo).",
+   "t": "Rams WR Puka Nacua was suspended three games while on IR and is eligible for reinstatement Dec. 14. Fantasy translation for superdog91: no Nacua for 50 Shades of Rae in the regular season.",
+   "src": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50533560/rams-wr-puka-nacua-serve-3-game-suspension-ir"
+  },
+  {
+   "t": "Thursday free-agent moves: MakeItRains swapped the Dolphins D/ST for the Chargers, Buccaneer51 added Myles Price and dropped Tutu Atwell, BeatULikeABoss added Ben Sinnott for Jawhar Jordan and started him, and Bill_Buttlicker cut Brandin Cooks.",
    "src": "League transactions",
+   "url": "https://sleeper.com/leagues/1313296545755435008"
+  },
+  {
+   "t": "Bhayshul Tuten has 64% of the Jaguars' running back carries and 609 rushing yards entering Sunday at the Giants. He's listed questionable on Sleeper and starts for Picken Weiners.",
+   "src": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50535497/jacksonville-jaguars-bhayshul-tuten-rb-stats-fantasy"
+  },
+  {
+   "t": "Baker Mayfield was limited Thursday with a foot injury and says he feels ready for Detroit. He's on the Mean Machine bench behind Joe Burrow, so BertDirty has a backup either way.",
+   "src": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50533151/buccaneers-baker-mayfield-hopes-play-foot-injury"
+  },
+  {
+   "t": "Week 11 payout (Highest-Scoring Defense) leader after Thursday: Texans D/ST, 15.00, for TotesMagoat. The Colts scored 3.00 on Marco_Polo's bench. Every other starting defense plays Sunday or Monday.",
+   "src": "League matchups",
    "url": "https://sleeper.com/leagues/1313296545755435008"
   }
  ],
  "stories": [
   {
-   "id": "tnf1119",
+   "id": "tnf1120",
    "kicker": "Thursday Night",
-   "title": "Lemon Squeezy's whole Week 11 starts tonight in Houston",
-   "dek": "C.J. Stroud, Jonathan Taylor and the Texans defense all play Colts-Texans. Woody Marks is out, David Montgomery is back, and BertDirty's $200 back just became a backup.",
+   "title": "Lemon Squeezy is up 43.16 to 0.00 before anybody else has played",
+   "dek": "C.J. Stroud and the Texans D/ST do it again for TotesMagoat. Laquon Treadwell gives Buccaneer51 a zero, and Marco_Polo benches 24.40 points.",
    "body": [
-    "Thursday night is Colts at Texans, and nobody has more riding on it than TotesMagoat. Lemon Squeezy starts C.J. Stroud at quarterback with Drake Maye out, Jonathan Taylor at running back and the Texans D/ST in a payout week for defenses. That's three starters against I Believe in Love, whose only Thursday guy is Laquon Treadwell, the $12 pickup. If Lemon Squeezy is up big by Friday morning, Buccaneer51 can spend the weekend making peace with it.",
-    "The bad news is for Mean Machine. The Texans ruled Woody Marks out with a concussion, which everybody expected. They also cleared David Montgomery, who practiced fully all week after missing four games. RotoWire now has Emari Demercado as Montgomery's complement, not the lead back. BertDirty paid $200 yesterday for the only healthy running back he had with a game. That was the right call, and it might still get him 6 points. He also still has an empty RB slot this morning, so somebody needs to check the free agent list before Sunday.",
-    "Montgomery is RobMeyers' guy. He's in the Chubb So Big I Waddle FLEX tonight against Picken Weiners, which is my matchup, so I'm officially rooting for a lot of Demercado. I'm a fan of every Texans player except one tonight. Pettiness is a commissioner's right.",
-    "Other fantasy starters in this game: Nico Collins (Mean Machine), Tank Dell (50 Shades of Rae), Tyler Warren (Hurts So Good), Seth McGowan (Trevor Have I Ever), and the Colts D/ST and Xavier Hutchinson for Marco_Polo. Prepetente is the GOAT! still has both running back slots empty as of this morning, a third week in a row, with J.K. Dobbins on the bench. Marco_Polo, it's Thursday. Fill them. You have until Sunday, and I'll be watching."
+    "Texans 26, Colts 3, and the 9‑1 team got richer. Lemon Squeezy took 43.16 out of Thursday night: C.J. Stroud 21.46 (194 yards, 3 touchdowns, his third straight three-TD game), the Texans D/ST 15.00 and Jonathan Taylor 6.70. That's with Drake Maye out, Brock Bowers on the bench and Jaxon Smith-Njigba on bye. TotesMagoat still has Christian McCaffrey, Amon-Ra St. Brown, Justin Jefferson, Malik Nabers, Garrett Wilson, Jonah Coleman and Colston Loveland to come.",
+    "I Believe in Love had one Thursday player, Laquon Treadwell, the $12 pickup. Zero catches, 0.00 points. Buccaneer51 is down 43.16 with nine starters left, and the pregame line was already TotesMagoat by 34. Sunday is going to have to be the best day of Jared Goff's life.",
+    "The ugliest box score belongs to Prepetente is the GOAT!. Marco_Polo started Dalton Schultz (2.10) and Xavier Hutchinson (3.30). On the bench: Marlin Klein, 12.40 with a touchdown, and Kayshon Boutte, 12.00 with a touchdown. That's 24.40 sitting down, and Prepetente is the GOAT! trails 50 Shades of Rae 5.70 to 5.40. Credit where it's due: he benched the Colts D/ST (3.00) for the Bears, and J.K. Dobbins is finally in a running back slot. The other RB slot is still empty. It's Friday, Marco_Polo.",
+    "Now my problem. David Montgomery ran 26 times for 107 yards and scored 15.40 at FLEX for Chubb So Big I Waddle against Picken Weiners, which hasn't played yet. Emari Demercado, BertDirty's $200 back, got 4.90 and Nico Collins added 15.80, so Mean Machine leads Young Love Hunters 20.70 to 0.00 with one RB slot still empty. The Texans D/ST's 15.00 leads the Week 11 defense payout, and of course it belongs to TotesMagoat."
    ]
   },
   {
-   "id": "waivers1118",
-   "kicker": "Waiver Wednesday",
-   "title": "Mean Machine spends $200 on Emari Demercado because it has to",
-   "dek": "Woody Marks is in the concussion protocol and every other BertDirty running back is out or on bye. BertDirty also lost Jaylen Wright by one dollar.",
+   "id": "moves1120",
+   "kicker": "Transactions",
+   "title": "The commissioner cuts Brandin Cooks, and the Chargers defense finds a home",
+   "dek": "Four free-agent moves Thursday, plus a Puka Nacua suspension that keeps him out of 50 Shades of Rae's regular season.",
    "body": [
-    "Waivers ran overnight and the big check came from Mean Machine. BertDirty bid $200 on Emari Demercado, beating Buccaneer51's $81. Before this, BertDirty hadn't spent a dollar of FAAB all season. Now he's got $800 left and a Texans running back who ran 7 times for 16 yards on Sunday.",
-    "Before anybody calls it dumb, look at the roster. Woody Marks left Sunday with a concussion, and Draft Sharks says he's very unlikely to play Thursday on three days' rest. Kyren Williams (Rams) and Quinshon Judkins (Browns) are on bye. Josh Jacobs is out and the Packers are off anyway. Emanuel Wilson is on the Seahawks bye. Isiah Pacheco is on IR. Demercado is the only healthy Mean Machine running back with a game this week. With Marks out, he's probably the Texans' lead back against the Colts on Thursday. That's not panic. That's the lineup.",
-    "Here's the roast: Mean Machine starts two running backs, and Demercado is one. BertDirty also put in a claim on Jaylen Wright, the guy I cut Sunday, for $0. BeatULikeABoss bid $1 and took him. You spent $200 on one back and lost the other over a dollar. Four straight wins, 5-5, a playoff spot on the line, and the second RB slot might be a Thursday-morning free agent.",
-    "Elsewhere: Buccaneer51 grabbed Laquon Treadwell for $12 and is up to $672 spent, the most in the league. TotesMagoat cut George Holani and the Chargers defense and still hasn't spent a FAAB dollar at 9-1. Drake Maye is out indefinitely, so C.J. Stroud is Lemon Squeezy's quarterback, and Brock Bowers is day-to-day, which is better than it sounded Monday. Mean Machine is still a 98% favorite over Young Love Hunters. Bad roster luck, same result."
+    "Thursday was busy on the wire. MakeItRains dropped the Dolphins D/ST and picked up the Chargers. Buccaneer51 added Myles Price and cut Tutu Atwell. BeatULikeABoss grabbed Ben Sinnott for Jawhar Jordan and put Sinnott straight into the Young Love Hunters lineup at tight end. And I cut Brandin Cooks, because Picken Weiners needed the roster spot more than it needed Brandin Cooks.",
+    "The bigger news is for superdog91. The NFL suspended Puka Nacua three games, served while he's on IR, and he's eligible to come back Dec. 14. Week 14 is the last week of our regular season. 50 Shades of Rae is 8‑2 and second in points without him, so the plan was always the playoffs. That's still the plan, just with less margin.",
+    "Lineup watch for Sunday: Mean Machine and Prepetente is the GOAT! each have one empty RB slot. Questionable starters across the league include Bhayshul Tuten (Picken Weiners), Kenneth Walker III and Omar Cooper Jr. (Ceedees ships coming! 🏆), T.J. Hockenson (I Believe in Love), Dalton Kincaid (50 Shades of Rae), Jaylen Waddle (Chubb So Big I Waddle), Jakobi Meyers (Hurts So Good) and Mike Evans (Mean Machine). Check the Sunday inactives before kickoff."
    ]
   },
   {
@@ -321,7 +320,7 @@
    "own": "TotesMagoat",
    "rec": "9-1",
    "ap": "96-14",
-   "take": "9-1 and the most points in the league. Three starters play Thursday: C.J. Stroud, Jonathan Taylor and the Texans D/ST. Brock Bowers benched after missing Wednesday practice, Jonah Coleman promoted from taxi. 86% favorite over I Believe in Love."
+   "take": "9-1 and already up 43.16 to 0.00 on I Believe in Love after Thursday: C.J. Stroud 21.46, Texans D/ST 15.00, Jonathan Taylor 6.70. Seven starters still to play, including Christian McCaffrey and Justin Jefferson. Leads the Week 11 defense payout, too."
   },
   {
    "rk": 2,
@@ -330,7 +329,7 @@
    "own": "superdog91",
    "rec": "8-2",
    "ap": "79-31",
-   "take": "8-2 after a 111.64 to 63.10 win over Young Love Hunters. Isaiah Likely 28.70. Second in points (1599.06) without Puka Nacua, and a 91% favorite in Week 11 even with Bijan Robinson and Christian Watson on bye."
+   "take": "8-2 and second in points (1599.06). Puka Nacua is now suspended three games while on IR and eligible Dec. 14, after the regular season ends. Tied 5.70 to 5.40 with Prepetente is the GOAT! after Thursday, with Josh Allen and Bucky Irving still to play."
   },
   {
    "rk": 3,
@@ -339,7 +338,7 @@
    "own": "Bill_Buttlicker",
    "rec": "7-3",
    "ap": "65-45",
-   "take": "208.12 and a 122.46-point win over Hanging with Hernandez, an 11-0 all-play week and a Week 10 payout for George Pickens. Also started Sam LaPorta for 2.60. 7-3."
+   "take": "7-3 and down 15.40 to 0.00 before playing, thanks to David Montgomery. Bhayshul Tuten is questionable. I cut Brandin Cooks Thursday. Still an 81% pregame favorite over Chubb So Big I Waddle."
   },
   {
    "rk": 4,
@@ -357,7 +356,7 @@
    "own": "BertDirty",
    "rec": "5-5",
    "ap": "63-47",
-   "take": "Four straight wins and 5-5. Paid $200 for Emari Demercado, and then the Texans cleared David Montgomery, so Demercado is the complement. One RB slot still empty Thursday morning. Still a 98% favorite over Young Love Hunters."
+   "take": "5-5, four straight wins, and up 20.70 to 0.00 on Young Love Hunters after Nico Collins (15.80) and Emari Demercado (4.90). Still one empty RB slot. 98% pregame favorite."
   },
   {
    "rk": 6,
@@ -375,7 +374,7 @@
    "own": "Buccaneer51",
    "rec": "6-4",
    "ap": "42-68",
-   "take": "Beat Ceedees ships coming! 🏆 155.82 to 141.22, its best score of the year. Emmett Johnson 35.10 at FLEX. 6-4 and the fifth seed with the ninth-most points. Gets Lemon Squeezy next."
+   "take": "6-4 and down 43.16 to 0.00 after Laquon Treadwell's zero on Thursday. Nine starters left to make it up against the best team in the league."
   },
   {
    "rk": 8,
@@ -393,7 +392,7 @@
    "own": "Marco_Polo",
    "rec": "3-7",
    "ap": "27-83",
-   "take": "Lost 146.86 to 101.46 to Mean Machine with both RB slots empty, and they're empty again as of Thursday with J.K. Dobbins on the bench. Brock Purdy 33.66. 3-7, two games out with four to play. Colts D/ST is live in the defense payout tonight."
+   "take": "3-7. Marlin Klein (12.40) and Kayshon Boutte (12.00) scored 24.40 on the bench Thursday while Dalton Schultz and Xavier Hutchinson started for 5.40. One RB slot still empty. Somehow only down 0.30."
   },
   {
    "rk": 10,
@@ -402,7 +401,7 @@
    "own": "RobMeyers",
    "rec": "3-7",
    "ap": "43-67",
-   "take": "Five straight losses after a 146.38 to 86.42 loss. Deshaun Watson scored 22.38 on the bench while Aaron Rodgers started for 15.62. 3-7 and should be selling."
+   "take": "3-7 with five straight losses, but up 15.40 to 0.00 on Picken Weiners after David Montgomery's 107 rushing yards on Thursday. Jaylen Waddle is questionable."
   },
   {
    "rk": 11,
@@ -442,14 +441,14 @@
    ],
    "w7": "vs. I Believe in Love · Lemon Squeezy 86% favorite (by 34)",
    "inj": [
-    "Drake Maye (ankle, out indefinitely)",
-    "Brock Bowers (ankle, did not practice Wednesday; benched)",
+    "Drake Maye (ankle, out)",
+    "Brock Bowers (ankle, questionable; benched)",
     "Jaxon Smith-Njigba (Seahawks bye)",
     "David Njoku (IR)"
    ],
    "body": [
     "TotesMagoat is 9-1 after beating Hurts So Good 173.72 to 156.98. Christian McCaffrey scored 49.30, the best starter score in the league in Week 10, and Jaxon Smith-Njigba added 32.10 at FLEX. Drake Maye hurt his ankle on the Patriots' opening drive in Munich and finished with 3.02, which is the only reason C.J. Stroud's 20.44 was on the bench. Six straight wins and a 96-14 all-play record.",
-    "Week 11 starts tonight: C.J. Stroud, Jonathan Taylor and the Texans D/ST all play Thursday against the Colts. Jaxon Smith-Njigba is on bye, Drake Maye is out indefinitely, and Brock Bowers didn't practice Wednesday, so TotesMagoat benched him and started Colston Loveland. Jonah Coleman came off the taxi squad and into the lineup with the Broncos out of their bye. Still hasn't spent a FAAB dollar. Six firsts across the next three drafts, taxi stash Makai Lemon, and the most points in the league (1690.00). Sickening."
+    "Thursday went exactly how TotesMagoat wanted: C.J. Stroud 21.46 with three touchdowns, the Texans D/ST 15.00 and Jonathan Taylor 6.70, for a 43.16 to 0.00 lead over I Believe in Love before Sunday. Christian McCaffrey, Amon-Ra St. Brown, Justin Jefferson, Malik Nabers, Garrett Wilson, Jonah Coleman and Colston Loveland are still to play. The Texans defense also leads the Week 11 payout. Still hasn't spent a FAAB dollar. Six firsts across the next three drafts, taxi stash Makai Lemon, and the most points in the league (1690.00). Sickening."
    ]
   },
   {
@@ -476,7 +475,7 @@
    ],
    "body": [
     "RedDevil904 snapped a three-game skid by beating Chubb So Big I Waddle 146.38 to 86.42. Chuba Hubbard scored 34.20, Parker Washington 29.20, Trevor Lawrence 27.78 and James Cook III 22.70. Trevor Have I Ever is 6-4, the fourth seed, and sixth in points (1336.82).",
-    "Week 11 hurts: Matthew Golden and Tucker Kraft are on the Packers bye and Jadarian Price is on the Seahawks bye. Hanging with Hernandez averages 102.33, so it's still a 74% call. No 2027 first, second or third, Lamar Jackson on IR, and Kirk Cousins (38) as the other quarterback. This window is now."
+    "Week 11 hurts: Matthew Golden and Tucker Kraft are on the Packers bye, Jadarian Price is on the Seahawks bye, and Seth McGowan scored 1.80 at running back Thursday. Hanging with Hernandez averages 102.33, so it's still a 74% pregame call. No 2027 first, second or third, Lamar Jackson on IR, and Kirk Cousins (38) as the other quarterback. This window is now."
    ]
   },
   {
@@ -497,14 +496,14 @@
    ],
    "w7": "vs. Chubb So Big I Waddle · Picken Weiners 81% favorite (by 27)",
    "inj": [
+    "Bhayshul Tuten (questionable)",
     "Seattle Seahawks D/ST (bye)",
-    "KC Concepcion Jr. (Browns bye, taxi)",
     "Jordan Addison (out)",
     "Alec Pierce (IR)"
    ],
    "body": [
     "The commissioner scored 208.12, the fourth-highest score of 2026, and beat Hanging with Hernandez by 122.46, the second-biggest margin of the season behind superdog91's 137.60. George Pickens scored 43.50 and won the Week 10 receiver payout. Patrick Mahomes 37.42, Ja'Marr Chase 36.10. An 11-0 all-play week. Picken Weiners is 7-3.",
-    "And now the roast. I started Sam LaPorta for 2.60 with Harold Fannin Jr. (16.10) on my bench. I dropped Jaylen Wright and didn't replace him. My bench scored 130.54. Week 11 is Chubb So Big I Waddle, who is on a five-game skid; the Seahawks defense is on bye, so the Saints D/ST gets the start. Four firsts across the next three drafts, including ChuckJ10's 2027 first."
+    "And now the roast. I started Sam LaPorta for 2.60 with Harold Fannin Jr. (16.10) on my bench in Week 10, and I cut Brandin Cooks on Thursday. Week 11 is Chubb So Big I Waddle, and David Montgomery already put them up 15.40 to 0.00 before my guys play. Bhayshul Tuten is questionable. The Seahawks defense is on bye, so the Saints D/ST gets the start. Four firsts across the next three drafts, including ChuckJ10's 2027 first."
    ]
   },
   {
@@ -526,14 +525,14 @@
    ],
    "w7": "vs. Prepetente is the GOAT! · 50 Shades of Rae 91% favorite (by 41)",
    "inj": [
-    "Puka Nacua (IR)",
+    "Puka Nacua (IR; suspended 3 games, eligible Dec. 14)",
     "Bijan Robinson (Falcons bye)",
     "Christian Watson (Packers bye)",
     "De'Von Achane (IR)"
    ],
    "body": [
     "superdog91 beat Young Love Hunters 111.64 to 63.10 and is 8-2, four straight wins. Isaiah Likely scored 28.70 at tight end and Josh Allen 24.34. It was the lowest winning score of the week, and it didn't matter.",
-    "Week 11 costs Bijan Robinson (Falcons bye) and Christian Watson (Packers bye), with Puka Nacua still on IR. Prepetente is the GOAT! averages 98.69, so superdog91 is still a 91% favorite. Four firsts in the next three drafts, including G8rDuc's 2029 first, and a core age of 25.8."
+    "Week 11 costs Bijan Robinson (Falcons bye) and Christian Watson (Packers bye). Puka Nacua was suspended three games on Thursday while on IR and is eligible Dec. 14, so he's out for the rest of the regular season. Tank Dell scored 5.70 Thursday, and it's 5.70 to 5.40 over Prepetente is the GOAT!. Four firsts in the next three drafts, including G8rDuc's 2029 first, and a core age of 25.8."
    ]
   },
   {
@@ -587,7 +586,7 @@
    ],
    "body": [
     "MakeItRains scored 156.98, third-best in the league in Week 10, and lost to Lemon Squeezy by 16.74. Jahmyr Gibbs scored 45.20, Deebo Samuel Sr. 26.90 and Blake Corum 20.90. Tyler Shough scored 9.98 at quarterback. Hurts So Good would've beaten nine teams and is 5-5 and eighth.",
-    "Week 11 is Ceedees ships coming! 🏆, and Corum is on the Rams bye. Jalen Hurts is on IR and Geno Smith is questionable, so it's Shough again. Tyler Warren plays tonight against the Texans. MakeItRains added Chimere Dike as a free agent Wednesday without a drop. Gibbs has 254.40 points, second in the league. Three firsts and a 26.9 core age. One more loss and this is purgatory for real."
+    "Week 11 is Ceedees ships coming! 🏆, and Blake Corum is on the Rams bye. Jalen Hurts is on IR and Geno Smith is questionable, so it's Tyler Shough again. Tyler Warren scored 3.20 Thursday. MakeItRains added Chimere Dike Wednesday and swapped the Dolphins D/ST for the Chargers on Thursday. Gibbs has 254.40 points, second in the league. Three firsts and a 26.9 core age. One more loss and this is purgatory for real."
    ]
   },
   {
@@ -608,12 +607,12 @@
    "inj": [
     "Denzel Boston (Browns bye)",
     "Hunter Henry (Patriots bye)",
-    "Jaylen Waddle (out)",
+    "Jaylen Waddle (questionable)",
     "Cleveland Browns D/ST (bye)"
    ],
    "body": [
     "RobMeyers lost 146.38 to 86.42 to Trevor Have I Ever, his fifth straight loss. Chase Brown scored 28.30. Deshaun Watson scored 22.38 on the bench while Aaron Rodgers started for 15.62. Quentin Johnston finished with 1.60 on Monday. Chubb So Big I Waddle is 3-7.",
-    "Week 11 is Picken Weiners. Denzel Boston, Hunter Henry and the Browns defense are all on bye, but David Montgomery is back from his groin injury with no designation and starts at FLEX tonight against the Colts. Owns every one of his own picks for 2027 through 2029 and has a 27.8 core age with a 42-year-old quarterback. Sell Tee Higgins (173.40 points) while somebody's buying."
+    "Week 11 is Picken Weiners, and RobMeyers is up 15.40 to 0.00 after David Montgomery ran 26 times for 107 yards Thursday in his first game since Week 4. Denzel Boston, Hunter Henry and the Browns defense are on bye, and Jaylen Waddle is questionable. Owns every one of his own picks for 2027 through 2029 and has a 27.8 core age with a 42-year-old quarterback. Sell Tee Higgins (173.40 points) while somebody's buying."
    ]
   },
   {
@@ -635,7 +634,7 @@
    ],
    "body": [
     "Buccaneer51 beat Ceedees ships coming! 🏆 155.82 to 141.22, the team's best score of the season. Emmett Johnson got the Chiefs' carries with Kenneth Walker III out and scored 35.10 at FLEX. Cam Skattebo added 27.20 and the Vikings defense 22.00. I Believe in Love is 6-4 and the fifth seed, with the ninth-most points in the league.",
-    "Week 11 is Lemon Squeezy, and the line is TotesMagoat by 34. Matthew Stafford is on the Rams bye, which doesn't matter while Jared Goff starts. Buccaneer51 lost the Emari Demercado auction at $81, added Laquon Treadwell for $12 and leads the league with $672 of FAAB spent. Stafford is 38 and Goff is 32, and Jeremiyah Love (21) is on IR. Three firsts across the next three drafts."
+    "Week 11 is Lemon Squeezy, and it's already 43.16 to 0.00 after Thursday. Laquon Treadwell, the $12 pickup, caught nothing. Matthew Stafford is on the Rams bye, which doesn't matter while Jared Goff starts. Buccaneer51 added Myles Price for Tutu Atwell on Thursday and leads the league with $672 of FAAB spent. Stafford is 38 and Goff is 32, and Jeremiyah Love (21) is on IR. Three firsts across the next three drafts."
    ]
   },
   {
@@ -656,13 +655,13 @@
    "w7": "vs. Trevor Have I Ever · Trevor Have I Ever 74% favorite (by 20)",
    "inj": [
     "Sam Darnold (out)",
-    "DeVonta Smith (out)",
-    "Travis Kelce (questionable)",
-    "AJ Barner (Seahawks bye)"
+    "AJ Barner (Seahawks bye)",
+    "Isaiah Williams (questionable)",
+    "Malik Davis (IR)"
    ],
    "body": [
     "G8rDuc lost 208.12 to 85.66 to Picken Weiners, the second-biggest beating of the season. Derrick Henry scored 19.00 on Monday. Bryce Young started for 8.10 while J.J. McCarthy scored 18.12 on the bench, two weeks after the reverse happened. Hanging with Hernandez is 2-8 and has lost four straight.",
-    "Week 11 is Trevor Have I Ever, a 20-point underdog. Sam Darnold and DeVonta Smith are listed out, Travis Kelce is questionable and AJ Barner is on the Seahawks bye. No 2027 picks, one 2028 first, a 28.0 core age. G8rDuc is 22-84 all time."
+    "Week 11 is Trevor Have I Ever, a 20-point underdog. Sam Darnold is out and AJ Barner is on the Seahawks bye, but DeVonta Smith and Travis Kelce no longer carry designations and both start. Trevor Have I Ever got 1.80 from Seth McGowan on Thursday. No 2027 picks, one 2028 first, a 28.0 core age. G8rDuc is 22-84 all time."
    ]
   },
   {
@@ -682,12 +681,12 @@
    "w7": "vs. 50 Shades of Rae · 50 Shades of Rae 91% favorite (by 41)",
    "inj": [
     "Terry McLaurin (IR)",
-    "Carnell Tate (out)",
-    "Both RB slots empty as of Thursday"
+    "Carnell Tate (questionable)",
+    "One RB slot empty as of Friday"
    ],
    "body": [
     "Marco_Polo lost 146.86 to 101.46 to Mean Machine and is 3-7. Brock Purdy scored 33.66 and Mark Andrews 16.20 on Monday, but both running back slots stayed empty for a second straight week. Jayden Daniels scored 20.76 on the bench. The second-fewest points in the league (986.94).",
-    "Week 11 is 50 Shades of Rae, a 41-point underdog even with Bijan Robinson and Christian Watson on bye. Three firsts in the next three drafts and BeatULikeABoss's 2027 third. The rebuild is right there. Put a running back in."
+    "Thursday: Dalton Schultz 2.10 and Xavier Hutchinson 3.30 in the lineup, Marlin Klein 12.40 and Kayshon Boutte 12.00 on the bench. Marco_Polo did bench the Colts D/ST (3.00) for the Bears and started J.K. Dobbins, so it's 5.40 to 5.70 against 50 Shades of Rae with one RB slot still empty. Three firsts in the next three drafts and BeatULikeABoss's 2027 third. The rebuild is right there. Put a running back in."
    ]
   },
   {
@@ -708,16 +707,16 @@
    ],
    "w7": "vs. Young Love Hunters · Mean Machine 98% favorite (by 63)",
    "inj": [
-    "Woody Marks (concussion, out Thursday)",
+    "Woody Marks (concussion, out)",
     "Kyren Williams (Rams bye)",
     "Quinshon Judkins (Browns bye)",
     "Josh Jacobs (out)",
-    "Marvin Harrison Jr. (hamstring, out Thursday)",
+    "Mike Evans (questionable)",
     "Rams and Falcons D/ST (both on bye)"
    ],
    "body": [
     "BertDirty beat Prepetente is the GOAT! 146.86 to 101.46 for a fourth straight win. Joe Burrow scored 35.16, Nico Collins 24.40 and the Rams defense 17.00. Mean Machine is 5-5, one spot out of the playoffs on points (1379.36 to Ceedees ships coming! 🏆's 1553.94).",
-    "Week 11 is the strangest bye week in the league: Kyren Williams, Quinshon Judkins and Kyle Pitts Sr. are off, the Rams and Falcons defenses are on bye, and the Texans ruled Woody Marks out Thursday with a concussion. BertDirty paid $200 for Emari Demercado, but David Montgomery is back for Houston, so Demercado projects as the complement. One RB slot is still empty as of Thursday morning. Against Young Love Hunters it probably doesn't matter: 98% favorite. TotesMagoat owns Mean Machine's 2027 first."
+    "Thursday: Nico Collins 15.80 and Emari Demercado 4.90, for a 20.70 to 0.00 lead over Young Love Hunters. Kyren Williams, Quinshon Judkins and Kyle Pitts Sr. are on bye, Woody Marks is out with a concussion, and one RB slot is still empty as of Friday morning. Baker Mayfield is limited with a foot injury, but Joe Burrow is the starter anyway. Mean Machine's 2027 first belongs to TotesMagoat, so this is a win-now roster."
    ]
   },
   {
@@ -741,14 +740,14 @@
    ],
    "body": [
     "BeatULikeABoss lost 111.64 to 63.10 to 50 Shades of Rae, the lowest score of Week 10 and the ninth time in ten weeks Young Love Hunters has posted the league's low. Jordan Love scored 10.80 while Kyle McCord scored 12.76 on the bench. Young Love Hunters is 1-9 and 5-105 in all-play.",
-    "Week 11 is Mean Machine, and Jordan Love, Kaleb Johnson and the Packers defense are all on bye. It's a 63-point line. BeatULikeABoss did win one thing this week: Jaylen Wright, for $1, over BertDirty's $0. The good news is dynasty: the youngest core in the league (24.3), all his firsts, three extra 2027 seconds, and TotesMagoat's 2029 third from last week's Kaleb Johnson deal."
+    "Week 11 is Mean Machine, down 20.70 to 0.00 after Thursday, and Jordan Love, Kaleb Johnson and the Packers defense are all on bye. BeatULikeABoss added Ben Sinnott for Jawhar Jordan Thursday and started him at tight end. He also won Jaylen Wright for $1 over BertDirty's $0. The good news is dynasty: the youngest core in the league (24.3), all his firsts, three extra 2027 seconds, and TotesMagoat's 2029 third from last week's Kaleb Johnson deal."
    ]
   }
  ],
  "rumors": [
   {
    "src": "Breaking",
-   "t": "BertDirty reportedly wrote the $200 Emari Demercado bid on a napkin, then a second napkin for Jaylen Wright that just said '$0, he'll understand.' BeatULikeABoss did not understand."
+   "t": "Marco_Polo reportedly set his lineup Thursday by asking which Texans had the worst haircuts. Dalton Schultz and Xavier Hutchinson won. Marlin Klein and Kayshon Boutte have since scored 24.40 points and booked a barber."
   },
   {
    "src": "Sources",
@@ -756,7 +755,7 @@
   },
   {
    "src": "Developing",
-   "t": "Buccaneer51 has spent $672 of FAAB and is said to be setting up a payment plan for Laquon Treadwell. The $12 will be paid in monthly installments of $1 through 2027."
+   "t": "Buccaneer51 has asked for a refund on Laquon Treadwell after a 0.00. The league office explained that the $12 was for the roster spot, not the catches, and that catches were never included."
   },
   {
    "src": "Per a league source",
@@ -764,11 +763,11 @@
   },
   {
    "src": "Rumor mill",
-   "t": "Bill_Buttlicker has framed the Week 10 payout check next to the Week 8 one, under a plaque that reads 'Commissioner of the Year, as voted by the Commissioner.' A third frame is already on the wall, empty, labeled 'Week 11?'"
+   "t": "Bill_Buttlicker has hung a fourth frame on his wall for the Week 11 payout. It currently holds a printout of the Texans D/ST's 15.00, with TotesMagoat's name taped over and 'pending review' written in Sharpie."
   },
   {
    "src": "Unconfirmed",
-   "t": "MakeItRains is believed to be auditioning quarterbacks from the local rec league. One candidate threw for 9.98 imaginary points in the tryout, and MakeItRains said it felt familiar."
+   "t": "MakeItRains reportedly dropped the Dolphins defense because it 'had a bad vibe,' then grabbed the Chargers because 'they just look like a defense.' Hurts So Good's defensive scouting department is a vibe."
   },
   {
    "src": "Exclusive",
@@ -876,7 +875,7 @@
    "bget": [
     "2027 1st (TotesMagoat)"
    ],
-   "why": "TotesMagoat sends his own first for a 37-year-old tight end listed questionable. G8rDuc gets his first 2027 pick. Nobody believes TotesMagoat would do this, which is why it's here.",
+   "why": "TotesMagoat sends his own first for a 37-year-old tight end on a 2-8 team. G8rDuc gets his first 2027 pick. Nobody believes TotesMagoat would do this, which is why it's here.",
    "tag": "Call the commish",
    "bad": true
   }
@@ -884,8 +883,8 @@
  "hotseat": {
   "trying": [
    [
-    "Young Love Hunters",
-    "63.10, the lowest score of the week for the ninth time in ten weeks. Kyle McCord outscored Jordan Love from the bench again. BeatULikeABoss, Love is on bye this week, so at least the decision is made for you."
+    "Prepetente is the GOAT!",
+    "Started Dalton Schultz (2.10) and Xavier Hutchinson (3.30) on Thursday with Marlin Klein (12.40) and Kayshon Boutte (12.00) on the bench. That's 24.40 points sitting down, and one RB slot is still empty. Marco_Polo, you're 3-7 and down 0.30. Set the lineup."
    ],
    [
     "Chubb So Big I Waddle",
@@ -902,8 +901,8 @@
     "208.12, an 11-0 all-play week, a 122.46-point win and the Week 10 payout. Yes, I'm putting myself here again. I also started Sam LaPorta for 2.60, so lower your pitchforks halfway."
    ],
    [
-    "Mean Machine",
-    "Four straight wins, then $200 for the only healthy running back available with Woody Marks in the protocol. Smart. Losing Jaylen Wright to BeatULikeABoss over one dollar, less smart. BertDirty is 5-5 and 174.58 points of tiebreaker out of sixth."
+    "Lemon Squeezy",
+    "43.16 on Thursday from three players, with Drake Maye out and Jaxon Smith-Njigba on bye. C.J. Stroud has three touchdowns in three straight games and was supposed to be the backup. TotesMagoat is 9-1 and hasn't spent a FAAB dollar. I hate it here."
    ],
    [
     "I Believe in Love",
@@ -913,28 +912,28 @@
  },
  "sources": [
   [
-   "David Montgomery has no injury designation for Thursday; Woody Marks ruled out (NBC Sports / PFT)",
-   "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/david-montgomery-has-no-injury-designation-for-thursday-woody-marks-ruled-out"
+   "C.J. Stroud stays in 'groove' with another 3-TD night in Texans' blowout of Colts (ESPN)",
+   "https://www.espn.com/nfl/story/_/id/50538998/cj-stroud-stays-groove-texans-blowout-colts"
   ],
   [
-   "Brock Bowers did not practice on Wednesday (Yahoo Sports)",
-   "https://sports.yahoo.com/articles/brock-bowers-did-not-practice-194433826.html"
+   "C.J. Stroud, defense star as Texans get critical win over Colts on TNF (ESPN)",
+   "https://www.espn.com/nfl/story/_/id/50536733/texans-colts-thursday-night-football-cj-stroud-defense"
   ],
   [
-   "Jonah Coleman established himself as lead RB (Draft Sharks)",
-   "https://www.draftsharks.com/fantasy-football-news/84082/jonah-coleman-established-himself-as-lead-rb"
+   "Rams WR Puka Nacua to serve 3-game suspension while on IR (ESPN)",
+   "https://www.espn.com/nfl/story/_/id/50533560/rams-wr-puka-nacua-serve-3-game-suspension-ir"
   ],
   [
-   "Emari Demercado set to complement Montgomery in Week 11 (RotoWire)",
-   "https://www.rotowire.com/football/headlines/emari-demercado-news-set-to-complement-montgomery-in-week-11-648516"
+   "How Bhayshul Tuten became the clear No. 1 running back for the Jaguars (ESPN)",
+   "https://www.espn.com/nfl/story/_/id/50535497/jacksonville-jaguars-bhayshul-tuten-rb-stats-fantasy"
   ],
   [
-   "Patriots' Drake Maye will be sidelined indefinitely with an ankle injury, AP source says (AJC / AP)",
-   "https://www.ajc.com/news/2026/11/patriots-drake-maye-will-be-sidelined-indefinitely-with-an-ankle-injury-ap-source-says/"
+   "Bucs QB Baker Mayfield hopes to play Sunday despite foot injury (ESPN)",
+   "https://www.espn.com/nfl/story/_/id/50533151/buccaneers-baker-mayfield-hopes-play-foot-injury"
   ],
   [
-   "League matchups, rosters and transactions (Sleeper)",
-   "https://sleeper.com/leagues/1313296545755435008"
+   "Colts at Texans box score (ESPN)",
+   "https://www.espn.com/nfl/boxscore/_/gameId/401873066"
   ]
  ],
  "columnists": [
@@ -975,23 +974,22 @@
    "title": "THE TWO HUNDRED DOLLAR BACKUP!",
    "dek": "Montgomery's back, Demercado's a complement, and Lemon Squeezy's going to win on a THURSDAY.",
    "body": [
-    "DAVID MONTGOMERY! NO INJURY DESIGNATION! FULL PRACTICE ALL WEEK! And what does that mean for BertDirty? It means the TWO HUNDRED DOLLARS he spent yesterday is now on a guy RotoWire calls a COMPLEMENT! A COMPLEMENT! You don't pay two hundred dollars for a compliment! I give those out for FREE! NICE HAIRCUT, BERTDIRTY! THAT ONE'S ON THE HOUSE!",
+    "DAVID MONTGOMERY! NO INJURY DESIGNATION! FULL PRACTICE ALL WEEK! And what does that mean for BertDirty? It means the TWO HUNDRED DOLLARS he spent yesterday is now on a guy RotoWire calls a COMPLEMENT! A COMPLEMENT! You don't pay two hundred dollars for a compliment! I give those out for FREE! NICE HAIRCUT, BertDirty! THAT ONE'S ON THE HOUSE!",
     "And he STILL has an EMPTY RUNNING BACK SLOT! Woody Marks is out, Kyren Williams is on bye, Quinshon Judkins is on bye, and the second RB slot on Mean Machine says ZERO! There's a free agent list! It's RIGHT THERE! It's FREE! You already did the hard part, which was spending money for the first time all season!",
-    "Meanwhile TOTESMAGOAT! C.J. Stroud! Jonathan Taylor! The Texans defense! THREE STARTERS on ONE Thursday night game, and he's already got Brock Bowers on the bench because the man READS THE PRACTICE REPORT! He pulled Jonah Coleman off the TAXI SQUAD to start him! NINE AND ONE! ZERO DOLLARS SPENT! It's not fair! IT'S NEVER FAIR!",
-    "And MARCO_POLO! THREE WEEKS! THREE WEEKS WITH BOTH RUNNING BACK SLOTS EMPTY! J.K. DOBBINS IS ON YOUR BENCH, PAL! He's not hurt! He's not on bye! He's just SITTING THERE, LIKE A GUY AT A WEDDING WHO DOESN'T KNOW ANYBODY! PUT HIM IN! I'M BEGGING YOU! I'M LOSING MY VOICE AND I HAVEN'T EVEN HAD MY SECOND COFFEE!"
+    "Meanwhile TotesMagoat! C.J. Stroud! Jonathan Taylor! The Texans defense! THREE STARTERS on ONE Thursday night game, and he's already got Brock Bowers on the bench because the man READS THE PRACTICE REPORT! He pulled Jonah Coleman off the TAXI SQUAD to start him! NINE AND ONE! ZERO DOLLARS SPENT! It's not fair! IT'S NEVER FAIR!",
+    "And Marco_Polo! THREE WEEKS! THREE WEEKS WITH BOTH RUNNING BACK SLOTS EMPTY! J.K. DOBBINS IS ON YOUR BENCH, PAL! He's not hurt! He's not on bye! He's just SITTING THERE, LIKE A GUY AT A WEDDING WHO DOESN'T KNOW ANYBODY! PUT HIM IN! I'M BEGGING YOU! I'M LOSING MY VOICE AND I HAVEN'T EVEN HAD MY SECOND COFFEE!"
    ]
   },
   {
-   "id": "dd-tre9",
+   "id": "dd-tre10",
    "by": "tre",
    "kicker": "Opinion",
-   "title": "MakeItRains, you scored 156.98 and lost. Go get a quarterback",
-   "dek": "Jahmyr Gibbs can't play quarterback. Hurts So Good is 5‑5 and eighth.",
+   "title": "Marco_Polo, the bench doesn't score for you",
+   "dek": "24.40 points sat down Thursday on a 3‑7 team. Prepetente is the GOAT! is down 0.30.",
    "body": [
-    "I'll keep this short, because the film is short. Hurts So Good scored 156.98 on Sunday. That beat nine teams. It didn't beat Lemon Squeezy, because Christian McCaffrey scored 49.30 and TotesMagoat is TotesMagoat. That's not the problem. The problem is the 9.98 at quarterback.",
-    "Jalen Hurts is on IR. Geno Smith is listed out. Tyler Shough is what's left. Meanwhile Jahmyr Gibbs has 254.40 points this season, second in the league, and you're wasting him. You don't keep running the same play into a stacked box. You change the play.",
-    "Here's the play. I Believe in Love has Matthew Stafford sitting behind Jared Goff with 169.60 points. He's 38. Buccaneer51 will take a second for him. You own all three of your firsts. Spend the second. It's four weeks to the playoffs and you're 309.60 points behind on the tiebreaker, so you need wins, not points.",
-    "And sit Darren Waller if he's going to give you 4.40 at FLEX again. That's not a hot take. That's tackling fundamentals."
+    "I watched the tape on Prepetente is the GOAT! this morning. It's a short tape. Two Texans tight ends and receivers in the lineup, two on the bench. The two on the bench scored. Marlin Klein, 12.40. Kayshon Boutte, 12.00. The two starters, Dalton Schultz and Xavier Hutchinson, scored 5.40 combined. You picked wrong on both. That's not bad luck. That's a coin you flipped twice and lost twice.",
+    "Here's what bothers me. You did the hard part right. You benched the Colts defense, which scored 3.00, and started the Bears. You finally put J.K. Dobbins in a running back slot after three weeks of nobody. And then you left the second running back slot empty again. Marco_Polo, an empty slot is a guaranteed zero. A bad player at least has a chance.",
+    "The score is 5.70 to 5.40 against 50 Shades of Rae. You're down 0.30 to the second-best team in the league because Tank Dell had a quiet night. That's a gift. Josh Allen and Bucky Irving are coming Sunday, so it won't last. You're 3-7 and you own three firsts in the next three drafts. Fine. Rebuild. But a rebuilding team still sets a lineup. Fill the slot."
    ]
   },
   {
@@ -1008,16 +1006,15 @@
    ]
   },
   {
-   "id": "dd-gary11",
+   "id": "dd-gary12",
    "by": "gary",
    "kicker": "Analytics",
-   "title": "The FAAB efficiency index: TotesMagoat is 9‑1 at $0.00 per win",
-   "dek": "$2,686 spent leaguewide, sorted into a model that is wrong but very confident.",
+   "title": "Points per Thursday starter: Lemon Squeezy is +14.39 over expectation",
+   "dek": "Three Thursday starters, 43.16 points, and a stat I made up on the way to the sideline.",
    "body": [
-    "The league has spent $2,686 of FAAB this season. I've divided it by wins, because that's what spreadsheets are for. TotesMagoat has spent $0 and has nine wins: $0.00 per win, a perfect score. Bill_Buttlicker has spent $0 and has seven wins, also perfect. RobMeyers has spent $0 and has three wins. Also perfect. My model says spending money is bad.",
-    "Buccaneer51 has spent $672 for six wins, which is $112 per win. Marco_Polo has spent $631 for three wins, $210.33 per win. G8rDuc has spent $415 for two wins, $207.50 per win. So Marco_Polo pays the most per win in the league, and he has two empty running back slots to show for it. That's not a correlation. That's a receipt.",
-    "Now Emari Demercado. Sunday he ran 7 times for 16 yards and caught one pass for minus one yard. That's 2.50 PPR points. BertDirty paid $200, so $80.00 per point. Buccaneer51 bid $81, which means the market valued him at $32.40 per point. BertDirty overpaid by 147%. He also has no other healthy running back with a game this week, which my model does not track, so I'm ignoring it.",
-    "Finally, BeatULikeABoss won Jaylen Wright for $1 over BertDirty's $0. That's an infinite percentage increase in the bid. Young Love Hunters has won one FAAB showdown by infinity and one game all season. Per my projections, that's a turnaround."
+    "Lemon Squeezy started three players on Thursday and scored 43.16. That's 14.39 points per Thursday starter. The rest of the league started nine Thursday players and scored 52.20 combined, which is 5.80 per starter. So TotesMagoat is +8.59 per head over the field, which I'm rounding up to +14.39 because that's a nicer number and it's my column.",
+    "Now the bench. Marco_Polo left 24.40 points on the bench Thursday with Marlin Klein and Kayshon Boutte, and started 5.40. That's a Bench-to-Starter Ratio of 4.52. Anything over 1.00 means your bench is better than your lineup. By my model, the correct move for Prepetente is the GOAT! is to start the bench and bench the starters. I've sent the model to Marco_Polo. He has not responded.",
+    "Finally, the defense payout. The Texans D/ST scored 15.00 and the Colts D/ST scored 3.00, so the Texans have a 5.00 Defense Dominance Multiple. Historically, teams that lead the defense payout after Thursday win the defense payout 100% of the time, in the one week this league has had a defense payout. I'm not saying it's over. I'm saying my spreadsheet already turned the cell green."
    ]
   }
  ],
@@ -1043,9 +1040,9 @@
    "t": "Scored 16.40 on ChuckJ10's bench in Week 10 while Jameson Williams started at FLEX for 9.00. Ceedees ships coming! 🏆 lost by 14.60. He's done the math and he's not happy about it."
   },
   {
-   "p": "Dalton Schultz",
+   "p": "Marlin Klein",
    "team": "Prepetente is the GOAT!",
-   "t": "Scored 8.10 on the bench while Mike Gesicki started at FLEX for 1.90, on a team that left both running back slots empty. He'd like to know what the roster spot is for."
+   "t": "Caught 4 passes for 24 yards and a touchdown Thursday and scored 12.40 on Marco_Polo's bench, while Dalton Schultz started at tight end for 2.10. Kayshon Boutte (12.00) sat next to him. They've started a group chat."
   },
   {
    "p": "Pat Freiermuth",
@@ -1514,7 +1511,7 @@
     "w": 11,
     "c": "Biggest D: Highest-Scoring Defense",
     "win": "",
-    "detail": "Live: Thursday is Colts at Texans. The only two starting defenses playing tonight are the Texans (TotesMagoat) and the Colts (Marco_Polo). On bye: Seahawks (Bill_Buttlicker), Browns (RobMeyers), Packers (BeatULikeABoss), Rams and Falcons (BertDirty).",
+    "detail": "Live: Texans D/ST (TotesMagoat) leads with 15.00 after holding the Colts to 3 points with 2 sacks and an interception on Thursday. The Colts D/ST scored 3.00 on Marco_Polo's bench. Every other starting defense plays Sunday or Monday. On bye: Seahawks (Bill_Buttlicker), Browns (RobMeyers), Packers (BeatULikeABoss), Rams and Falcons (BertDirty).",
     "st": "live"
    },
    {
