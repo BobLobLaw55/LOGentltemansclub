@@ -1,5 +1,5 @@
 {
- "updated": "Saturday, Nov 21, 2026 · 7:00 AM ET",
+ "updated": "Sunday, Nov 22, 2026 · 7:00 AM ET",
  "week": 11,
  "ticker": [
   [
@@ -41,47 +41,71 @@
  ],
  "wire": [
   {
-   "t": "Chiefs RB Kenneth Walker III (groin) is out for Week 11 against the Cardinals, his second straight missed game. Jets WR Omar Cooper Jr. (ankle/hip) is also out against the Chargers. As of Saturday morning both are in Ceedees ships coming! 🏆's FLEX slots.",
-   "src": "NFL.com",
-   "url": "https://www.nfl.com/news/nfl-week-11-injury-report-2026-season"
-  },
-  {
-   "t": "Bills TE Dalton Kincaid is doubtful (thumb/ankle) and not expected to play against the Dolphins. superdog91 has him at FLEX for 50 Shades of Rae.",
-   "src": "SI Fantasy",
-   "url": "https://www.si.com/onsi/fantasy/injuries/week-11-fantasy-football-injury-report-the-latest-updates-on-brock-bowers-bhayshul-tuten-mike-evans-and-more"
-  },
-  {
-   "t": "49ers WR Mike Evans is questionable (Achilles) and a game-time call for Sunday night's Vikings-49ers game. He's at FLEX for Mean Machine, which still has an empty RB slot.",
-   "src": "SI Fantasy",
-   "url": "https://www.si.com/onsi/fantasy/injuries/week-11-fantasy-football-injury-report-the-latest-updates-on-brock-bowers-bhayshul-tuten-mike-evans-and-more"
-  },
-  {
-   "t": "Raiders TE Brock Bowers is questionable (ankle/quad), another game-time call. TotesMagoat already benched him for Colston Loveland on Thursday.",
-   "src": "SI Fantasy",
-   "url": "https://www.si.com/onsi/fantasy/injuries/week-11-fantasy-football-injury-report-the-latest-updates-on-brock-bowers-bhayshul-tuten-mike-evans-and-more"
-  },
-  {
-   "t": "With Walker out, Emmett Johnson starts again for Kansas City. He's at FLEX for I Believe in Love, which trails Lemon Squeezy 43.16 to 0.00.",
-   "src": "SI Fantasy",
-   "url": "https://www.si.com/onsi/fantasy/injuries/week-11-fantasy-football-injury-report-the-latest-updates-on-brock-bowers-bhayshul-tuten-mike-evans-and-more"
-  },
-  {
-   "t": "Steelers WR Michael Pittman Jr. could come off IR this weekend after two full practices. He's on Hurts So Good's IR. Titans rookie Carnell Tate is questionable but expected to play after a full Friday practice. He's on the Prepetente is the GOAT! bench.",
-   "src": "SI Fantasy",
-   "url": "https://www.si.com/onsi/fantasy/injuries/week-11-fantasy-football-injury-report-the-latest-updates-on-brock-bowers-bhayshul-tuten-mike-evans-and-more"
-  },
-  {
-   "t": "No moves Friday. Week 11 byes: Falcons, Browns, Packers, Rams, Patriots and Seahawks. Prepetente is the GOAT! still has an empty RB slot with Mike Washington Jr. and Sean Tucker healthy on the bench. Rhamondre Stevenson is on the Patriots bye.",
+   "t": "ChuckJ10 fixed it. Late Saturday he added Cowboys TE Brevyn Spann-Ford (dropping Tyler Goodson) and QB Josh Johnson (dropping Ty Johnson), then moved Kenneth Walker III and Omar Cooper Jr. to the bench. Chris Godwin Jr. and Spann-Ford are now the FLEX for Ceedees ships coming! 🏆. Alvin Kamara is still on the bench.",
    "src": "League transactions",
    "url": "https://sleeper.com/leagues/1313296545755435008"
   },
   {
-   "t": "Week 11 payout (Highest-Scoring Defense): the Texans D/ST still leads with 15.00 for TotesMagoat. The other eleven starting defenses play Sunday or Monday.",
+   "t": "Cowboys TE Jake Ferguson (knee/ankle) is out against the Titans and hasn't practiced. Brevyn Spann-Ford is in line for another start as Dallas' top tight end after catching one of three targets for 26 yards in Week 10.",
+   "src": "FantasyFootballers",
+   "url": "https://www.thefantasyfootballers.com/news/648538/jake-ferguson-remains-out-not-yet-practicing/"
+  },
+  {
+   "t": "49ers WR Mike Evans is still listed questionable (Achilles), but NFL.com reports he's expected to play Sunday night against the Vikings. He's at FLEX for Mean Machine.",
+   "src": "NFL.com",
+   "url": "https://www.nfl.com/news/nfl-week-11-injury-report-2026-season"
+  },
+  {
+   "t": "Picken Weiners has an empty DEF slot. The Seahawks D/ST is on bye and sitting on the bench, and the roster is full, so Bill_Buttlicker needs a drop to add a defense before 1 PM.",
+   "src": "League matchups",
+   "url": "https://sleeper.com/leagues/1313296545755435008"
+  },
+  {
+   "t": "BertDirty dropped the Falcons D/ST (bye) Saturday afternoon and added nobody. Mean Machine now has an open roster spot, $800 of FAAB and still an empty RB slot.",
+   "src": "League transactions",
+   "url": "https://sleeper.com/leagues/1313296545755435008"
+  },
+  {
+   "t": "Bills TE Dalton Kincaid is doubtful (thumb/ankle) and is still at FLEX for 50 Shades of Rae as of Sunday morning. Raiders TE Brock Bowers is questionable (ankle/quad) and still on the Lemon Squeezy bench.",
+   "src": "NFL.com",
+   "url": "https://www.nfl.com/news/nfl-week-11-injury-report-2026-season"
+  },
+  {
+   "t": "Prepetente is the GOAT! still has an empty RB slot Sunday morning, with Mike Washington Jr. and Sean Tucker healthy on the bench. Carnell Tate (shoulder) is questionable for Tennessee.",
+   "src": "League matchups",
+   "url": "https://sleeper.com/leagues/1313296545755435008"
+  },
+  {
+   "t": "Week 11 payout (Highest-Scoring Defense): the Texans D/ST leads with 15.00 for TotesMagoat. The other starting defenses play Sunday or Monday, and Picken Weiners doesn't have one yet.",
    "src": "League matchups",
    "url": "https://sleeper.com/leagues/1313296545755435008"
   }
  ],
  "stories": [
+  {
+   "id": "sun1122",
+   "kicker": "Sunday Morning",
+   "title": "ChuckJ10 fixed his lineup. The commissioner forgot his defense.",
+   "dek": "Ceedees ships coming! 🏆 benched two outs and added Brevyn Spann-Ford. Picken Weiners, 7‑3, has nobody in the DEF slot six hours before kickoff.",
+   "body": [
+    "Yesterday I spent a whole story yelling at ChuckJ10 for having two ruled-out players in his FLEX. Around 9:35 PM Saturday he picked up Brevyn Spann-Ford, dropped Tyler Goodson, grabbed Josh Johnson for Ty Johnson, and benched Kenneth Walker III and Omar Cooper Jr. Chris Godwin Jr. and Spann-Ford are the FLEX now. Jake Ferguson is out against the Titans, so Spann-Ford should be the Cowboys' top tight end again. He caught one ball for 26 yards last week. Alvin Kamara, 90.10 points this season, is still on the bench. Fine. Two real players beats two zeros. Line back up to Ceedees ships coming! 🏆 by 25 (79%) over Hurts So Good.",
+    "Now the part where I eat it. I opened my own lineup this morning and Picken Weiners has no defense. The Seahawks are on bye. The Seahawks D/ST is on my bench, scoring the same zero as the empty slot. My roster is full, so I have to cut somebody to fix it, and I've had since last Sunday to notice. I'm still favored over Chubb So Big I Waddle, but I'm knocking my own line from 27 to 21 (75%). RobMeyers is up 15.40 to 0.00 and owns the Steelers D/ST. If I lose by four points, write it on my tombstone.",
+    "BertDirty dropped the Falcons D/ST Saturday afternoon, didn't add anybody, and Mean Machine still has an empty RB slot with an open roster spot and $800 to spend. It's still mostly bad luck with byes and injuries, but now it's an open spot and a free agent list too. Mike Evans is expected to play Sunday night per NFL.com, so the FLEX is probably safe. Mean Machine is 98% against Young Love Hunters either way.",
+    "Still not fixed as of 7 AM: Prepetente is the GOAT! has an empty RB slot with Mike Washington Jr. and Sean Tucker healthy on the bench. superdog91 has Dalton Kincaid (doubtful) at FLEX with Keaton Mitchell and Malachi Fields on the bench. TotesMagoat has Brock Bowers (questionable) on the bench, because of course TotesMagoat already handled it on Thursday. Inactives drop 90 minutes before kickoff. Click the arrows, gentlemen. Me first."
+   ]
+  },
+  {
+   "id": "prev1121",
+   "kicker": "Sunday Preview",
+   "title": "Six games, four weeks left, and the commissioner's game ends Monday night",
+   "dek": "Lemon Squeezy is already up 43.16. Picken Weiners trails 15.40 and needs Ja'Marr Chase and Stefon Diggs on Monday night in Washington.",
+   "body": [
+    "The board, with Thursday's points banked. Lemon Squeezy leads I Believe in Love 43.16 to 0.00 (Lemon Squeezy by 34, 86%). Mean Machine leads Young Love Hunters 20.70 to 0.00 (Mean Machine by 63, 98%). Chubb So Big I Waddle leads Picken Weiners 15.40 to 0.00, but Picken Weiners is still favored by 21 (75%) despite an empty DEF slot. 50 Shades of Rae leads Prepetente is the GOAT! 5.70 to 5.40 (50 Shades of Rae by 37, 88%). Hurts So Good leads Ceedees ships coming! 🏆 3.20 to 0.00 (Ceedees ships coming! 🏆 by 25, 79%, with the FLEX fixed). Trevor Have I Ever leads Hanging with Hernandez 1.80 to 0.00 (Trevor Have I Ever by 20, 74%).",
+    "Sunday night is Vikings-49ers, and it matters. TotesMagoat has Justin Jefferson and Christian McCaffrey at FLEX. I have George Kittle. Buccaneer51 has T.J. Hockenson, RobMeyers has Aaron Jones Sr., G8rDuc has Jordan Mason, Marco_Polo has Brock Purdy and MakeItRains has Deebo Samuel Sr. BertDirty has Mike Evans, if he plays.",
+    "Monday night is Bengals at Washington, and that's where my game gets decided. Picken Weiners has Ja'Marr Chase and Stefon Diggs. Chubb So Big I Waddle has Chase Brown and Tee Higgins. Mean Machine starts Joe Burrow. If I'm down going into Monday, I'm watching the Bengals passing game with RobMeyers like two guys splitting the same pizza and arguing over it.",
+    "The race: Lemon Squeezy (9-1), 50 Shades of Rae (8-2), Picken Weiners (7-3), Trevor Have I Ever (6-4) and I Believe in Love (6-4), then three 5-5 teams for the last spot. Ceedees ships coming! 🏆 and Hurts So Good play each other, so one of them is 6-5 on Tuesday. Mean Machine gets Young Love Hunters. Dynasty angle: Hurts So Good owns all of its firsts. A loss to ChuckJ10 and MakeItRains should start taking calls."
+   ]
+  },
   {
    "id": "sat1121",
    "kicker": "Inactives Watch",
@@ -95,18 +119,6 @@
    ]
   },
   {
-   "id": "prev1121",
-   "kicker": "Sunday Preview",
-   "title": "Six games, four weeks left, and the commissioner's game ends Monday night",
-   "dek": "Lemon Squeezy is already up 43.16. Picken Weiners trails 15.40 and needs Ja'Marr Chase and Stefon Diggs on Monday night in Washington.",
-   "body": [
-    "The board, with Thursday's points banked. Lemon Squeezy leads I Believe in Love 43.16 to 0.00 (Lemon Squeezy by 34, 86%). Mean Machine leads Young Love Hunters 20.70 to 0.00 (Mean Machine by 63, 98%). Chubb So Big I Waddle leads Picken Weiners 15.40 to 0.00, but Picken Weiners is still favored by 27 (81%). 50 Shades of Rae leads Prepetente is the GOAT! 5.70 to 5.40 (50 Shades of Rae by 37, 88%). Hurts So Good leads Ceedees ships coming! 🏆 3.20 to 0.00 (Ceedees ships coming! 🏆 by 21, 75%). Trevor Have I Ever leads Hanging with Hernandez 1.80 to 0.00 (Trevor Have I Ever by 20, 74%).",
-    "Sunday night is Vikings-49ers, and it matters. TotesMagoat has Justin Jefferson and Christian McCaffrey at FLEX. I have George Kittle. Buccaneer51 has T.J. Hockenson, RobMeyers has Aaron Jones Sr., G8rDuc has Jordan Mason, Marco_Polo has Brock Purdy and MakeItRains has Deebo Samuel Sr. BertDirty has Mike Evans, if he plays.",
-    "Monday night is Bengals at Washington, and that's where my game gets decided. Picken Weiners has Ja'Marr Chase and Stefon Diggs. Chubb So Big I Waddle has Chase Brown and Tee Higgins. Mean Machine starts Joe Burrow. If I'm down going into Monday, I'm watching the Bengals passing game with RobMeyers like two guys splitting the same pizza and arguing over it.",
-    "The race: Lemon Squeezy (9-1), 50 Shades of Rae (8-2), Picken Weiners (7-3), Trevor Have I Ever (6-4) and I Believe in Love (6-4), then three 5-5 teams for the last spot. Ceedees ships coming! 🏆 and Hurts So Good play each other, so one of them is 6-5 on Tuesday. Mean Machine gets Young Love Hunters. Dynasty angle: Hurts So Good owns all of its firsts. A loss to ChuckJ10 and MakeItRains should start taking calls."
-   ]
-  },
-  {
    "id": "tnf1120",
    "kicker": "Thursday Night",
    "title": "Lemon Squeezy is up 43.16 to 0.00 before anybody else has played",
@@ -116,18 +128,6 @@
     "I Believe in Love had one Thursday player, Laquon Treadwell, the $12 pickup. Zero catches, 0.00 points. Buccaneer51 is down 43.16 with nine starters left, and the pregame line was already TotesMagoat by 34. Sunday is going to have to be the best day of Jared Goff's life.",
     "The ugliest box score belongs to Prepetente is the GOAT!. Marco_Polo started Dalton Schultz (2.10) and Xavier Hutchinson (3.30). On the bench: Marlin Klein, 12.40 with a touchdown, and Kayshon Boutte, 12.00 with a touchdown. That's 24.40 sitting down, and Prepetente is the GOAT! trails 50 Shades of Rae 5.70 to 5.40. Credit where it's due: he benched the Colts D/ST (3.00) for the Bears, and J.K. Dobbins is finally in a running back slot. The other RB slot is still empty. It's Friday, Marco_Polo.",
     "Now my problem. David Montgomery ran 26 times for 107 yards and scored 15.40 at FLEX for Chubb So Big I Waddle against Picken Weiners, which hasn't played yet. Emari Demercado, BertDirty's $200 back, got 4.90 and Nico Collins added 15.80, so Mean Machine leads Young Love Hunters 20.70 to 0.00 with one RB slot still empty. The Texans D/ST's 15.00 leads the Week 11 defense payout, and of course it belongs to TotesMagoat."
-   ]
-  },
-  {
-   "id": "wk10recap",
-   "kicker": "Week 10 Recap",
-   "title": "Picken Weiners wins by 122.46, the commissioner pays himself again, and it's 7‑3",
-   "dek": "George Pickens' 43.50 takes the receiver payout. Lemon Squeezy is 9‑1, and Mean Machine has won four straight.",
-   "body": [
-    "It's final, and yes, I'm leading with myself. Picken Weiners 208.12, Hanging with Hernandez 85.66. Derrick Henry got 19.00 on Monday night, which made it a 122.46-point win instead of 141.46. It's still the second-biggest margin of the season, behind superdog91's 137.60 in Week 9, and the fourth-highest score of 2026. George Pickens 43.50, Patrick Mahomes 37.42, Ja'Marr Chase 36.10. An 11-0 all-play week.",
-    "The payout: Week 10 was Highest-Scoring Receiver, and Pickens's 43.50 beat Chase's 36.10 and Jaxon Smith-Njigba's 32.10. Bill_Buttlicker, paid. That's Week 8 (Bhayshul Tuten) and Week 10 for the commissioner. ChuckJ10 can file a complaint with the commissioner.",
-    "The rest of the board: Lemon Squeezy beat Hurts So Good 173.72 to 156.98 on Christian McCaffrey's 49.30 and is 9-1. 50 Shades of Rae beat Young Love Hunters 111.64 to 63.10 and is 8-2. I Believe in Love beat Ceedees ships coming! 🏆 155.82 to 141.22. Trevor Have I Ever beat Chubb So Big I Waddle 146.38 to 86.42. Mean Machine beat Prepetente is the GOAT! 146.86 to 101.46, BertDirty's fourth straight win.",
-    "Roast of the week, and it's mine: Sam LaPorta started for 2.60 with Harold Fannin Jr. scoring 16.10 on my bench. Honorable mention to Young Love Hunters, the low score for the ninth time in ten weeks. Four weeks left before the playoffs. Top six right now: Lemon Squeezy, 50 Shades of Rae, Picken Weiners, Trevor Have I Ever, I Believe in Love and Ceedees ships coming! 🏆."
    ]
   }
  ],
@@ -340,7 +340,7 @@
    "own": "Bill_Buttlicker",
    "rec": "7-3",
    "ap": "65-45",
-   "take": "7-3, down 15.40 to 0.00, and an 81% favorite. Sleeper no longer lists Bhayshul Tuten as questionable. Ja'Marr Chase and Stefon Diggs play Monday night, so I'll be sweating until Tuesday."
+   "take": "7-3, down 15.40 to 0.00, and the DEF slot is empty because the Seahawks are on bye and I didn't notice until Sunday morning. Still a 75% favorite. Ja'Marr Chase and Stefon Diggs play Monday night."
   },
   {
    "rk": 4,
@@ -358,7 +358,7 @@
    "own": "BertDirty",
    "rec": "5-5",
    "ap": "63-47",
-   "take": "5-5, four straight wins, up 20.70 to 0.00. Still an empty RB slot, and it's an honest one: every other RB on the roster is on bye or out. Mike Evans is a game-time call at FLEX. 98% favorite."
+   "take": "5-5, four straight wins, up 20.70 to 0.00. Dropped the Falcons D/ST Saturday, so there's an open roster spot and still an empty RB slot. Mike Evans is expected to play. 98% favorite."
   },
   {
    "rk": 6,
@@ -367,7 +367,7 @@
    "own": "ChuckJ10",
    "rec": "5-5",
    "ap": "84-26",
-   "take": "5-5, with Kenneth Walker III and Omar Cooper Jr. both out and both in the FLEX slots as of Saturday. Alvin Kamara and Chris Godwin Jr. are on the bench. Line down to 21 against Hurts So Good."
+   "take": "5-5. ChuckJ10 benched Kenneth Walker III and Omar Cooper Jr. late Saturday and added Brevyn Spann-Ford to start at FLEX with Chris Godwin Jr. Alvin Kamara still on the bench. 79% over Hurts So Good."
   },
   {
    "rk": 7,
@@ -394,7 +394,7 @@
    "own": "Marco_Polo",
    "rec": "3-7",
    "ap": "27-83",
-   "take": "3-7, down 0.30, and still has an empty RB slot with Mike Washington Jr. and Sean Tucker healthy on the bench. Carnell Tate is expected to play."
+   "take": "3-7, down 0.30, and the empty RB slot survived the weekend so far. Mike Washington Jr. and Sean Tucker are healthy on the bench. Carnell Tate is questionable."
   },
   {
    "rk": 10,
@@ -496,10 +496,10 @@
     "Fuck Nick Folk (2022)",
     "Passion of the Clitoris (2021)"
    ],
-   "w7": "vs. Chubb So Big I Waddle · Picken Weiners 81% favorite (by 27)",
+   "w7": "vs. Chubb So Big I Waddle · Picken Weiners 75% favorite (by 21)",
    "inj": [
-    "Bhayshul Tuten (ankle; no designation on Sleeper Saturday)",
-    "Seattle Seahawks D/ST (bye)",
+    "DEF slot empty (Seahawks D/ST on bye)",
+    "Bhayshul Tuten (ankle; no designation on Sleeper)",
     "Jordan Addison (out)",
     "Alec Pierce (IR)"
    ],
@@ -553,11 +553,11 @@
     "Times Up! (2022, third place)",
     "LetsGetPhyZekiel!!! (2019, third place)"
    ],
-   "w7": "vs. Hurts So Good · Ceedees ships coming! 🏆 75% favorite (by 21)",
+   "w7": "vs. Hurts So Good · Ceedees ships coming! 🏆 79% favorite (by 25)",
    "inj": [
-    "Kenneth Walker III (groin, out; starting at FLEX)",
-    "Omar Cooper Jr. (ankle/hip, out; starting at FLEX)",
-    "Jake Ferguson (out)",
+    "Kenneth Walker III (groin, out; benched)",
+    "Omar Cooper Jr. (ankle/hip, out; benched)",
+    "Jake Ferguson (out; Brevyn Spann-Ford added and starting)",
     "Drake London (Falcons bye)",
     "Kyler Murray (out)"
    ],
@@ -582,7 +582,7 @@
     "Show us Your Pitts (2021)",
     "Vick in a Box (2020, third place)"
    ],
-   "w7": "vs. Ceedees ships coming! 🏆 · Ceedees ships coming! 🏆 75% favorite (by 21)",
+   "w7": "vs. Ceedees ships coming! 🏆 · Ceedees ships coming! 🏆 79% favorite (by 25)",
    "inj": [
     "Jalen Hurts (IR)",
     "Michael Pittman Jr. (IR; could be activated)",
@@ -608,7 +608,7 @@
     "RobMeyers (2020)",
     "MayfieldfFor6 (2019)"
    ],
-   "w7": "vs. Picken Weiners · Picken Weiners 81% favorite (by 27)",
+   "w7": "vs. Picken Weiners · Picken Weiners 75% favorite (by 21)",
    "inj": [
     "Denzel Boston (Browns bye)",
     "Hunter Henry (Patriots bye)",
@@ -686,7 +686,7 @@
    ],
    "w7": "vs. 50 Shades of Rae · 50 Shades of Rae 88% favorite (by 37)",
    "inj": [
-    "One RB slot empty as of Saturday",
+    "One RB slot empty as of Sunday morning",
     "Carnell Tate (questionable, expected to play)",
     "Rhamondre Stevenson (Patriots bye)",
     "Terry McLaurin (IR)"
@@ -715,8 +715,8 @@
    ],
    "w7": "vs. Young Love Hunters · Mean Machine 98% favorite (by 63)",
    "inj": [
-    "One RB slot empty as of Saturday",
-    "Mike Evans (Achilles, questionable; starting at FLEX)",
+    "One RB slot empty as of Sunday morning",
+    "Mike Evans (Achilles, questionable; expected to play, at FLEX)",
     "Kyren Williams (Rams bye)",
     "Quinshon Judkins (Browns bye)",
     "Woody Marks (concussion, out)",
@@ -892,16 +892,16 @@
  "hotseat": {
   "trying": [
    [
-    "Ceedees ships coming! 🏆",
-    "Kenneth Walker III and Omar Cooper Jr. are both ruled out and both in the FLEX as of Saturday. Alvin Kamara and Chris Godwin Jr. are on the bench. ChuckJ10, you're 5-5 in a playoff race. Click the little arrows."
+    "Picken Weiners",
+    "Empty DEF slot. The Seahawks are on bye and their defense is on my bench, where it's doing exactly what the empty slot is doing. I'm 7-3 and the commissioner. Somebody take my phone and do it for me."
    ],
    [
     "Prepetente is the GOAT!",
-    "Still one empty RB slot, with Mike Washington Jr. and Sean Tucker healthy on the bench. Marco_Polo left 24.40 on the bench Thursday. It's Saturday now. Set the lineup."
+    "One empty RB slot, still, with Mike Washington Jr. and Sean Tucker healthy on the bench. It's Sunday, Marco_Polo. This is the last morning to fix it."
    ],
    [
     "50 Shades of Rae",
-    "Dalton Kincaid is doubtful and still at FLEX. superdog91 is 8-2 and doesn't need the help, but a doubtful tight end at FLEX is how 8-2 teams lose to 3-7 teams."
+    "Dalton Kincaid is doubtful and still at FLEX Sunday morning. Keaton Mitchell is right there on the bench. superdog91, an 8-2 team shouldn't need reminding."
    ]
   ],
   "gfy": [
@@ -914,12 +914,16 @@
     "Four straight wins and up 20.70 to 0.00. The empty RB slot is real, but every back on the roster is on bye or out, so I'm grading BertDirty on a curve. Go grab a free agent, you've got $800."
    ],
    [
-    "I Believe in Love",
-    "Emmett Johnson starts again for Kansas City with Kenneth Walker III out, and Buccaneer51 has him at FLEX. Down 43.16, but 6-4 in year one. Good for you."
+    "Ceedees ships coming! 🏆",
+    "Benched both outs, added Brevyn Spann-Ford with Jake Ferguson out, and saved the line. ChuckJ10 read yesterday's paper. Kamara's still on the bench, but I'll take the win where I can."
    ]
   ]
  },
  "sources": [
+  [
+   "Jake Ferguson remains out, not yet practicing (FantasyFootballers)",
+   "https://www.thefantasyfootballers.com/news/648538/jake-ferguson-remains-out-not-yet-practicing/"
+  ],
   [
    "NFL Week 11 injury report: Player statuses for all 13 games (NFL.com)",
    "https://www.nfl.com/news/nfl-week-11-injury-report-2026-season"
@@ -939,10 +943,6 @@
   [
    "Rams WR Puka Nacua to serve 3-game suspension while on IR (ESPN)",
    "https://www.espn.com/nfl/story/_/id/50533560/rams-wr-puka-nacua-serve-3-game-suspension-ir"
-  ],
-  [
-   "How Bhayshul Tuten became the clear No. 1 running back for the Jaguars (ESPN)",
-   "https://www.espn.com/nfl/story/_/id/50535497/jacksonville-jaguars-bhayshul-tuten-rb-stats-fantasy"
   ]
  ],
  "columnists": [
@@ -977,29 +977,29 @@
  ],
  "columns": [
   {
-   "id": "dd-mouth20",
+   "id": "dd-mouth21",
    "by": "mouth",
    "kicker": "Opinion",
-   "title": "TWO OUTS! IN THE FLEX! ON A 5‑5 TEAM!",
-   "dek": "Kenneth Walker III is out. Omar Cooper Jr. is out. Alvin Kamara is on the BENCH. ChuckJ10, IT'S SATURDAY!",
+   "title": "THE COMMISSIONER! HAS NO DEFENSE!",
+   "dek": "Seven and three! Running the league! Can't find the DEF slot!",
    "body": [
-    "KENNETH WALKER III! OUT! The Chiefs said it! It's on NFL.com! It's in WRITING! OMAR COOPER JR.! OUT! Ankle AND hip! TWO body parts! And where are they, Saturday morning? In the FLEX! BOTH FLEX SPOTS! For Ceedees ships coming! 🏆! A FIVE AND FIVE TEAM! IN A PLAYOFF RACE!",
-    "And who's on the bench? ALVIN KAMARA! Ninety points this season! He scored 16.40 ON THAT SAME BENCH last week while Ceedees ships coming! 🏆 lost by 14.60! CHRIS GODWIN JR.! Playing! Healthy! Sitting there like a guy at the DMV holding number 47 when they're calling 12!",
-    "I'm not saying ChuckJ10 is going to blow it. It's Saturday. There's TIME. I'm saying I've seen this before! Omar Cooper Jr. was in the FLEX LAST WEEK and scored ZERO! ZERO POINTS! And you know who's playing them? HURTS SO GOOD! MakeItRains is already up 3.20 because of TYLER WARREN on a THURSDAY! It's a 309.60-point tiebreaker cushion over Hurts So Good, ChuckJ10! Don't hand it to him!",
-    "And then there's TotesMagoat! He benched Brock Bowers on THURSDAY! Bowers didn't become a game-time call until FRIDAY! The man is reading injury reports from THE FUTURE! NINE AND ONE! ZERO FAAB DOLLARS! I need to lie down! I CAN'T LIE DOWN, I HAVE TO CHECK THE INACTIVES!"
+    "I spent YESTERDAY screaming at ChuckJ10! TWO OUTS IN THE FLEX! And what does ChuckJ10 do? He FIXES IT! Saturday night! Brevyn Spann-Ford! Chris Godwin Jr.! Kenneth Walker III to the BENCH! Omar Cooper Jr. to the BENCH! Like a GROWN MAN!",
+    "And then I look at PICKEN WEINERS! The COMMISSIONER'S TEAM! And the DEF slot says NOTHING! EMPTY! The Seahawks are on BYE! The Seahawks D/ST is SITTING ON THE BENCH like a guy who showed up to the wedding a week late!",
+    "He's SEVEN AND THREE! He paid HIMSELF TWICE in three weeks! And he's DOWN 15.40 to Chubb So Big I Waddle because DAVID MONTGOMERY ran for 107 yards on THURSDAY! RobMeyers has the STEELERS D/ST! In the SLOT! WHERE IT GOES!",
+    "And BertDirty! He DROPPED the Falcons D/ST! Saturday! And added NOBODY! There's an OPEN ROSTER SPOT and an EMPTY RUNNING BACK SLOT on the SAME TEAM! It's like a STADIUM WITH NO PLAYERS AND ONE EMPTY SEAT! IT'S SUNDAY! KICKOFF IS AT ONE! I'M CHECKING THE INACTIVES FOR ALL OF YOU!"
    ]
   },
   {
-   "id": "dd-tre11",
+   "id": "dd-tre12",
    "by": "tre",
    "kicker": "Opinion",
-   "title": "Two empty slots, and only one of them is excusable",
-   "dek": "BertDirty has a real problem. Marco_Polo has a lineup he hasn't touched.",
+   "title": "ChuckJ10 did his job. Now the rest of you.",
+   "dek": "One manager fixed his lineup overnight. Three others haven't, and one of them runs the league.",
    "body": [
-    "Two teams in this league have an empty running back slot going into Sunday. I looked at both rosters this morning, because somebody has to.",
-    "Mean Machine first. BertDirty's backs: Kyren Williams, Rams bye. Quinshon Judkins, Browns bye. Josh Jacobs, Packers bye and out anyway. Woody Marks, out with a concussion. Emanuel Wilson, out, and the Seahawks are on bye too. Emari Demercado, the $200 man, is already starting and scored 4.90 Thursday. That's not negligence. That's a depth chart that got hit by the schedule. The fix is a free agent, and he has $800 to spend. Do it before Sunday and I have no complaints.",
-    "Prepetente is the GOAT! is different. Marco_Polo has Mike Washington Jr. and Sean Tucker on the bench. Both healthy. Both play Sunday. Neither one is in the lineup. Rhamondre Stevenson is on the Patriots bye, fine, but you only need one body. That empty slot has been there since before Thursday.",
-    "You're down 0.30 to an 8-2 team whose flex tight end is doubtful. That's as close as a 3-7 team gets to a free shot. Put a running back in the slot. I played linebacker for nine years and never once took the field with ten guys on purpose."
+    "Credit first. ChuckJ10 had two players ruled out in his FLEX slots Saturday morning. By Saturday night they were on the bench, Chris Godwin Jr. was in, and he'd added Brevyn Spann-Ford, who should start at tight end for Dallas with Jake Ferguson out. That's a manager who reads the injury report. I'd have started Alvin Kamara over a tight end with one catch last week, but a real player beats a zero every time.",
+    "Now the commissioner. Picken Weiners has an empty DEF slot because the Seahawks are on bye. The roster is full. That means Bill_Buttlicker has to cut somebody to field a full lineup, and he's had a week to do it. He's still favored. He shouldn't need to be.",
+    "Prepetente is the GOAT! still has one RB slot open with Mike Washington Jr. and Sean Tucker on the bench. Marco_Polo is down 0.30 to an 8-2 team. That's the closest game on the board, and he's playing a man short.",
+    "And superdog91 has Dalton Kincaid at FLEX. Doubtful. Keaton Mitchell is on the bench. You don't start the guy who isn't going to suit up. Inactives come out 90 minutes before kickoff. Be at your phone."
    ]
   },
   {
@@ -1521,7 +1521,7 @@
     "w": 11,
     "c": "Biggest D: Highest-Scoring Defense",
     "win": "",
-    "detail": "Live: Texans D/ST (TotesMagoat) leads with 15.00 after holding the Colts to 3 points with 2 sacks and an interception on Thursday. The Colts D/ST scored 3.00 on Marco_Polo's bench. Every other starting defense plays Sunday or Monday. On bye: Seahawks (Bill_Buttlicker), Browns (RobMeyers), Packers (BeatULikeABoss), Rams and Falcons (BertDirty).",
+    "detail": "Live: Texans D/ST (TotesMagoat) leads with 15.00 after holding the Colts to 3 points with 2 sacks and an interception on Thursday. The Colts D/ST scored 3.00 on Marco_Polo's bench. Every other starting defense plays Sunday or Monday. Picken Weiners has no starting defense as of Sunday morning (Seahawks bye). Also on bye: Browns (RobMeyers), Packers (BeatULikeABoss), Rams (BertDirty).",
     "st": "live"
    },
    {
