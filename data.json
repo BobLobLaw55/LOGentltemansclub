@@ -1,128 +1,133 @@
 {
- "updated": "Monday, Nov 23, 2026 · 7:00 AM ET",
- "week": 11,
+ "updated": "Tuesday, Nov 24, 2026 · 6:30 AM ET",
+ "week": 12,
  "ticker": [
   [
-   "Picken Weiners",
-   "208.12",
-   "Hanging with Hernandez",
-   "85.66"
+   "Ceedees ships coming! 🏆",
+   "160.70",
+   "Hurts So Good",
+   "117.88"
   ],
   [
    "Lemon Squeezy",
-   "173.72",
-   "Hurts So Good",
-   "156.98"
-  ],
-  [
+   "157.96",
    "I Believe in Love",
-   "155.82",
-   "Ceedees ships coming! 🏆",
-   "141.22"
+   "135.66"
   ],
   [
-   "Mean Machine",
-   "146.86",
-   "Prepetente is the GOAT!",
-   "101.46"
-  ],
-  [
-   "Trevor Have I Ever",
-   "146.38",
+   "Picken Weiners",
+   "135.66",
    "Chubb So Big I Waddle",
-   "86.42"
+   "96.64"
   ],
   [
    "50 Shades of Rae",
-   "111.64",
+   "109.86",
+   "Prepetente is the GOAT!",
+   "83.10"
+  ],
+  [
+   "Hanging with Hernandez",
+   "106.96",
+   "Trevor Have I Ever",
+   "99.64"
+  ],
+  [
+   "Mean Machine",
+   "96.10",
    "Young Love Hunters",
-   "63.10"
+   "73.78"
   ]
  ],
  "wire": [
   {
-   "t": "Broncos rookie Jonah Coleman ran 24 times for 111 yards and three touchdowns in a 38-24 win over the Raiders, and J.K. Dobbins got one carry. Coleman scored 34.90 in TotesMagoat's RB slot. Dobbins scored 0.00 in Marco_Polo's.",
-   "src": "Denver Gazette",
-   "url": "https://www.denvergazette.com/2026/11/22/jonah-coleman-broncos-raiders-three-touchdowns/"
+   "t": "Commanders 22, Bengals 20 on Monday night, on a Drew Stevens field goal as time expired. Ja'Marr Chase scored 8.10 and Stefon Diggs 8.50 for Picken Weiners. Chase Brown scored 8.60 and Tee Higgins 12.30 for Chubb So Big I Waddle, nowhere near the 43.33 RobMeyers needed. Final: Picken Weiners 135.66, Chubb So Big I Waddle 96.64.",
+   "src": "Sports Illustrated",
+   "url": "https://www.si.com/nfl/commanders/onsi/commanders-vs-bengals-live-updates-score-highlights-mnf-week-11"
   },
   {
-   "t": "Cowboys 51, Titans 30. Dak Prescott went 28 of 33 for 325 yards and four touchdowns and ran one in. That's 35.90 for Ceedees ships coming! 🏆, plus CeeDee Lamb's 30.20 on 11 catches. The Titans D/ST scored -4.00 in Mean Machine's DEF slot.",
-   "src": "NFL.com",
-   "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games"
-  },
-  {
-   "t": "Mike Evans had 6 catches for 109 yards and a touchdown for the 49ers in his first game back from the Achilles injury. He scored 22.90 at FLEX for Mean Machine.",
-   "src": "NFL.com",
-   "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games"
-  },
-  {
-   "t": "The Bears D/ST had six sacks in a 21-13 win over the Saints and scored 17.00. That's the best starting defense of Week 11, and it belongs to Marco_Polo. No starting defense in the league plays Monday night.",
+   "t": "Joe Burrow scored 20.90 Monday night and Mean Machine beat Young Love Hunters 96.10 to 73.78. That's five straight wins for BertDirty, who did it with an empty RB slot all week.",
    "src": "League matchups",
    "url": "https://sleeper.com/leagues/1313296545755435008"
   },
   {
-   "t": "Monday night is Bengals at Washington. Still to play: Ja'Marr Chase and Stefon Diggs (Bill_Buttlicker), Chase Brown and Tee Higgins (RobMeyers), Joe Burrow (BertDirty), Treylon Burks (Marco_Polo), and Antonio Williams and Ben Sinnott (BeatULikeABoss). None carry an injury designation on Sleeper.",
-   "src": "League matchups",
-   "url": "https://sleeper.com/leagues/1313296545755435008"
+   "t": "Jayden Daniels led the 64-yard game-winning drive for Washington and scored 19.06, on Marco_Polo's bench. Brock Purdy started and scored 22.20, so for once the bench call was right. Prepetente is the GOAT! lost to 50 Shades of Rae 109.86 to 83.10 anyway.",
+   "src": "Sports Illustrated",
+   "url": "https://www.si.com/nfl/commanders/onsi/commanders-vs-bengals-live-updates-score-highlights-mnf-week-11"
   },
   {
-   "t": "Eagles RB Saquon Barkley left late in the 19-16 win over the Steelers with a shoulder issue, and Chargers QB Justin Herbert is in the concussion protocol. Barkley is at FLEX for Picken Weiners. Herbert scored 22.44 on the Lemon Squeezy bench.",
-   "src": "NFL.com",
-   "url": "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games"
+   "t": "Week 12 starts Wednesday night with Packers at Rams, then three Thanksgiving games (Bears-Lions, Eagles-Cowboys, Chiefs-Bills) and Broncos-Steelers on Friday. Tucker Kraft (RedDevil904) and Tyler Higbee (RobMeyers) play Wednesday. Set lineups tonight.",
+   "src": "ESPN schedule",
+   "url": "https://www.espn.com/nfl/schedule/_/week/12/year/2026/seasontype/2"
   },
   {
-   "t": "Week 11 free agency was mostly cleanup. ChuckJ10 added Brevyn Spann-Ford and Josh Johnson late Saturday. BertDirty dropped the Falcons D/ST and still ran Mean Machine out with an empty RB slot. No trades this week. TotesMagoat and Bill_Buttlicker still have all $1000 of FAAB.",
+   "t": "Saquon Barkley left Sunday's win with a left shoulder issue and said he believes he'll be ready for Thanksgiving in Dallas. He's listed questionable on Sleeper and sits on the Picken Weiners roster.",
+   "src": "Bleacher Report",
+   "url": "https://bleacherreport.com/articles/25536604-saquon-barkley-updates-status-eagles-cowboys-thanksgiving-game-after-missing-end-steelers-win"
+  },
+  {
+   "t": "Justin Herbert is in the concussion protocol ahead of Patriots-Chargers. He's TotesMagoat's backup quarterback behind C.J. Stroud. Drake Maye (leg) is out at least six weeks, so the Patriots go with Tommy DeVito.",
+   "src": "Yahoo Sports",
+   "url": "https://sports.yahoo.com/fantasy/article/nfl-injury-report-week-12-latest-news-updates-for-kenneth-walker-iii-brock-bowers-more-players-for-fantasy-football-185701559.html"
+  },
+  {
+   "t": "Kenneth Walker III (groin) is uncertain for Thursday's Chiefs-Bills game on a short week, which matters for Ceedees ships coming! 🏆 against Lemon Squeezy. Brock Bowers (ankle) is trending toward playing against Cleveland. Puka Nacua is out for the season, on superdog91's IR.",
+   "src": "Yahoo Sports",
+   "url": "https://sports.yahoo.com/fantasy/article/nfl-injury-report-week-12-latest-news-updates-for-kenneth-walker-iii-brock-bowers-more-players-for-fantasy-football-185701559.html"
+  },
+  {
+   "t": "Quiet week on the wire. No trades since Nov. 11. ChuckJ10 added Brevyn Spann-Ford and Josh Johnson on Saturday, MakeItRains swapped the Dolphins D/ST for the Chargers D/ST, and TotesMagoat and Bill_Buttlicker still haven't spent a dollar of their $1000 FAAB.",
    "src": "League transactions",
    "url": "https://sleeper.com/leagues/1313296545755435008"
   }
  ],
  "stories": [
   {
-   "id": "mon1123",
-   "kicker": "Monday Morning",
-   "title": "Hanging with Hernandez knocks off Trevor Have I Ever, and four teams are headed for 6‑5",
-   "dek": "Ceedees ships coming! 🏆 drops 160.70, Lemon Squeezy goes to 10‑1, and Picken Weiners takes a 43.32 lead into Monday night.",
+   "id": "tue1124",
+   "kicker": "Week 11 Recap",
+   "title": "Picken Weiners hangs on Monday night, and four teams sit at 6‑5 for three spots",
+   "dek": "Lemon Squeezy goes to 10‑1, Ceedees ships coming! 🏆 drops 160.70, and Hanging with Hernandez knocks off a 74% favorite.",
    "body": [
-    "Sunday's finals. Ceedees ships coming! 🏆 put up 160.70, the best score of Week 11, and beat Hurts So Good by 42.82. Dak Prescott threw for four touchdowns and ran one in for 35.90, CeeDee Lamb caught 11 balls for 30.20 and Jameson Williams added 20.30. Brevyn Spann-Ford, the Saturday-night pickup, gave ChuckJ10 8.50 at FLEX. Lemon Squeezy beat I Believe in Love 157.96 to 135.66 because rookie Jonah Coleman ran for three touchdowns (34.90), and TotesMagoat is 10-1. I'd like to file a complaint and I don't know with whom.",
-    "The upset: Hanging with Hernandez 106.96, Trevor Have I Ever 99.64. Trevor Have I Ever was a 74% favorite. Travis Kelce caught two touchdowns for 25.40 and Derrick Henry had 19.10. RedDevil904 started Emeka Egbuka (3.80) and Nate Boerkircher (0.00, with Tucker Kraft on bye) and left Calvin Ridley's 17.80 on the bench. To be fair, Ridley had 15.10 points all season before Sunday. Still a 7.32 loss with 17.80 sitting down. And G8rDuc snapped a four-game skid, which helps exactly nobody on his roster: TotesMagoat owns his 2027 first, and it just got worse.",
-    "Bad beat of the week goes to Buccaneer51. He started Laquon Treadwell (one target, 0.00) and the Vikings D/ST (0.00) against the 49ers, with the 49ers D/ST (16.00) and Rashod Bateman (15.70) on his bench. That's 31.70 on the bench in a 22.30 loss. I Believe in Love started the Vikings defense against the team whose defense it had on the bench. Read that twice.",
-    "Monday night, Bengals at Washington. Picken Weiners leads Chubb So Big I Waddle 119.06 to 75.74, and RobMeyers needs Chase Brown and Tee Higgins to outscore Ja'Marr Chase and Stefon Diggs by 43.33. Mean Machine leads Young Love Hunters 75.20 to 51.58 with Joe Burrow left against Antonio Williams and Ben Sinnott. 50 Shades of Rae leads Prepetente is the GOAT! 109.86 to 78.10, and Marco_Polo needs 31.77 from Treylon Burks. If the leads hold: Lemon Squeezy 10-1, 50 Shades of Rae 9-2, Picken Weiners 8-3, and then Ceedees ships coming! 🏆, Mean Machine, Trevor Have I Ever and I Believe in Love all at 6-5 for three spots. Hurts So Good falls to 5-6. Three weeks left."
+    "Monday night didn't move anything. Picken Weiners beat Chubb So Big I Waddle 135.66 to 96.64. RobMeyers needed Chase Brown and Tee Higgins to outscore Ja'Marr Chase and Stefon Diggs by 43.33, and the Bengals passing game gave everybody about eight points in a 22-20 loss in Washington. I'm 8-3. Chase scored 8.10 and I'll take it. Mean Machine beat Young Love Hunters 96.10 to 73.78 behind Joe Burrow's 20.90, and 50 Shades of Rae beat Prepetente is the GOAT! 109.86 to 83.10.",
+    "The finals from Sunday held. Ceedees ships coming! 🏆 put up 160.70, the high of the week, and beat Hurts So Good by 42.82, the biggest margin of the week. Lemon Squeezy beat I Believe in Love 157.96 to 135.66 behind Jonah Coleman's 34.90, and TotesMagoat is 10-1 with seven straight wins. Hanging with Hernandez beat Trevor Have I Ever 106.96 to 99.64 as a 74% underdog. Young Love Hunters had the low score for the tenth time in eleven weeks.",
+    "The table: Lemon Squeezy 10-1, 50 Shades of Rae 9-2, Picken Weiners 8-3. Then four teams at 6-5, ranked on points: Ceedees ships coming! 🏆 (1714.64), Mean Machine (1475.46), Trevor Have I Ever (1436.46) and I Believe in Love (1240.72). Six teams make it, so one of those four is on the outside right now, and it's I Believe in Love by 195.74 points. Hurts So Good is 5-6 and has lost three straight. Three weeks left.",
+    "Week 12 starts tomorrow night, not Thursday. Packers-Rams is Wednesday, then three games on Thanksgiving and Broncos-Steelers on Friday. Lines: Lemon Squeezy by 14 (67%) over Ceedees ships coming! 🏆, 50 Shades of Rae by 21 (75%) over Mean Machine, Picken Weiners by 2 (53%) over Trevor Have I Ever, Hurts So Good by 11 (64%) over I Believe in Love, Chubb So Big I Waddle by 8 (60%) over Hanging with Hernandez, and Prepetente is the GOAT! by 27 (81%) over Young Love Hunters. Three of the four 6-5 teams play somebody with a better record, and the fourth plays a 5-6 team that's desperate. Somebody's about to find out."
    ]
   },
   {
-   "id": "mon1123b",
+   "id": "tue1124b",
    "kicker": "Payout Watch",
-   "title": "Marco_Polo wins the defense payout. His RB slot was empty again.",
-   "dek": "The Bears D/ST had six sacks and 17.00 points. Prepetente is the GOAT! still trails by 31.76 going into Monday night.",
+   "title": "Marco_Polo gets paid for the Bears D/ST. Week 12 is tight ends, and it starts Wednesday.",
+   "dek": "No stat corrections, so Week 11 is final. Week 12 pays the starting TE with the most catches.",
    "body": [
-    "Week 11's payout is the highest-scoring starting defense, and it's over before Monday night: no starting defense in the league plays in Washington. The Bears D/ST scored 17.00 (six sacks, an interception, a fumble recovery, 13 points allowed) for Marco_Polo. The Texans D/ST (TotesMagoat) finished at 15.00 and the Broncos D/ST (superdog91) at 14.00. It goes final Tuesday after stat corrections.",
-    "Now the rest of the Prepetente is the GOAT! box score. One RB slot was empty all week, and J.K. Dobbins, in the other one, got one carry while Jonah Coleman ran for three touchdowns. Mark Andrews (3.40), Xavier Hutchinson (3.30) and Dalton Schultz (2.10) started, while Devaughn Vele (14.60), Kayshon Boutte (12.00) and Xavier Worthy (11.80) sat on the bench. That's 38.40 on the bench against 8.80 from those three starters.",
-    "Correction, and I'm putting it in writing: all week I said Mike Washington Jr. was healthy on Marco_Polo's bench. He's on the taxi squad, and so is Marlin Klein, so neither one could start. The only eligible back was Sean Tucker, who played and scored 0.00. So the empty slot cost Marco_Polo about nothing. That's somehow worse.",
-    "BertDirty also played the whole week with an empty RB slot and started the Titans D/ST, which gave up 51 to Dallas and scored -4.00. Mean Machine is still winning, 75.20 to 51.58, because the other team is Young Love Hunters. Fantasy football is not a meritocracy."
+    "Week 11 is official. The Bears D/ST scored 17.00 for Marco_Polo, ahead of the Texans D/ST (15.00, TotesMagoat) and the Broncos D/ST (14.00, superdog91). Stat corrections came and went and nothing changed. Prepetente is the GOAT! is 3-8 and has won exactly one thing this month, and it was the defense. Paid.",
+    "Week 12 is Not So Tight End: the starting tight end with the most receptions. Not yards, not points, catches. It starts Wednesday night with Tucker Kraft (Trevor Have I Ever) and Tyler Higbee (Chubb So Big I Waddle) in Packers-Rams, then Sam LaPorta (mine), Colston Loveland (Lemon Squeezy) and Dallas Goedert in the Thanksgiving games, and Travis Kelce (Hanging with Hernandez) in Chiefs-Bills Thursday night.",
+    "Season receiving leaders at the position in this league by fantasy points: Trey McBride (ChuckJ10) 186.30, Isaiah Likely (superdog91) 163.00, Brock Bowers (TotesMagoat) 149.80, George Kittle (me) 148.10. Bowers is trending toward playing. If TotesMagoat wins this one too I'm moving the payout to Week 15 and making it about FAAB spent.",
+    "Commissioner's note: only starting tight ends count. Bench catches don't, which is bad news for Pat Freiermuth, who has outscored the Mean Machine starter at tight end two weeks running."
    ]
   },
   {
-   "id": "sun1122",
-   "kicker": "Sunday Morning",
-   "title": "ChuckJ10 fixed his lineup. The commissioner forgot his defense.",
-   "dek": "Ceedees ships coming! 🏆 benched two outs and added Brevyn Spann-Ford. Picken Weiners, 7‑3, has nobody in the DEF slot six hours before kickoff.",
+   "id": "tue1124c",
+   "kicker": "Week 12 Preview",
+   "title": "Lemon Squeezy vs. Ceedees ships coming! 🏆 is the game of the week, and both teams are banged up",
+   "dek": "The two highest-scoring teams in the league meet with Kenneth Walker III uncertain and Brock Bowers trending toward playing.",
    "body": [
-    "Yesterday I spent a whole story yelling at ChuckJ10 for having two ruled-out players in his FLEX. Around 9:35 PM Saturday he picked up Brevyn Spann-Ford, dropped Tyler Goodson, grabbed Josh Johnson for Ty Johnson, and benched Kenneth Walker III and Omar Cooper Jr. Chris Godwin Jr. and Spann-Ford are the FLEX now. Jake Ferguson is out against the Titans, so Spann-Ford should be the Cowboys' top tight end again. He caught one ball for 26 yards last week. Alvin Kamara, 90.10 points this season, is still on the bench. Fine. Two real players beats two zeros. Line back up to Ceedees ships coming! 🏆 by 25 (79%) over Hurts So Good.",
-    "Now the part where I eat it. I opened my own lineup this morning and Picken Weiners has no defense. The Seahawks are on bye. The Seahawks D/ST is on my bench, scoring the same zero as the empty slot. My roster is full, so I have to cut somebody to fix it, and I've had since last Sunday to notice. I'm still favored over Chubb So Big I Waddle, but I'm knocking my own line from 27 to 21 (75%). RobMeyers is up 15.40 to 0.00 and owns the Steelers D/ST. If I lose by four points, write it on my tombstone.",
-    "BertDirty dropped the Falcons D/ST Saturday afternoon, didn't add anybody, and Mean Machine still has an empty RB slot with an open roster spot and $800 to spend. It's still mostly bad luck with byes and injuries, but now it's an open spot and a free agent list too. Mike Evans is expected to play Sunday night per NFL.com, so the FLEX is probably safe. Mean Machine is 98% against Young Love Hunters either way.",
-    "Still not fixed as of 7 AM: Prepetente is the GOAT! has an empty RB slot with Sean Tucker healthy on the bench. superdog91 has Dalton Kincaid (doubtful) at FLEX with Keaton Mitchell and Malachi Fields on the bench. TotesMagoat has Brock Bowers (questionable) on the bench, because of course TotesMagoat already handled it on Thursday. Inactives drop 90 minutes before kickoff. Click the arrows, gentlemen. Me first."
+    "Lemon Squeezy has 1847.96 points, Ceedees ships coming! 🏆 has 1714.64. Nobody else has more than 1708.92. ChuckJ10 is 95-26 in all-play and 6-5 in real life, which is the single most ChuckJ10 sentence ever written. A win puts Ceedees ships coming! 🏆 at 7-5 with the points tiebreaker over everybody in the 6-5 pile. A loss and it's a coin flip with two weeks left.",
+    "The injuries. Kenneth Walker III (groin) missed Week 11 and is uncertain for Chiefs-Bills on Thursday's short week. Drake London is questionable and Jalen Coker is in the concussion protocol. On the other side, Drake Maye is out at least six weeks and Justin Herbert is in the concussion protocol, but C.J. Stroud is TotesMagoat's starter anyway. Brock Bowers is expected back. Line: Lemon Squeezy by 14 (67%).",
+    "Picken Weiners vs. Trevor Have I Ever is the coin flip. My Saquon Barkley says he'll play Thanksgiving, Bhayshul Tuten and Sam LaPorta are questionable, and I'm only up 3.8 points per game on RedDevil904 before any of that. I'm calling it Picken Weiners by 2 (53%), and I'm the commissioner, so that's the official line. RedDevil904 has no 2027 first, second or third, so for Trevor Have I Ever every game is the season.",
+    "50 Shades of Rae by 21 (75%) over Mean Machine, which has won five straight. BertDirty still has Josh Jacobs (finger) unlikely, Woody Marks (concussion) out and Kyren Williams (toe) questionable, so the RB slot is a problem again. Hurts So Good by 11 (64%) over I Believe in Love in what's basically an elimination game for the loser."
    ]
   },
   {
-   "id": "prev1121",
-   "kicker": "Sunday Preview",
-   "title": "Six games, four weeks left, and the commissioner's game ends Monday night",
-   "dek": "Lemon Squeezy is already up 43.16. Picken Weiners trails 15.40 and needs Ja'Marr Chase and Stefon Diggs on Monday night in Washington.",
+   "id": "tue1124d",
+   "kicker": "Hindsight 20/20",
+   "title": "Three more weeks of hindsight: Mahomes for Brees is now 3,003.8 to 532.0",
+   "dek": "The trade history is refreshed through Week 11. Eight grades changed, and the commissioner is still second on the all-time ledger.",
    "body": [
-    "The board, with Thursday's points banked. Lemon Squeezy leads I Believe in Love 43.16 to 0.00 (Lemon Squeezy by 34, 86%). Mean Machine leads Young Love Hunters 20.70 to 0.00 (Mean Machine by 63, 98%). Chubb So Big I Waddle leads Picken Weiners 15.40 to 0.00, but Picken Weiners is still favored by 21 (75%) despite an empty DEF slot. 50 Shades of Rae leads Prepetente is the GOAT! 5.70 to 5.40 (50 Shades of Rae by 37, 88%). Hurts So Good leads Ceedees ships coming! 🏆 3.20 to 0.00 (Ceedees ships coming! 🏆 by 25, 79%, with the FLEX fixed). Trevor Have I Ever leads Hanging with Hernandez 1.80 to 0.00 (Trevor Have I Ever by 20, 74%).",
-    "Sunday night is Vikings-49ers, and it matters. TotesMagoat has Justin Jefferson and Christian McCaffrey at FLEX. I have George Kittle. Buccaneer51 has T.J. Hockenson, RobMeyers has Aaron Jones Sr., G8rDuc has Jordan Mason, Marco_Polo has Brock Purdy and MakeItRains has Deebo Samuel Sr. BertDirty has Mike Evans, if he plays.",
-    "Monday night is Bengals at Washington, and that's where my game gets decided. Picken Weiners has Ja'Marr Chase and Stefon Diggs. Chubb So Big I Waddle has Chase Brown and Tee Higgins. Mean Machine starts Joe Burrow. If I'm down going into Monday, I'm watching the Bengals passing game with RobMeyers like two guys splitting the same pizza and arguing over it.",
-    "The race: Lemon Squeezy (9-1), 50 Shades of Rae (8-2), Picken Weiners (7-3), Trevor Have I Ever (6-4) and I Believe in Love (6-4), then three 5-5 teams for the last spot. Ceedees ships coming! 🏆 and Hurts So Good play each other, so one of them is 6-5 on Tuesday. Mean Machine gets Young Love Hunters. Dynasty angle: Hurts So Good owns all of its firsts. A loss to ChuckJ10 and MakeItRains should start taking calls."
+    "Tuesday means the trade book gets re-scored. Every graded trade from 2019 through 2025 now counts points through Week 11 of 2026. Eight grades moved, mostly because 2022 and 2024 rookies kept scoring. The ledger leader is still Scubastanky (+2,289.0), who hasn't been in the league since 2023. I'm second at +2,243.3 across 60 trades. superdog91 is last at -2,999.4 and has three titles anyway, which tells you how much trades matter.",
+    "The biggest mover is the one that keeps getting worse for G8rDuc: Patrick Mahomes and the pick that became Chuba Hubbard for Drew Brees and the Michael Carter pick. That's 3,003.8 to 532.0 now. Mahomes scored 24.96 for me in Week 11 and Chuba Hubbard scored 27.00 for RedDevil904, so G8rDuc lost ground on a weekend he actually won his game.",
+    "The Jefferson-Herbert trade is at 3,797.3 points for TotesMagoat against 1,433.2 for superdog91. Five Picks for CMC is 2,951.7 for the picks and 1,565.8 for Christian McCaffrey. No new trades since BeatULikeABoss took Kaleb Johnson and two 2029 picks from TotesMagoat for a 2029 second on Nov. 11.",
+    "Dynasty note for the trade deadline crowd: Puka Nacua is out for the season, per Yahoo, and sits on the 50 Shades of Rae IR. superdog91 is 9-2 without him and still owns four firsts in the next three drafts. Nobody is getting a discount out of that."
    ]
   }
  ],
@@ -130,120 +135,120 @@
   [
    "Lemon Squeezy",
    "TotesMagoat",
-   "9-1",
-   "1690.00",
-   "1305.92",
-   "96-14",
-   "W6"
+   "10-1",
+   "1847.96",
+   "1441.58",
+   "106-15",
+   "W7"
   ],
   [
    "50 Shades of Rae",
    "superdog91",
-   "8-2",
-   "1599.06",
-   "1205.56",
-   "79-31",
-   "W4"
+   "9-2",
+   "1708.92",
+   "1288.66",
+   "85-36",
+   "W5"
   ],
   [
    "Picken Weiners",
    "Bill_Buttlicker",
-   "7-3",
-   "1342.38",
-   "1106.16",
-   "65-45",
-   "W1"
-  ],
-  [
-   "Trevor Have I Ever",
-   "RedDevil904",
-   "6-4",
-   "1336.82",
-   "1197.78",
-   "64-46",
-   "W1"
-  ],
-  [
-   "I Believe in Love",
-   "Buccaneer51",
-   "6-4",
-   "1105.06",
-   "1169.14",
-   "42-68",
-   "W1"
+   "8-3",
+   "1478.04",
+   "1202.80",
+   "73-48",
+   "W2"
   ],
   [
    "Ceedees ships coming! 🏆",
    "ChuckJ10",
-   "5-5",
-   "1553.94",
-   "1482.48",
-   "84-26",
-   "L1"
+   "6-5",
+   "1714.64",
+   "1600.36",
+   "95-26",
+   "W1"
   ],
   [
    "Mean Machine",
    "BertDirty",
-   "5-5",
-   "1379.36",
-   "1335.88",
-   "63-47",
-   "W4"
+   "6-5",
+   "1475.46",
+   "1409.66",
+   "65-56",
+   "W5"
+  ],
+  [
+   "Trevor Have I Ever",
+   "RedDevil904",
+   "6-5",
+   "1436.46",
+   "1304.74",
+   "68-53",
+   "L1"
+  ],
+  [
+   "I Believe in Love",
+   "Buccaneer51",
+   "6-5",
+   "1240.72",
+   "1327.10",
+   "50-71",
+   "L1"
   ],
   [
    "Hurts So Good",
    "MakeItRains",
-   "5-5",
-   "1244.34",
-   "1141.20",
-   "56-54",
-   "L2"
+   "5-6",
+   "1362.22",
+   "1301.90",
+   "63-58",
+   "L3"
   ],
   [
    "Chubb So Big I Waddle",
    "RobMeyers",
-   "3-7",
-   "1122.40",
-   "1269.94",
-   "43-67",
-   "L5"
-  ],
-  [
-   "Prepetente is the GOAT!",
-   "Marco_Polo",
-   "3-7",
-   "986.94",
-   "1189.22",
-   "27-83",
-   "L1"
+   "3-8",
+   "1219.04",
+   "1405.60",
+   "46-75",
+   "L6"
   ],
   [
    "Hanging with Hernandez",
    "G8rDuc",
-   "2-8",
-   "1023.26",
-   "1458.22",
-   "36-74",
-   "L4"
+   "3-8",
+   "1130.22",
+   "1557.86",
+   "41-80",
+   "W1"
+  ],
+  [
+   "Prepetente is the GOAT!",
+   "Marco_Polo",
+   "3-8",
+   "1070.04",
+   "1299.08",
+   "28-93",
+   "L2"
   ],
   [
    "Young Love Hunters",
    "BeatULikeABoss",
-   "1-9",
-   "696.62",
-   "1218.68",
-   "5-105",
-   "L1"
+   "1-10",
+   "770.40",
+   "1314.78",
+   "5-116",
+   "L2"
   ]
  ],
  "recap": {
   "feature": {
-   "title": "Week 10: Picken Weiners wins by 122.46, and Hurts So Good loses with 156.98",
+   "title": "Week 11: Ceedees ships coming! 🏆 hangs 160.70, Lemon Squeezy goes to 10‑1, and the 6‑5 pile gets crowded",
    "body": [
-    "Picken Weiners 208.12, Hanging with Hernandez 85.66. George Pickens had 43.50, Patrick Mahomes 37.42, Ja'Marr Chase 36.10. Bill_Buttlicker started Sam LaPorta (2.60) over Harold Fannin Jr. (16.10) and won by 122.46 anyway. G8rDuc started Bryce Young (8.10) with J.J. McCarthy (18.12) on the bench.",
-    "Lemon Squeezy 173.72, Hurts So Good 156.98. Christian McCaffrey scored 49.30, the top starter of the week, and Jahmyr Gibbs scored 45.20 in a loss. Drake Maye left on the first drive with an ankle injury and scored 3.02. TotesMagoat is 9-1.",
-    "I Believe in Love 155.82, Ceedees ships coming! 🏆 141.22. Emmett Johnson scored 35.10 at FLEX with Kenneth Walker III out for the Chiefs. Omar Cooper Jr. got hurt in the game and scored 0.00 for ChuckJ10. Trevor Have I Ever beat Chubb So Big I Waddle 146.38 to 86.42 behind Chuba Hubbard's 34.20.",
-    "Mean Machine 146.86, Prepetente is the GOAT! 101.46, with both of Marco_Polo's RB slots empty again. 50 Shades of Rae 111.64, Young Love Hunters 63.10, the low of the week. George Pickens takes the Week 10 receiver payout for Bill_Buttlicker."
+    "Ceedees ships coming! 🏆 160.70, Hurts So Good 117.88. Dak Prescott 35.90, the top starter of the week, CeeDee Lamb 30.20, Jameson Williams 20.30. Ashton Jeanty (29.90) and Jahmyr Gibbs (27.80) did their part for MakeItRains. Hurts So Good has lost three straight.",
+    "Lemon Squeezy 157.96, I Believe in Love 135.66. Jonah Coleman, promoted off the taxi squad, scored 34.90. Buccaneer51 started the Vikings D/ST (0.00) against the 49ers with the 49ers D/ST (16.00) on his bench, and Laquon Treadwell (0.00) over Rashod Bateman (15.70).",
+    "Hanging with Hernandez 106.96, Trevor Have I Ever 99.64. Travis Kelce 25.40, Derrick Henry 19.10. Calvin Ridley scored 17.80 on RedDevil904's bench. Picken Weiners 135.66, Chubb So Big I Waddle 96.64; Chubb So Big I Waddle has lost six straight.",
+    "Mean Machine 96.10, Young Love Hunters 73.78, with Joe Burrow's 20.90 on Monday night. 50 Shades of Rae 109.86, Prepetente is the GOAT! 83.10. Marco_Polo's Bears D/ST (17.00) takes the Week 11 defense payout."
    ]
   },
   "weeks": [
@@ -306,6 +311,12 @@
     "blowout": "Picken Weiners 208.12 over Hanging with Hernandez 85.66 (+122.46)",
     "beat": "Hurts So Good scores 156.98, third-best of the week, and loses by 16.74 to Lemon Squeezy.",
     "bed": "Young Love Hunters, 63.10, in a loss to 50 Shades of Rae. The ninth weekly low in ten weeks."
+   },
+   {
+    "w": 11,
+    "blowout": "Ceedees ships coming! 🏆 160.70 over Hurts So Good 117.88 (+42.82)",
+    "beat": "I Believe in Love scores 135.66, tied for third-best of the week, and loses by 22.30 to Lemon Squeezy.",
+    "bed": "Young Love Hunters, 73.78, in a loss to Mean Machine. The tenth weekly low in eleven weeks."
    }
   ]
  },
@@ -315,108 +326,108 @@
    "prev": 1,
    "team": "Lemon Squeezy",
    "own": "TotesMagoat",
-   "rec": "9-1",
-   "ap": "96-14",
-   "take": "Beat I Believe in Love 157.96 to 135.66 and goes to 10-1 on Tuesday. Promoted Jonah Coleman off the taxi squad and he ran for three touchdowns. Justin Herbert's 22.44 sat on the bench as a backup quarterback. Disgusting depth."
+   "rec": "10-1",
+   "ap": "106-15",
+   "take": "Beat I Believe in Love 157.96 to 135.66 for the seventh straight win. 10-1, 106-15 in all-play, 1847.96 points. Gets Ceedees ships coming! 🏆 this week as a 67% favorite with Drake Maye out and Justin Herbert in the protocol, and it still doesn't matter, because C.J. Stroud starts."
   },
   {
    "rk": 2,
    "prev": 2,
    "team": "50 Shades of Rae",
    "own": "superdog91",
-   "rec": "8-2",
-   "ap": "79-31",
-   "take": "Up 109.86 to 78.10 on Prepetente is the GOAT! with only Treylon Burks left on the other side. Javonte Williams 24.10, Bucky Irving 19.00. Fernando Mendoza's 23.88 sat on the bench, which is fine, because the starter was Josh Allen."
+   "rec": "9-2",
+   "ap": "85-36",
+   "take": "Beat Prepetente is the GOAT! 109.86 to 83.10. Five straight wins, 9-2. Puka Nacua is out for the season, and superdog91 still has the second-most points in the league. Favored by 21 over Mean Machine."
   },
   {
    "rk": 3,
-   "prev": 3,
-   "team": "Picken Weiners",
-   "own": "Bill_Buttlicker",
-   "rec": "7-3",
-   "ap": "65-45",
-   "take": "Up 119.06 to 75.74 with Ja'Marr Chase and Stefon Diggs on Monday night. Saquon Barkley left late with a shoulder issue. The Saints D/ST went in for the Seahawks and scored 8.00. Crisis averted, barely."
+   "prev": 4,
+   "team": "Ceedees ships coming! 🏆",
+   "own": "ChuckJ10",
+   "rec": "6-5",
+   "ap": "95-26",
+   "take": "160.70, the best score of Week 11, and an 11-0 all-play week. 95-26 all-play, 6-5 real record, the worst gap in the league. Gets the 10-1 team with Kenneth Walker III uncertain. This is the week."
   },
   {
    "rk": 4,
-   "prev": 6,
-   "team": "Ceedees ships coming! 🏆",
-   "own": "ChuckJ10",
-   "rec": "5-5",
-   "ap": "84-26",
-   "take": "160.70, the best score of Week 11, and an 11-0 all-play week. Dak Prescott 35.90, CeeDee Lamb 30.20. Fixed the FLEX Saturday night and it paid. Most points of any 6-5 team by 260."
+   "prev": 3,
+   "team": "Picken Weiners",
+   "own": "Bill_Buttlicker",
+   "rec": "8-3",
+   "ap": "73-48",
+   "take": "Held on Monday night, 135.66 to 96.64. 8-3. Ja'Marr Chase gave me 8.10 and it didn't matter. Cam Ward scored 23.22 on my bench. Barkley, Tuten and LaPorta are all questionable going into a 53% game. I'm nervous and I set the line."
   },
   {
    "rk": 5,
    "prev": 5,
    "team": "Mean Machine",
    "own": "BertDirty",
-   "rec": "5-5",
-   "ap": "63-47",
-   "take": "Up 75.20 to 51.58 with Joe Burrow to play, despite an empty RB slot and a -4.00 from the Titans D/ST. Mike Evans came back with 22.90. Five straight wins if it holds."
+   "rec": "6-5",
+   "ap": "65-56",
+   "take": "Beat Young Love Hunters 96.10 to 73.78 with an empty RB slot and a -4.00 defense. Five straight wins. 6-5 and fifth on points. 50 Shades of Rae is next as a 75% favorite, and the RB room is still mostly on the injury report."
   },
   {
    "rk": 6,
-   "prev": 4,
+   "prev": 6,
    "team": "Trevor Have I Ever",
    "own": "RedDevil904",
-   "rec": "6-4",
-   "ap": "64-46",
-   "take": "Lost 106.96 to 99.64 to a 2-8 team as a 74% favorite. Calvin Ridley scored 17.80 on the bench. Chuba Hubbard's 27.00 wasn't enough. 6-5 and in a four-way tie."
+   "rec": "6-5",
+   "ap": "68-53",
+   "take": "Lost 106.96 to 99.64 to a 2-8 team with Calvin Ridley's 17.80 on the bench. 6-5, sixth on points, holding the last playoff spot on the tiebreaker. No 2027 first, second or third. Gets me this week."
   },
   {
    "rk": 7,
-   "prev": 7,
-   "team": "I Believe in Love",
-   "own": "Buccaneer51",
-   "rec": "6-4",
-   "ap": "42-68",
-   "take": "Lost by 22.30 with 31.70 on the bench, including the 49ers D/ST that was playing against his starting Vikings D/ST. 6-5, and the worst points total of the 6-5 teams by 196."
-  },
-  {
-   "rk": 8,
    "prev": 8,
    "team": "Hurts So Good",
    "own": "MakeItRains",
-   "rec": "5-5",
-   "ap": "56-54",
-   "take": "Lost 160.70 to 117.88. Ashton Jeanty 29.90 and Jahmyr Gibbs 27.80 did their part. The quarterback spot did not. 5-6 and one game out with three to play."
+   "rec": "5-6",
+   "ap": "63-58",
+   "take": "Three straight losses and 5-6. Lost 160.70 to 117.88 with Geno Smith's 19.44 on the bench and DK Metcalf's 1.20 in the lineup. Favored by 11 over I Believe in Love, and the loser of that one is basically done."
+  },
+  {
+   "rk": 8,
+   "prev": 7,
+   "team": "I Believe in Love",
+   "own": "Buccaneer51",
+   "rec": "6-5",
+   "ap": "50-71",
+   "take": "6-5, but 1240.72 points, last among the 6-5 teams by 195.74. That's why it's seventh right now and out of a playoff spot. 31.70 on the bench in a 22.30 loss. Underdog to Hurts So Good."
   },
   {
    "rk": 9,
-   "prev": 11,
+   "prev": 9,
    "team": "Hanging with Hernandez",
    "own": "G8rDuc",
-   "rec": "2-8",
-   "ap": "36-74",
-   "take": "Beat Trevor Have I Ever 106.96 to 99.64. Travis Kelce caught two touchdowns at 37. Snapped a four-game skid, and TotesMagoat owns the 2027 first, so it only costs Lemon Squeezy."
+   "rec": "3-8",
+   "ap": "41-80",
+   "take": "Upset Trevor Have I Ever as a 26% shot. Travis Kelce 25.40 at 37 years old. 3-8, and TotesMagoat owns the 2027 first, so every win is a gift to Lemon Squeezy."
   },
   {
    "rk": 10,
    "prev": 10,
    "team": "Chubb So Big I Waddle",
    "own": "RobMeyers",
-   "rec": "3-7",
-   "ap": "43-67",
-   "take": "Down 119.06 to 75.74 and needs Chase Brown and Tee Higgins to beat Ja'Marr Chase and Stefon Diggs by 43.33 on Monday night. Aaron Rodgers outscored Caleb Williams on the bench, 15.98 to 15.34."
+   "rec": "3-8",
+   "ap": "46-75",
+   "take": "Six straight losses, 3-8. Aaron Rodgers outscored Caleb Williams on the bench again, 15.98 to 15.34. Owns all its own picks. Favored by 8 over Hanging with Hernandez, which is the bar now."
   },
   {
    "rk": 11,
-   "prev": 9,
+   "prev": 11,
    "team": "Prepetente is the GOAT!",
    "own": "Marco_Polo",
-   "rec": "3-7",
-   "ap": "27-83",
-   "take": "Wins the Week 11 defense payout with the Bears D/ST (17.00) and still trails by 31.76 with only Treylon Burks left. Empty RB slot, again. 38.40 on the bench."
+   "rec": "3-8",
+   "ap": "28-93",
+   "take": "Lost 109.86 to 83.10 with an empty RB slot for the second straight week. Won the defense payout. 3-8, 28-93 all-play. Favored by 27 over Young Love Hunters, so put somebody in the RB slot, Marco_Polo."
   },
   {
    "rk": 12,
    "prev": 12,
    "team": "Young Love Hunters",
    "own": "BeatULikeABoss",
-   "rec": "1-9",
-   "ap": "5-105",
-   "take": "51.58, the low score of Week 11, with Jack Bech's 22.80 on the bench. Antonio Williams and Ben Sinnott play Monday, and they need 2.83 to stay out of the Hall of Fame's bottom five."
+   "rec": "1-10",
+   "ap": "5-116",
+   "take": "1-10, 5-116 all-play, 73.78 points, the low of the week for the tenth time. Jack Bech scored 22.80 on the bench. Owns its 2027 first, which is the only thing this team is playing for."
   }
  ],
  "teams": [
@@ -424,9 +435,9 @@
    "key": "lemon",
    "name": "Lemon Squeezy",
    "own": "TotesMagoat",
-   "rec": "9-1",
-   "pf": "1690.00",
-   "ap": "96-14",
+   "rec": "10-1",
+   "pf": "1847.96",
+   "ap": "106-15",
    "since": "2019",
    "titles": 4,
    "past": [
@@ -436,25 +447,25 @@
     "Swift kick in the Lance (2022, champion)",
     "Taylor (&) Swift (2021, champion)"
    ],
-   "w7": "vs. I Believe in Love · Won 157.96 to 135.66 (final)",
+   "w7": "vs. Ceedees ships coming! 🏆 · Lemon Squeezy 67% favorite (by 14)",
    "inj": [
-    "Drake Maye (ankle, out)",
-    "Brock Bowers (ankle, out in Week 11)",
+    "Drake Maye (leg, out at least six weeks)",
     "Justin Herbert (concussion protocol)",
+    "Brock Bowers (ankle, expected to play)",
     "Tyjae Spears (IR)"
    ],
    "body": [
-    "TotesMagoat is 9-1 after beating Hurts So Good 173.72 to 156.98. Christian McCaffrey scored 49.30, the best starter score in the league in Week 10, and Jaxon Smith-Njigba added 32.10 at FLEX. Drake Maye hurt his ankle on the Patriots' opening drive in Munich and finished with 3.02, which is the only reason C.J. Stroud's 20.44 was on the bench. Six straight wins and a 96-14 all-play record.",
-    "Week 11: Lemon Squeezy 157.96, I Believe in Love 135.66, and TotesMagoat goes to 10-1 on Tuesday. Jonah Coleman, a taxi stash a month ago, started at RB and ran for three touchdowns (34.90). C.J. Stroud 21.46, the Texans D/ST 15.00, Malik Nabers 18.50. Justin Herbert scored 22.44 on the bench. Still hasn't spent a FAAB dollar, still has six firsts across the next three drafts, and still the most points in the league. The Texans D/ST finished second in the defense payout, which is the closest thing to bad news this team has had since September."
+    "TotesMagoat is 10-1 after Week 11, 1st in the standings, with 1847.96 points (1st in the league) and a 106-15 all-play record. Lemon Squeezy has won 7 straight.",
+    "Week 12: Lemon Squeezy vs. Ceedees ships coming! 🏆, the two highest-scoring teams in the league. TotesMagoat is a 67% favorite by 14. Drake Maye is out at least six weeks and Justin Herbert is in the concussion protocol, which would matter if C.J. Stroud weren't the starter. Brock Bowers is trending toward playing. Seven straight wins, six firsts in the next three drafts, $1000 of FAAB untouched. The only question left is seeding."
    ]
   },
   {
    "key": "trevor",
    "name": "Trevor Have I Ever",
    "own": "RedDevil904",
-   "rec": "6-4",
-   "pf": "1336.82",
-   "ap": "64-46",
+   "rec": "6-5",
+   "pf": "1436.46",
+   "ap": "68-53",
    "since": "2019",
    "titles": 0,
    "past": [
@@ -463,24 +474,25 @@
     "Rebuild 3.0 (2022, 5-9)",
     "RB Graveyard (2021, 6-8)"
    ],
-   "w7": "vs. Hanging with Hernandez · Lost 106.96 to 99.64 (final)",
+   "w7": "vs. Picken Weiners · Picken Weiners 53% favorite (by 2)",
    "inj": [
     "Lamar Jackson (IR)",
-    "Tyreek Hill (no team, knee)",
-    "Tucker Kraft (Packers bye in Week 11)"
+    "Dallas Goedert (questionable)",
+    "Seth McGowan (hamstring, out)",
+    "Tyreek Hill (no team)"
    ],
    "body": [
-    "RedDevil904 snapped a three-game skid by beating Chubb So Big I Waddle 146.38 to 86.42. Chuba Hubbard scored 34.20, Parker Washington 29.20, Trevor Lawrence 27.78 and James Cook III 22.70. Trevor Have I Ever is 6-4, the fourth seed, and sixth in points (1336.82).",
-    "Week 11: Hanging with Hernandez 106.96, Trevor Have I Ever 99.64, as a 74% favorite. Chuba Hubbard ran for two touchdowns (27.00) and Parker Washington added 18.30. But Nate Boerkircher scored 0.00 at tight end with Tucker Kraft on bye, Emeka Egbuka scored 3.80, and Calvin Ridley's 17.80 sat on the bench in a 7.32 loss. RedDevil904 is 6-5 in a four-way tie for the last three playoff spots, with no 2027 first, second or third. This was the all-in team. It needed this one."
+    "RedDevil904 is 6-5 after Week 11, 6th in the standings, with 1436.46 points (6th in the league) and a 68-53 all-play record. Trevor Have I Ever has lost its last game.",
+    "Week 12: at Picken Weiners, a 53% game on my own line. RedDevil904 lost to Hanging with Hernandez 106.96 to 99.64 with Calvin Ridley's 17.80 on the bench and Nate Boerkircher's 0.00 at tight end. Holds the sixth spot at 6-5 on points. No 2027 first, second or third, Kirk Cousins at 38 and Lamar Jackson on IR: this is the window, and it's three weeks long."
    ]
   },
   {
    "key": "etn",
    "name": "Picken Weiners",
    "own": "Bill_Buttlicker",
-   "rec": "7-3",
-   "pf": "1342.38",
-   "ap": "65-45",
+   "rec": "8-3",
+   "pf": "1478.04",
+   "ap": "73-48",
    "since": "2020",
    "titles": 0,
    "past": [
@@ -490,25 +502,25 @@
     "Fuck Nick Folk (2022)",
     "Passion of the Clitoris (2021)"
    ],
-   "w7": "vs. Chubb So Big I Waddle · Leads 119.06 to 75.74 (Ja'Marr Chase, Stefon Diggs on MNF)",
+   "w7": "vs. Trevor Have I Ever · Picken Weiners 53% favorite (by 2)",
    "inj": [
-    "Saquon Barkley (shoulder, left late Sunday)",
-    "Jordan Addison (out)",
-    "Alec Pierce (IR)",
-    "Christian Kirk (IR)"
+    "Saquon Barkley (shoulder, questionable)",
+    "Bhayshul Tuten (questionable)",
+    "Sam LaPorta (questionable)",
+    "Jordan Addison (thumb, out)"
    ],
    "body": [
-    "The commissioner scored 208.12, the fourth-highest score of 2026, and beat Hanging with Hernandez by 122.46, the second-biggest margin of the season behind superdog91's 137.60. George Pickens scored 43.50 and won the Week 10 receiver payout. Patrick Mahomes 37.42, Ja'Marr Chase 36.10. An 11-0 all-play week. Picken Weiners is 7-3.",
-    "Week 11 so far: Picken Weiners 119.06, Chubb So Big I Waddle 75.74, with Ja'Marr Chase and Stefon Diggs to play Monday against Chase Brown and Tee Higgins. Patrick Mahomes 24.96, George Pickens 23.80, George Kittle 18.40. The Saints D/ST went into the DEF slot for the bye-week Seahawks and scored 8.00, which is 8.00 more than I deserved after Sunday morning. Saquon Barkley left late with a shoulder issue, so that's the week to watch. Cam Ward scored 23.22 on the bench as Mahomes' backup. If it holds, I'm 8-3 and alone in third."
+    "Bill_Buttlicker is 8-3 after Week 11, 3rd in the standings, with 1478.04 points (4th in the league) and a 73-48 all-play record. Picken Weiners has won 2 straight.",
+    "Week 11 final: Picken Weiners 135.66, Chubb So Big I Waddle 96.64. Ja'Marr Chase 8.10 and Stefon Diggs 8.50 on Monday night didn't matter because RobMeyers needed 43.33. George Pickens 23.80, Mahomes 24.96, Kittle 18.40 at FLEX. Cam Ward scored 23.22 on the bench. 8-3, third. Week 12 vs. Trevor Have I Ever, by 2 (53%), with Barkley, Tuten and LaPorta all questionable. Harold Fannin Jr. is back from bye and I'm going to start the wrong tight end again, I can feel it."
    ]
   },
   {
    "key": "rae",
    "name": "50 Shades of Rae",
    "own": "superdog91",
-   "rec": "8-2",
-   "pf": "1599.06",
-   "ap": "79-31",
+   "rec": "9-2",
+   "pf": "1708.92",
+   "ap": "85-36",
    "since": "2019",
    "titles": 3,
    "past": [
@@ -519,25 +531,25 @@
     "Rae Day (2020, champion)",
     "50 Shades of RAE (2019, champion)"
    ],
-   "w7": "vs. Prepetente is the GOAT! · Leads 109.86 to 78.10 (Treylon Burks left for the other side)",
+   "w7": "vs. Mean Machine · 50 Shades of Rae 75% favorite (by 21)",
    "inj": [
-    "Puka Nacua (IR, knee)",
+    "Puka Nacua (IR, out for season)",
     "Dalton Kincaid (thumb, out)",
     "De'Von Achane (IR)",
-    "Bijan Robinson (Falcons bye in Week 11)"
+    "Keaton Mitchell (questionable)"
    ],
    "body": [
-    "superdog91 beat Young Love Hunters 111.64 to 63.10 and is 8-2, four straight wins. Isaiah Likely scored 28.70 at tight end and Josh Allen 24.34. It was the lowest winning score of the week, and it didn't matter.",
-    "Week 11 so far: 50 Shades of Rae 109.86, Prepetente is the GOAT! 78.10, and the only player left on either side is Treylon Burks, who needs 31.77 to beat superdog91. Javonte Williams scored 24.10, Tetairoa McMillan 19.10 and Bucky Irving 19.00. The Broncos D/ST scored 14.00, third among starting defenses. Michael Mayer (1.40) and Keon Coleman (3.70) at FLEX were the soft spots, with Kincaid out and Bijan Robinson on bye. 9-2 on Tuesday if it holds."
+    "superdog91 is 9-2 after Week 11, 2nd in the standings, with 1708.92 points (3rd in the league) and a 85-36 all-play record. 50 Shades of Rae has won 5 straight.",
+    "Week 11 final: 50 Shades of Rae 109.86, Prepetente is the GOAT! 83.10. Javonte Williams 24.10, Bucky Irving 19.00, Tetairoa McMillan 19.10. Fernando Mendoza scored 23.88 on the bench. Five straight wins, 9-2. Puka Nacua is out for the season. Week 12 vs. Mean Machine, by 21 (75%). Dalton Kincaid (thumb) is out again, so FLEX is still the weak spot."
    ]
   },
   {
    "key": "ceedee",
    "name": "Ceedees ships coming! 🏆",
    "own": "ChuckJ10",
-   "rec": "5-5",
-   "pf": "1553.94",
-   "ap": "84-26",
+   "rec": "6-5",
+   "pf": "1714.64",
+   "ap": "95-26",
    "since": "2019",
    "titles": 0,
    "past": [
@@ -546,25 +558,25 @@
     "Times Up! (2022, third place)",
     "LetsGetPhyZekiel!!! (2019, third place)"
    ],
-   "w7": "vs. Hurts So Good · Won 160.70 to 117.88 (final)",
+   "w7": "vs. Lemon Squeezy · Lemon Squeezy 67% favorite (by 14)",
    "inj": [
-    "Kenneth Walker III (groin, out)",
-    "Omar Cooper Jr. (ankle, out)",
-    "Jake Ferguson (knee, out)",
-    "Davante Adams (IR)"
+    "Kenneth Walker III (groin, uncertain)",
+    "Drake London (questionable)",
+    "Jalen Coker (concussion)",
+    "Jake Ferguson (knee, out)"
    ],
    "body": [
-    "ChuckJ10 lost 155.82 to 141.22 to I Believe in Love and is 5-5. Dak Prescott scored 35.42 and Tony Pollard 23.90. Omar Cooper Jr. got hurt during the game and finished with 0.00 at FLEX, and Alvin Kamara scored 16.40 on the bench. The most points against in the league (1482.48), third in points for (1553.94), and still holding the sixth seed on points.",
-    "Week 11: Ceedees ships coming! 🏆 160.70, Hurts So Good 117.88. The best score of the week and an 11-0 all-play week. Dak Prescott threw four touchdowns and ran one in for 35.90, CeeDee Lamb had 30.20 on 11 catches, Jameson Williams 20.30 and Breece Hall 19.00. The Saturday-night FLEX fix gave ChuckJ10 Brevyn Spann-Ford (8.50) and Chris Godwin Jr. (4.30) instead of two zeros. Justice Hill scored 17.60 and Josh Johnson 10.70 on the bench, but it didn't matter. 6-5 with 1714.64 points, the most of any team in the four-way tie."
+    "ChuckJ10 is 6-5 after Week 11, 4th in the standings, with 1714.64 points (2nd in the league) and a 95-26 all-play record. Ceedees ships coming! 🏆 has won its last game.",
+    "Week 11 final: 160.70 over Hurts So Good, the best score of the week and an 11-0 all-play week. Dak Prescott 35.90, CeeDee Lamb 30.20. 6-5 and fourth on points, 95-26 in all-play. Week 12 vs. Lemon Squeezy as a 14-point underdog (33%). Kenneth Walker III is uncertain on a short week, Drake London is questionable and Jalen Coker is in the protocol. One first in the next three drafts, oldest core in the league (28.2). Win now or explain later."
    ]
   },
   {
    "key": "hurts",
    "name": "Hurts So Good",
    "own": "MakeItRains",
-   "rec": "5-5",
-   "pf": "1244.34",
-   "ap": "56-54",
+   "rec": "5-6",
+   "pf": "1362.22",
+   "ap": "63-58",
    "since": "2019",
    "titles": 0,
    "past": [
@@ -573,25 +585,25 @@
     "Show us Your Pitts (2021)",
     "Vick in a Box (2020, third place)"
    ],
-   "w7": "vs. Ceedees ships coming! 🏆 · Lost 160.70 to 117.88 (final)",
+   "w7": "vs. I Believe in Love · Hurts So Good 64% favorite (by 11)",
    "inj": [
-    "Jalen Hurts (IR, calf)",
+    "Jalen Hurts (IR)",
     "Michael Pittman Jr. (IR)",
     "James Conner (IR)",
     "Romeo Doubs (IR)"
    ],
    "body": [
-    "MakeItRains scored 156.98, third-best in the league in Week 10, and lost to Lemon Squeezy by 16.74. Jahmyr Gibbs scored 45.20, Deebo Samuel Sr. 26.90 and Blake Corum 20.90. Tyler Shough scored 9.98 at quarterback. Hurts So Good would've beaten nine teams and is 5-5 and eighth.",
-    "Week 11: Ceedees ships coming! 🏆 160.70, Hurts So Good 117.88. Ashton Jeanty (29.90) and Jahmyr Gibbs (27.80) combined for 57.70, and DK Metcalf scored 1.20. Tyler Shough started at quarterback for 14.28 while Geno Smith threw three touchdowns for 19.44 on the bench, but a 42.82 loss isn't about five points. Evan Engram had 13.40 on the bench too. MakeItRains is 5-6, one game behind four teams, and owns all its firsts. It's time to pick a lane."
+    "MakeItRains is 5-6 after Week 11, 8th in the standings, with 1362.22 points (7th in the league) and a 63-58 all-play record. Hurts So Good has lost 3 straight.",
+    "Week 11 final: lost 160.70 to 117.88. Ashton Jeanty 29.90, Jahmyr Gibbs 27.80, and then DK Metcalf 1.20 and Tyler Warren 3.20. Geno Smith scored 19.44 on the bench while Tyler Shough started for 14.28. Three straight losses, 5-6, one game out. Week 12 vs. I Believe in Love, favored by 11 (64%). Owns all its firsts, so a loss here should turn into a sale."
    ]
   },
   {
    "key": "chubb",
    "name": "Chubb So Big I Waddle",
    "own": "RobMeyers",
-   "rec": "3-7",
-   "pf": "1122.40",
-   "ap": "43-67",
+   "rec": "3-8",
+   "pf": "1219.04",
+   "ap": "46-75",
    "since": "2019",
    "titles": 0,
    "past": [
@@ -599,44 +611,46 @@
     "RobMeyers (2020)",
     "MayfieldfFor6 (2019)"
    ],
-   "w7": "vs. Picken Weiners · Trails 119.06 to 75.74 (Chase Brown, Tee Higgins on MNF)",
+   "w7": "vs. Hanging with Hernandez · Chubb So Big I Waddle 60% favorite (by 8)",
    "inj": [
-    "None of note"
+    "TreVeyon Henderson (IR)",
+    "Brandon Aiyuk (did not report)",
+    "Ja'Tavion Sanders (out)"
    ],
    "body": [
-    "RobMeyers lost 146.38 to 86.42 to Trevor Have I Ever, his fifth straight loss. Chase Brown scored 28.30. Deshaun Watson scored 22.38 on the bench while Aaron Rodgers started for 15.62. Quentin Johnston finished with 1.60 on Monday. Chubb So Big I Waddle is 3-7.",
-    "Week 11 so far: Picken Weiners 119.06, Chubb So Big I Waddle 75.74. David Montgomery's Thursday 15.40 held up as the team high, and Caleb Williams added 15.34. Aaron Rodgers scored 15.98 on the bench. RobMeyers needs Chase Brown and Tee Higgins to outscore Ja'Marr Chase and Stefon Diggs by 43.33 on Monday night. If not, it's six straight losses and 3-8. Owns all his picks. Higgins (27) has 173.40 points and should be on the block by Tuesday."
+    "RobMeyers is 3-8 after Week 11, 9th in the standings, with 1219.04 points (9th in the league) and a 46-75 all-play record. Chubb So Big I Waddle has lost 6 straight.",
+    "Week 11 final: Picken Weiners 135.66, Chubb So Big I Waddle 96.64. Chase Brown 8.60 and Tee Higgins 12.30 on Monday night; it needed 43.33. Six straight losses, 3-8. David Montgomery 15.40 at FLEX. Aaron Rodgers outscored Caleb Williams on the bench. Week 12 vs. Hanging with Hernandez, favored by 8 (60%). Owns all its picks and should be selling Tee Higgins to a contender this week."
    ]
   },
   {
    "key": "love",
    "name": "I Believe in Love",
    "own": "Buccaneer51",
-   "rec": "6-4",
-   "pf": "1105.06",
-   "ap": "42-68",
+   "rec": "6-5",
+   "pf": "1240.72",
+   "ap": "50-71",
    "since": "2026",
    "titles": 0,
    "past": [],
-   "w7": "vs. Lemon Squeezy · Lost 157.96 to 135.66 (final)",
+   "w7": "vs. Hurts So Good · Hurts So Good 64% favorite (by 11)",
    "inj": [
     "Jeremiyah Love (IR)",
     "RJ Harvey (IR)",
     "Wan'Dale Robinson (IR)",
-    "Kendrick Bourne (IR)"
+    "DJ Moore (questionable)"
    ],
    "body": [
-    "Buccaneer51 beat Ceedees ships coming! 🏆 155.82 to 141.22, the team's best score of the season. Emmett Johnson got the Chiefs' carries with Kenneth Walker III out and scored 35.10 at FLEX. Cam Skattebo added 27.20 and the Vikings defense 22.00. I Believe in Love is 6-4 and the fifth seed, with the ninth-most points in the league.",
-    "Week 11: Lemon Squeezy 157.96, I Believe in Love 135.66. Emmett Johnson scored 24.30 at FLEX, DJ Moore 23.10, Jared Goff 22.36 and Ladd McConkey 20.70. Then the lineup: Laquon Treadwell started and scored 0.00 on one target, and the Vikings D/ST started against the 49ers and scored 0.00. The 49ers D/ST scored 16.00 on Buccaneer51's bench and Rashod Bateman scored 15.70. 31.70 on the bench, 22.30 loss. 6-5 with the fewest points of the 6-5 teams."
+    "Buccaneer51 is 6-5 after Week 11, 7th in the standings, with 1240.72 points (8th in the league) and a 50-71 all-play record. I Believe in Love has lost its last game.",
+    "Week 11 final: lost 157.96 to 135.66 with the 49ers D/ST (16.00) and Rashod Bateman (15.70) on the bench. Emmett Johnson 24.30, DJ Moore 23.10. 6-5, but seventh on points and out of a playoff spot on the tiebreaker. Week 12 vs. Hurts So Good as an 11-point underdog (36%). Five quarterbacks on the roster in a 1-QB league, two of them on taxi. That's not depth, that's a hobby."
    ]
   },
   {
    "key": "hernandez",
    "name": "Hanging with Hernandez",
    "own": "G8rDuc",
-   "rec": "2-8",
-   "pf": "1023.26",
-   "ap": "36-74",
+   "rec": "3-8",
+   "pf": "1130.22",
+   "ap": "41-80",
    "since": "2019",
    "titles": 0,
    "past": [
@@ -645,22 +659,24 @@
     "Someone's gotta do it (2023, 1-13)",
     "Why do I torture myself (2020, 1-12)"
    ],
-   "w7": "vs. Trevor Have I Ever · Won 106.96 to 99.64 (final)",
+   "w7": "vs. Chubb So Big I Waddle · Chubb So Big I Waddle 60% favorite (by 8)",
    "inj": [
+    "Derrick Henry (questionable)",
+    "Sam Darnold (quad, may return)",
     "Malik Davis (IR)"
    ],
    "body": [
-    "G8rDuc lost 208.12 to 85.66 to Picken Weiners, the second-biggest beating of the season. Derrick Henry scored 19.00 on Monday. Bryce Young started for 8.10 while J.J. McCarthy scored 18.12 on the bench, two weeks after the reverse happened. Hanging with Hernandez is 2-8 and has lost four straight.",
-    "Week 11: Hanging with Hernandez 106.96, Trevor Have I Ever 99.64. A four-game losing streak over, as a 20-point underdog. Travis Kelce caught two touchdowns for 25.40, Derrick Henry had 19.10 and Bryce Young 15.96. G8rDuc even picked the right quarterback this time: J.J. McCarthy scored 14.22 on the bench. Kyle Monangai (1.80) and Jordan Mason (4.70) at FLEX, with Kenny Gainwell and Darius Cooper scoring 9.90 each on the bench, but a win's a win. 3-8, and the 2027 first belongs to TotesMagoat, so nobody here is tanking for anything."
+    "G8rDuc is 3-8 after Week 11, 10th in the standings, with 1130.22 points (10th in the league) and a 41-80 all-play record. Hanging with Hernandez has won its last game.",
+    "Week 11 final: beat Trevor Have I Ever 106.96 to 99.64. Travis Kelce 25.40, Derrick Henry 19.10. Snapped a four-game skid. 3-8. Week 12 vs. Chubb So Big I Waddle, an 8-point underdog (40%). TotesMagoat owns the 2027 first, so every win only helps Lemon Squeezy. Henry is questionable and Sam Darnold may be back from the quad."
    ]
   },
   {
    "key": "prepetente",
    "name": "Prepetente is the GOAT!",
    "own": "Marco_Polo",
-   "rec": "3-7",
-   "pf": "986.94",
-   "ap": "27-83",
+   "rec": "3-8",
+   "pf": "1070.04",
+   "ap": "28-93",
    "since": "2023",
    "titles": 0,
    "past": [
@@ -668,25 +684,25 @@
     "My Purdy Average Team (2024, 4-10)",
     "Not the Sacko (2023, 5-9)"
    ],
-   "w7": "vs. 50 Shades of Rae · Trails 109.86 to 78.10 (Treylon Burks on MNF)",
+   "w7": "vs. Young Love Hunters · Prepetente is the GOAT! 81% favorite (by 27)",
    "inj": [
-    "Jayden Reed (IR)",
-    "Jaxson Dart (IR)",
     "Terry McLaurin (IR)",
-    "Jayden Higgins (IR)"
+    "Brian Robinson Jr. (IR)",
+    "Kayshon Boutte (hip, questionable)",
+    "Jaxson Dart (IR)"
    ],
    "body": [
-    "Marco_Polo lost 146.86 to 101.46 to Mean Machine and is 3-7. Brock Purdy scored 33.66 and Mark Andrews 16.20 on Monday, but both running back slots stayed empty for a second straight week. Jayden Daniels scored 20.76 on the bench. The second-fewest points in the league (986.94).",
-    "Week 11 so far: 50 Shades of Rae 109.86, Prepetente is the GOAT! 78.10, and Treylon Burks needs 31.77 on Monday night. The Bears D/ST scored 17.00 and wins Marco_Polo the Week 11 defense payout. Brock Purdy had 22.20. One RB slot was empty and J.K. Dobbins got one carry. Devaughn Vele (14.60), Kayshon Boutte (12.00) and Xavier Worthy (11.80) were on the bench while Mark Andrews, Xavier Hutchinson and Dalton Schultz started for 8.80 combined. Correction from earlier editions: Mike Washington Jr. and Marlin Klein are on the taxi squad and couldn't be started."
+    "Marco_Polo is 3-8 after Week 11, 11th in the standings, with 1070.04 points (11th in the league) and a 28-93 all-play record. Prepetente is the GOAT! has lost 2 straight.",
+    "Week 11 final: lost 109.86 to 83.10. Brock Purdy 22.20, Khalil Shakir 15.30, Bears D/ST 17.00 and the Week 11 payout. Empty RB slot again. Jayden Daniels led Washington's game-winning drive Monday and scored 19.06 on the bench. 3-8. Week 12 vs. Young Love Hunters, favored by 27 (81%). Mike Washington Jr. is still on the taxi squad."
    ]
   },
   {
    "key": "mean",
    "name": "Mean Machine",
    "own": "BertDirty",
-   "rec": "5-5",
-   "pf": "1379.36",
-   "ap": "63-47",
+   "rec": "6-5",
+   "pf": "1475.46",
+   "ap": "65-56",
    "since": "2019",
    "titles": 0,
    "past": [
@@ -696,75 +712,75 @@
     "RB's We have THE MEATS! (2022)",
     "Dirty Fuckin' Dangles! (2019)"
    ],
-   "w7": "vs. Young Love Hunters · Leads 75.20 to 51.58 (Joe Burrow on MNF)",
+   "w7": "vs. 50 Shades of Rae · 50 Shades of Rae 75% favorite (by 21)",
    "inj": [
-    "Josh Jacobs (finger, out)",
+    "Josh Jacobs (finger, unlikely)",
     "Woody Marks (concussion, out)",
     "Kyren Williams (toe, questionable)",
-    "Isiah Pacheco (IR)"
+    "Marvin Harrison Jr. (hamstring, out)"
    ],
    "body": [
-    "BertDirty beat Prepetente is the GOAT! 146.86 to 101.46 for a fourth straight win. Joe Burrow scored 35.16, Nico Collins 24.40 and the Rams defense 17.00. Mean Machine is 5-5, one spot out of the playoffs on points (1379.36 to Ceedees ships coming! 🏆's 1553.94).",
-    "Week 11 so far: Mean Machine 75.20, Young Love Hunters 51.58, with Joe Burrow left against Antonio Williams and Ben Sinnott. Mike Evans came back from the Achilles injury with 22.90 at FLEX, Zay Flowers had 16.40 and Nico Collins 15.80. The empty RB slot stayed empty, the Titans D/ST scored -4.00, and Baker Mayfield (19.08), Pat Freiermuth (9.00) and Roman Wilson (7.30) were on the bench. If it holds, that's five straight wins and a 6-5 record. Still $800 of FAAB."
+    "BertDirty is 6-5 after Week 11, 5th in the standings, with 1475.46 points (5th in the league) and a 65-56 all-play record. Mean Machine has won 5 straight.",
+    "Week 11 final: beat Young Love Hunters 96.10 to 73.78. Joe Burrow 20.90 on Monday night, Mike Evans 22.90 at FLEX, the Titans D/ST -4.00. Five straight wins, 6-5, fifth on points. Week 12 vs. 50 Shades of Rae as a 21-point underdog (25%). Josh Jacobs is unlikely, Woody Marks is out and Kyren Williams is questionable, so fill the RB slot this time. TotesMagoat owns the 2027 first."
    ]
   },
   {
    "key": "young",
    "name": "Young Love Hunters",
    "own": "BeatULikeABoss",
-   "rec": "1-9",
-   "pf": "696.62",
-   "ap": "5-105",
+   "rec": "1-10",
+   "pf": "770.40",
+   "ap": "5-116",
    "since": "2025",
    "titles": 0,
    "past": [
     "Mayfield Loves Mayhem (2025, 3-11)"
    ],
-   "w7": "vs. Mean Machine · Trails 75.20 to 51.58 (Antonio Williams, Ben Sinnott on MNF)",
+   "w7": "vs. Prepetente is the GOAT! · Prepetente is the GOAT! 81% favorite (by 27)",
    "inj": [
-    "Jordan Love (Packers bye in Week 11)",
+    "Malik Willis (IR)",
+    "Audric Estime (out)",
     "Trey Benson (IR)",
-    "Jalen McMillan (IR)",
     "Jake Tonges (IR)"
    ],
    "body": [
-    "BeatULikeABoss lost 111.64 to 63.10 to 50 Shades of Rae, the lowest score of Week 10 and the ninth time in ten weeks Young Love Hunters has posted the league's low. Jordan Love scored 10.80 while Kyle McCord scored 12.76 on the bench. Young Love Hunters is 1-9 and 5-105 in all-play.",
-    "Week 11 so far: Mean Machine 75.20, Young Love Hunters 51.58, the low score of the week. Kyle McCord started at quarterback with Jordan Love on bye and scored 2.98. Ted Hurst III caught two touchdowns for 22.60, and Jack Bech scored 22.80 on the bench. Antonio Williams and Ben Sinnott play Monday night and need 2.83 combined to stay out of the bottom five scores in league history. BeatULikeABoss still has eight 2027 picks in the first three rounds and the inside track on the top pick."
+    "BeatULikeABoss is 1-10 after Week 11, 12th in the standings, with 770.40 points (12th in the league) and a 5-116 all-play record. Young Love Hunters has lost 2 straight.",
+    "Week 11 final: lost 96.10 to 73.78. Antonio Williams 22.20 and Ted Hurst III 22.60, Kyle McCord 2.98 at quarterback, and Jack Bech's 22.80 on the bench. 1-10, the low of the week for the tenth time in eleven weeks. Week 12 vs. Prepetente is the GOAT!, a 27-point underdog (19%). Owns its 2027 first and eight picks in the first three rounds. Lose with dignity."
    ]
   }
  ],
  "rumors": [
   {
    "src": "Breaking",
-   "t": "Buccaneer51 has reportedly confirmed that he started the Vikings D/ST against the 49ers on purpose, 'to keep it a fair fight.' The 49ers D/ST, on his bench, has asked to be traded to a team that knows which side it's on."
+   "t": "ChuckJ10 has reportedly asked the league to switch to all-play standings for 'just this one season, as an experiment.' He is 95-26 in all-play. He is 6-5 in the one that counts."
   },
   {
    "src": "Sources",
-   "t": "Marco_Polo's empty RB slot has been named a finalist for the Week 11 defense payout. Judges say it allowed zero points all day."
+   "t": "TotesMagoat's $1000 of FAAB has been spotted in a safe-deposit box in the Cayman Islands. Accountants say it's accruing interest and will be used to buy the 2027 draft outright."
   },
   {
    "src": "Developing",
-   "t": "TotesMagoat is said to have found Jonah Coleman by holding a séance in the taxi squad. The spirit of a 34.90-point week answered. Nobody else in the league has been allowed in the room."
-  },
-  {
-   "src": "Per a league source",
-   "t": "RedDevil904 has asked the league to review Calvin Ridley's 17.80 on the bench, arguing that points scored by players you didn't start 'should count for morale.' The commissioner is considering it, for his own team only."
+   "t": "Marco_Polo's empty RB slot has filed for free agency after two straight weeks of starting. Agents say it wants a bigger role on a contender and has already turned down Young Love Hunters."
   },
   {
    "src": "Rumor mill",
-   "t": "G8rDuc celebrated his first win in five weeks by mailing TotesMagoat a thank-you card for 'taking my 2027 first off my hands.' TotesMagoat has framed it next to his four rings."
+   "t": "Buccaneer51 is said to be shopping for a sixth quarterback. Asked why, he said 'you can't have too many,' then started the wrong defense again in a practice league he made up."
+  },
+  {
+   "src": "Per a league source",
+   "t": "BertDirty has won five straight games with an empty RB slot and is now telling people running backs are 'a construct.' He's been seen trying to start a punter at RB."
+  },
+  {
+   "src": "Breaking",
+   "t": "The Week 12 tight-end payout has been sponsored by a local diner that pays in pie. Bill_Buttlicker denies he picked the category because his team plays on Thanksgiving."
+  },
+  {
+   "src": "Sources",
+   "t": "BeatULikeABoss has hired a tarot reader to set the Young Love Hunters lineup. The first reading was 'start Jack Bech.' He benched him out of spite."
   },
   {
    "src": "Unconfirmed",
-   "t": "BertDirty is said to be holding open tryouts for Mean Machine's second RB slot at a local YMCA. Two dads and a Labrador showed up. The Labrador is the early favorite."
-  },
-  {
-   "src": "Exclusive",
-   "t": "RobMeyers has reportedly bought a Bengals jersey and a Commanders jersey for Monday night, and plans to wear the Bengals one on his top half only, from the waist up, for Chase Brown and Tee Higgins. The bottom half is for whoever's covering Ja'Marr Chase."
-  },
-  {
-   "src": "Whispers",
-   "t": "BeatULikeABoss has hired a motivational speaker for Antonio Williams and Ben Sinnott. The speech is one sentence long: 'Please score 2.83 points.'"
+   "t": "RobMeyers has asked whether a six-game losing streak can be traded as a future pick. The commissioner is reviewing it, and leaning yes, since it's worth about a 2027 sixth."
   }
  ],
  "trades": [
@@ -775,10 +791,23 @@
    ],
    "b": "Chubb So Big I Waddle",
    "bget": [
-    "2027 2nd (BeatULikeABoss)"
+    "2027 2nd (via RedDevil904)",
+    "Malachi Fields"
    ],
-   "why": "superdog91 started Michael Mayer (1.40) and Keon Coleman (3.70) at FLEX in Week 11 with Puka Nacua on IR. Higgins (27) has 173.40 points. RobMeyers is about to be 3-8 with six straight losses, and BeatULikeABoss's second will be one of the first picks of round two.",
+   "why": "superdog91 started Keon Coleman (3.70) and Michael Mayer (1.40) at FLEX in Week 11, and Puka Nacua is out for the season. Higgins (27) has 185.70 points. RobMeyers has lost six straight and gets RedDevil904's second, which could land early in round two, plus a 23-year-old receiver.",
    "tag": "Contender buys"
+  },
+  {
+   "a": "Ceedees ships coming! 🏆",
+   "aget": [
+    "Courtland Sutton"
+   ],
+   "b": "Hanging with Hernandez",
+   "bget": [
+    "2028 3rd (via G8rDuc)"
+   ],
+   "why": "Chris Godwin Jr. scored 4.30 at FLEX in Week 11 and Jalen Coker is in the concussion protocol. G8rDuc has no 2027 picks and gets his own 2028 third back for a 31-year-old receiver on a 3-8 team.",
+   "tag": "Both sides win"
   },
   {
    "a": "Mean Machine",
@@ -787,134 +816,122 @@
    ],
    "b": "Hanging with Hernandez",
    "bget": [
-    "2028 3rd (BertDirty)"
+    "2028 3rd (BertDirty)",
+    "Efton Chism III"
    ],
-   "why": "Mean Machine played all of Week 11 with an empty RB slot. Josh Jacobs and Woody Marks are out and Kyren Williams is questionable. Warren (28) has 157.80 points. G8rDuc is 3-8 with no 2027 picks and should take anything.",
-   "tag": "Both sides win"
-  },
-  {
-   "a": "Hurts So Good",
-   "aget": [
-    "Matthew Stafford"
-   ],
-   "b": "I Believe in Love",
-   "bget": [
-    "2028 2nd (MakeItRains)"
-   ],
-   "why": "Jalen Hurts is on IR and Tyler Shough scored 14.28. Stafford (38) has 169.62 points and sits behind Jared Goff. MakeItRains is 5-6 and needs points now. Buccaneer51 should take a second for a 38-year-old backup.",
-   "tag": "Fills a need"
-  },
-  {
-   "a": "Ceedees ships coming! 🏆",
-   "aget": [
-    "Chase Brown"
-   ],
-   "b": "Chubb So Big I Waddle",
-   "bget": [
-    "2028 2nd (ChuckJ10)"
-   ],
-   "why": "Kenneth Walker III is out again with the groin injury. Brown (26) has 129.70 points before Monday night. ChuckJ10 has the oldest core in the league and one first in three drafts, so this is a now move. RobMeyers gets a pick for the rebuild.",
-   "tag": "Win now"
+   "why": "Mean Machine has played two straight weeks with an empty RB slot. Jacobs is unlikely, Marks is out and Kyren Williams is questionable. Warren (28) has 157.80 points. G8rDuc gets a pick and a 25-year-old taxi receiver with 50.84 points.",
+   "tag": "Fill the hole"
   },
   {
    "a": "Trevor Have I Ever",
    "aget": [
-    "Pat Freiermuth"
+    "Hunter Henry"
    ],
-   "b": "Mean Machine",
+   "b": "Chubb So Big I Waddle",
    "bget": [
-    "2028 3rd (RedDevil904)"
+    "Germie Bernard"
    ],
-   "why": "Trevor Have I Ever's tight end scored 0.00 in a 7.32 loss. Freiermuth (28) has 99.50 points and keeps getting benched behind Brenton Strange. BertDirty gets a pick for a guy he won't start.",
-   "tag": "Bye-week patch"
-  },
-  {
-   "a": "Young Love Hunters",
-   "aget": [
-    "Jonah Coleman"
-   ],
-   "b": "Lemon Squeezy",
-   "bget": [
-    "Kyle McCord"
-   ],
-   "why": "Coleman scored 34.90 on Sunday. McCord scored 2.98. BeatULikeABoss says it's fair because McCord 'is due.'",
-   "tag": "Veto immediately",
-   "bad": true
+   "why": "RedDevil904's tight end slot scored 0.00 in Week 11 and Tucker Kraft only covers so much. Henry (31) has 84.30 points. RobMeyers is rebuilding and gets a 22-year-old receiver with 77.80 points. RedDevil904 has no 2027 picks to offer, so it has to be a player.",
+   "tag": "All-in"
   },
   {
    "a": "Picken Weiners",
    "aget": [
-    "Ashton Jeanty"
+    "Rhamondre Stevenson"
    ],
-   "b": "Hurts So Good",
+   "b": "Prepetente is the GOAT!",
    "bget": [
-    "Sam LaPorta",
     "2028 3rd (Bill_Buttlicker)"
    ],
-   "why": "The commissioner wants a 22-year-old running back who just scored 29.90 for the tight end he keeps starting over Harold Fannin Jr. and a third. He has already approved it. MakeItRains has not.",
-   "tag": "Commissioner abuse",
-   "bad": true
+   "why": "Saquon Barkley and Bhayshul Tuten are both questionable. Stevenson (28) has 117.20 points and is the best healthy back on a 3-8 roster. Marco_Polo gets a pick for a running back he isn't using, judging by the empty RB slot.",
+   "tag": "Commissioner special"
   },
   {
    "a": "Lemon Squeezy",
    "aget": [
-    "Jayden Daniels"
+    "2027 1st (BeatULikeABoss)"
    ],
-   "b": "Prepetente is the GOAT!",
+   "b": "Young Love Hunters",
    "bget": [
-    "Lions D/ST"
+    "Keenan Allen"
    ],
-   "why": "Marco_Polo saw the Bears D/ST win him a payout and decided defenses are the market inefficiency. He's sending a 25-year-old quarterback to the 10-1 team for a defense on the bench. Lock the league.",
+   "why": "BeatULikeABoss is 1-10 and his 2027 first is about to be the first overall pick. He sends it to the 10-1 team for a 34-year-old receiver who is sixth on Lemon Squeezy's WR depth chart. Somebody call TotesMagoat's lawyer, then mine.",
+   "tag": "Veto it",
+   "bad": true
+  },
+  {
+   "a": "Hanging with Hernandez",
+   "aget": [
+    "Aaron Rodgers"
+   ],
+   "b": "Chubb So Big I Waddle",
+   "bget": [
+    "2028 1st (G8rDuc)"
+   ],
+   "why": "G8rDuc owns one first in the next three drafts and spends it on a 42-year-old backup quarterback, at 3-8, with Bryce Young starting. TotesMagoat already has the 2027 first. This would make it a clean sweep for everyone but G8rDuc.",
    "tag": "Call the commish",
+   "bad": true
+  },
+  {
+   "a": "I Believe in Love",
+   "aget": [
+    "Kirk Cousins"
+   ],
+   "b": "Trevor Have I Ever",
+   "bget": [
+    "Emmett Johnson"
+   ],
+   "why": "Buccaneer51 already has Jared Goff, Matthew Stafford and Bo Nix plus two taxi quarterbacks in a 1-QB league. He'd give up a 23-year-old running back with 121.20 points for a 38-year-old sixth quarterback. It's a collection now.",
+   "tag": "Lock the league",
    "bad": true
   }
  ],
  "hotseat": {
   "trying": [
    [
-    "I Believe in Love",
-    "Started the Vikings D/ST against the 49ers while the 49ers D/ST sat on the bench, then started Laquon Treadwell for a zero with Rashod Bateman on the bench. 31.70 points sitting down in a 22.30 loss. You're 6-5 in a four-way tie, Buccaneer51. That's the season."
+    "Hurts So Good",
+    "Three straight losses. Started Tyler Shough (14.28) with Geno Smith (19.44) on the bench and DK Metcalf put up 1.20. 5-6 with three to play, MakeItRains. Your two running backs scored 57.70 and you still lost by 42.82."
+   ],
+   [
+    "Chubb So Big I Waddle",
+    "Six straight losses. Aaron Rodgers outscored Caleb Williams on your bench for the second week in a row. RobMeyers, if your backup is better two weeks running, he isn't the backup."
    ],
    [
     "Prepetente is the GOAT!",
-    "Won the defense payout and still played a man short at running back with 38.40 on the bench. Marco_Polo got paid for the one slot he set correctly."
-   ],
-   [
-    "Trevor Have I Ever",
-    "Lost to a 2-8 team as a 74% favorite. The tight end slot scored 0.00 and Calvin Ridley's 17.80 watched from the bench. The all-in team went all-in on Emeka Egbuka."
+    "Empty RB slot two weeks running. Won a defense payout. That's the season, Marco_Polo: one correct slot and a check for it."
    ]
   ],
   "gfy": [
    [
-    "Ceedees ships coming! 🏆",
-    "Fixed the FLEX Saturday night and dropped 160.70 on Sunday. 11-0 all-play week. ChuckJ10, I yelled at you for two days and you answered with the best score in the league. Fine. You win this one."
-   ],
-   [
     "Lemon Squeezy",
-    "Pulled Jonah Coleman off the taxi squad and he ran for three touchdowns. 10-1. Hasn't spent a FAAB dollar. TotesMagoat, I'm begging you to make one mistake before the playoffs."
+    "10-1. Seven straight. Lost the starting QB for six weeks and the backup's in the protocol, and it doesn't matter because the third guy is C.J. Stroud. TotesMagoat, go to hell."
    ],
    [
-    "Hanging with Hernandez",
-    "Beat the 74% favorite as a 2-8 team and picked the right quarterback for once. G8rDuc, I've got nothing. Enjoy it. TotesMagoat owns your first anyway."
+    "Mean Machine",
+    "Five straight wins with an empty RB slot and a -4.00 defense. BertDirty, I don't understand how and I've stopped asking."
+   ],
+   [
+    "Picken Weiners",
+    "Won on Monday night with 8.10 from Ja'Marr Chase. 8-3. I'm putting myself on here because nobody else will, and because I left Cam Ward's 23.22 on the bench. Again."
    ]
   ]
  },
  "sources": [
   [
+   "Commanders 22, Bengals 20: Final Score, Highlights, Stats (Sports Illustrated)",
+   "https://www.si.com/nfl/commanders/onsi/commanders-vs-bengals-live-updates-score-highlights-mnf-week-11"
+  ],
+  [
+   "NFL Injury Report, Week 12: Latest news for Kenneth Walker III, Brock Bowers and more (Yahoo Sports)",
+   "https://sports.yahoo.com/fantasy/article/nfl-injury-report-week-12-latest-news-updates-for-kenneth-walker-iii-brock-bowers-more-players-for-fantasy-football-185701559.html"
+  ],
+  [
    "2026 NFL season, Week 11: What We Learned from Sunday's games (NFL.com)",
    "https://www.nfl.com/news/2026-nfl-season-week-11-what-we-learned-from-sunday-s-games"
   ],
   [
-   "Jonah Coleman makes Broncos rushing history against Raiders (Denver Gazette)",
-   "https://www.denvergazette.com/2026/11/22/jonah-coleman-broncos-raiders-three-touchdowns/"
-  ],
-  [
-   "NFL Week 11 injury report: Player statuses for all 13 games (NFL.com)",
-   "https://www.nfl.com/news/nfl-week-11-injury-report-2026-season"
-  ],
-  [
-   "Jake Ferguson remains out, not yet practicing (FantasyFootballers)",
-   "https://www.thefantasyfootballers.com/news/648538/jake-ferguson-remains-out-not-yet-practicing/"
+   "NFL Week 12 schedule (ESPN)",
+   "https://www.espn.com/nfl/schedule/_/week/12/year/2026/seasontype/2"
   ]
  ],
  "columnists": [
@@ -949,69 +966,79 @@
  ],
  "columns": [
   {
-   "id": "dd-mouth22",
+   "id": "dd-mouth23",
    "by": "mouth",
    "kicker": "Opinion",
-   "title": "FOUR TEAMS! THREE SPOTS! ONE IS 6‑5 WITH THE MOST POINTS!",
-   "dek": "Ceedees ships coming! 🏆 hangs 160.70! I Believe in Love starts the WRONG DEFENSE!",
+   "title": "NINETY-FIVE AND TWENTY-SIX! SIX AND FIVE! EXPLAIN IT!",
+   "dek": "Ceedees ships coming! 🏆 has beaten every team in the league 95 times and might miss the playoffs anyway!",
    "body": [
-    "CEEDEES SHIPS COMING! 160.70! DAK PRESCOTT! FOUR TOUCHDOWN PASSES AND ONE ON HIS FEET! 35.90! CEEDEE LAMB! ELEVEN CATCHES! And ChuckJ10, who I YELLED AT FOR TWO DAYS, fixed his FLEX on SATURDAY NIGHT and put up the BEST SCORE IN THE LEAGUE! I'M NOT APOLOGIZING! I'M JUST SAYING IT HAPPENED!",
-    "And then! I BELIEVE IN LOVE! Buccaneer51 STARTS THE VIKINGS D/ST! AGAINST THE 49ERS! And the 49ERS D/ST is ON HIS BENCH! SIXTEEN POINTS! It's like betting against yourself AND LOSING THE BET YOU DIDN'T MAKE! Plus LAQUON TREADWELL! ONE TARGET! ZERO POINTS! Rashod Bateman, 15.70, ON THE BENCH! 31.70 SITTING DOWN! LOST BY 22.30!",
-    "TREVOR HAVE I EVER! SEVENTY-FOUR PERCENT FAVORITE! LOSES TO A TWO-AND-EIGHT TEAM! Travis Kelce is THIRTY-SEVEN YEARS OLD and caught TWO TOUCHDOWNS against you! Calvin Ridley! 17.80! ON! THE! BENCH! You lost by 7.32! I CAN DO THAT MATH IN MY PAJAMAS AND I AM IN MY PAJAMAS!",
-    "So here's the board if Monday holds! Lemon Squeezy 10-1! 50 Shades of Rae 9-2! Picken Weiners 8-3! And then FOUR TEAMS AT 6-5! Ceedees ships coming! 🏆, Mean Machine, Trevor Have I Ever, I Believe in Love! THREE SPOTS! THREE WEEKS! Somebody's going home and I'm BUYING A BIGGER TV!"
+    "CEEDEES SHIPS COMING! NINETY-FIVE ALL-PLAY WINS! Second in the league! Only TotesMagoat has more! And the REAL record is SIX AND FIVE! You know who's ALSO six and five? I BELIEVE IN LOVE! With 1240.72 POINTS! That's 473.92 FEWER! SAME RECORD! I threw a Dunkin' cup at the TV and I wasn't even watching TV!",
+    "AND THIS WEEK! LEMON SQUEEZY! TEN AND ONE! SEVEN STRAIGHT! Drake Maye is OUT and Justin Herbert is in the PROTOCOL and TotesMagoat is STILL a 67% FAVORITE because C.J. STROUD is the guy anyway! Kenneth Walker III is UNCERTAIN on a SHORT WEEK! ChuckJ10, you get ONE SHOT at the final boss and your running back might be WATCHING!",
+    "MEAN MACHINE! FIVE STRAIGHT WINS! WITH AN EMPTY RB SLOT! And a MINUS-FOUR from the Titans defense! BertDirty is playing fantasy football with ONE HAND TIED BEHIND HIS BACK and it's WORKING! Now he gets 50 SHADES OF RAE! 75 PERCENT! Put a running back in, BertDirty! ANY running back! I'll DRIVE ONE OVER!",
+    "AND THE COMMISH! PICKEN WEINERS! EIGHT AND THREE! Won on MONDAY NIGHT with JA'MARR CHASE scoring EIGHT POINTS TEN! And now he set his OWN LINE at 53% against Trevor Have I Ever! FIFTY-THREE! That's a COIN FLIP WITH A BADGE! Games start WEDNESDAY! WEDNESDAY! SET YOUR LINEUPS, GENTLEMEN!"
    ]
   },
   {
-   "id": "dd-tre13",
+   "id": "dd-tre12",
    "by": "tre",
-   "kicker": "Opinion",
-   "title": "Buccaneer51 beat himself. The scoreboard just made it official.",
-   "dek": "You don't start a defense against the team whose defense is on your bench.",
+   "kicker": "Column",
+   "title": "Three weeks, four teams at 6‑5, and only one of them is playing like it",
+   "dek": "Ceedees ships coming! 🏆 has the points. Mean Machine has the streak. Trevor Have I Ever and I Believe in Love have excuses.",
    "body": [
-    "I played the game. I know what a bad decision looks like on film. Buccaneer51 started the Vikings D/ST against the 49ers. The 49ers D/ST was on his bench. The 49ers won 35-10. One of those defenses scored 16.00 and one scored 0.00, and he started the wrong one. That's not bad luck. That's not reading the matchup.",
-    "Then Laquon Treadwell. One target, 0.00, in a starting receiver slot, with Rashod Bateman on the bench. Bateman caught a 52-yard touchdown and scored 15.70. Add it up: 31.70 points on the bench, and I Believe in Love lost to Lemon Squeezy by 22.30. You can't beat the best team in the league with nine guys.",
-    "Now the other side. ChuckJ10 had two zeros in his FLEX on Saturday morning. He fixed it Saturday night. He scored 160.70 and won by 42.82. That's the difference between a manager and a guy with an app.",
-    "I Believe in Love is 6-5 with 1240.72 points, the fewest of the four 6-5 teams by 195.74. Buccaneer51 doesn't get to waste a lineup again. Set it Thursday. Check it Sunday. Know which team your defense is playing."
+    "I played linebacker. I know what a team looks like when it's about to fold. Four teams sit at 6-5 with three games left, and two of them have that look.",
+    "Trevor Have I Ever lost to a 2-8 team. Calvin Ridley scored 17.80 on the bench. The tight end slot scored zero. RedDevil904 traded his 2027 first, second and third to build this, and he's holding the last spot on a tiebreaker. All-in means you set the lineup like it's the last game you'll ever play. He set it like it was Week 2.",
+    "I Believe in Love is 6-5 with 1240.72 points. That's eighth in the league. Buccaneer51 started a defense against the defense on his bench. He's out of a spot today and he plays Hurts So Good, a team that's lost three straight and knows its season ends with a fourth. Desperate beats lucky.",
+    "Ceedees ships coming! 🏆 and Mean Machine are the real ones. ChuckJ10 hung 160.70 and BertDirty has won five straight. Both are underdogs this week, 33% and 25%. That's fine. Underdogs who play hard win sometimes. Teams that don't pay attention lose every time. Pay attention."
    ]
   },
   {
-   "id": "dd-dale10",
+   "id": "dd-dale11",
    "by": "dale",
    "kicker": "Strategy",
-   "title": "Holden McGroin's Five Rules for Making the Playoffs at 6‑5",
-   "dek": "Four teams, three spots, and advice I'd follow if I were in it. I'm not in it.",
+   "title": "Holden McGroin's Thanksgiving Lineup Rules",
+   "dek": "Games start Wednesday night. Here's what I'd do if anyone let me run a team, which they won't.",
    "body": [
-    "1. Always start your bench. In Week 11, Buccaneer51's bench outscored two of his starters by 31.70, RedDevil904's bench had Calvin Ridley's 17.80, and Marco_Polo had 38.40 sitting down. The bench is clearly where the points are. Move everybody there and leave the lineup empty, like Marco_Polo's RB slot. It can't score negative.",
-    "2. Get a running back who gets one carry. J.K. Dobbins had one carry for zero yards. That's zero yards per carry, which can't go down. Stability is underrated.",
-    "3. Start the defense that's playing against your defense. That way, whatever happens, you've got a piece of it. Buccaneer51 did this and got 0.00 from both sides, which is technically a push.",
-    "4. Pick up your tight end from the injury report. ChuckJ10 grabbed Brevyn Spann-Ford at 9:35 on a Saturday night and scored 160.70. I've done the math and the late-night pickup is worth exactly 160.70 points.",
-    "5. If none of this works, go 10-1 like TotesMagoat. I don't know how he does it. I've asked. He doesn't text back."
+    "1. Start everybody who plays Thursday. More football on Thursday means more points on Thursday. The Bears, Lions, Eagles, Cowboys, Chiefs and Bills all play that day. If you can start six quarterbacks from those teams, do it. Sleeper will stop you. Fight Sleeper.",
+    "2. Bench anybody named Chase. Ja'Marr Chase scored 8.10 and Chase Brown scored 8.60 on Monday night. That's 16.70 points from two Chases. I've crunched it and Chases are worth 8.35 each. Avoid.",
+    "3. Copy Mean Machine and leave a running back slot empty. BertDirty has won five straight. Marco_Polo also left one empty and lost. That's a 50% success rate, which is better than Young Love Hunters' 9%.",
+    "4. Go for the tight-end payout by starting three tight ends. It pays for receptions. Three tight ends is three times the receptions. Bill_Buttlicker says only starting tight ends count, so start them all at FLEX. I didn't check if that's legal.",
+    "5. Eat before you set your lineup, not after. I set mine after once and started a kicker at RB. We don't even have kickers."
    ]
   },
   {
-   "id": "dd-gary13",
+   "id": "dd-gary14",
    "by": "gary",
    "kicker": "Analytics",
-   "title": "The Bears D/ST just posted a 2.43 Payout Efficiency Ratio",
-   "dek": "Marco_Polo won Week 11's defense money with an empty RB slot. My spreadsheet says that's the plan working.",
+   "title": "Lemon Squeezy's QB room has a 3.00 Redundancy Index, and nobody else is close",
+   "dek": "I measured how many quarterbacks a team can lose before it matters. The answer, for TotesMagoat, is apparently all of them but C.J. Stroud.",
    "body": [
-    "Let's start with the payout. The Bears D/ST scored 17.00 for Marco_Polo, its best week of the season (its previous high was 15.00). The Texans D/ST scored 15.00 and the Broncos D/ST scored 14.00. Divide 17.00 by the 7.00 points the Bears scored in Week 1 and you get a 2.43 Payout Efficiency Ratio. I don't know what that measures, but it's above 1.00, which I've decided is good.",
-    "Now roster utilization. Prepetente is the GOAT! started nine players and scored 78.10. That's 8.68 points per filled slot. The empty RB slot scored 0.00, but it took up zero roster spots, so per roster spot it's infinitely efficient. Mean Machine also ran an empty RB slot and is winning 75.20 to 51.58. Two teams, two empty slots, one win so far. I'm calling that a 50% Empty Slot Win Rate and recommending it league-wide.",
-    "Finally, the playoff race. Four teams are headed for 6-5. Ceedees ships coming! 🏆 has 1714.64 points, Mean Machine 1454.56, Trevor Have I Ever 1436.46, and I Believe in Love 1240.72. Average them and you get 1461.60, which means Mean Machine and Trevor Have I Ever are within 25.14 of perfectly average. In my model, average teams make the playoffs 100% of the time, as long as it's three of them.",
-    "I sent all of this to the commissioner. He responded by asking if his 43.32 lead is safe on Monday night. My model says yes, unless it doesn't."
+    "Start with the quarterbacks. Lemon Squeezy has C.J. Stroud (212.94 points), Drake Maye (188.20) and Justin Herbert (125.34). Three quarterbacks over 125, one starter slot. That's a 3.00 Redundancy Index. I Believe in Love has Jared Goff (197.14), Matthew Stafford (169.62) and Bo Nix (147.30), also 3.00, but the league office tells me that only counts if you win, so I've adjusted it to 1.40.",
+    "Now the all-play gap. Ceedees ships coming! 🏆 is 95-26 in all-play and 6-5 in real games. A 95-26 all-play record is a .785 winning percentage, which over 11 games is 8.64 wins. ChuckJ10 has 6. That's a 2.64-win Luck Deficit, the largest in the league. I've decided that means the luck is owed to him and will be paid out against Lemon Squeezy on Thursday. That's not how luck works, but it is how my spreadsheet works.",
+    "Then the Monday night thing. Picken Weiners led by 43.32 going into Monday and won by 39.02. Chase, Diggs, Brown and Higgins combined for 37.50. Divided by four players that's 9.38 points per Bengals-Commanders pass catcher. The commissioner's lead shrank 4.30, a 9.9% Monday Erosion Rate. Mean Machine's lead grew from 23.62 to 22.32... I'm told that's also a shrink. I'm told a lot of things.",
+    "Last, the tight-end payout. The top four rostered tight ends by points this season are Trey McBride (186.30), Isaiah Likely (163.00), Brock Bowers (149.80) and George Kittle (148.10). Average: 161.80. None of that is receptions. I'm projecting the winner based on points anyway, because I have the points and I don't have the receptions."
    ]
   }
  ],
  "exits": [
   {
-   "p": "Rashod Bateman",
-   "team": "I Believe in Love",
-   "t": "Scored 15.70 on Buccaneer51's bench in Week 11, including a 52-yard touchdown, while Laquon Treadwell started and scored 0.00. I Believe in Love lost by 22.30. He'd like to be on a roster where catching passes gets you in the lineup."
+   "p": "Justice Hill",
+   "team": "Ceedees ships coming! 🏆",
+   "t": "Scored 17.60 on ChuckJ10's bench in Week 11 while Chris Godwin Jr. started at FLEX for 4.30. Has 89.50 points this season. Ceedees ships coming! 🏆 won anyway, but he'd like to start for a team that's 6-5 with 1714.64 points and not watch from the bench of one."
+  },
+  {
+   "p": "Geno Smith",
+   "team": "Hurts So Good",
+   "t": "Scored 19.44 on MakeItRains's bench while Tyler Shough started for 14.28. Has 164.88 points this season. Hurts So Good has lost three straight, and he's not in the box score for any of them."
   },
   {
    "p": "Calvin Ridley",
    "team": "Trevor Have I Ever",
-   "t": "Scored 17.80 on RedDevil904's bench in Week 11 while Emeka Egbuka started for 3.80. Trevor Have I Ever lost by 7.32 to a 2-8 team. He's aware he'd had 15.10 points all year. He's also aware of the 7.32."
+   "t": "Scored 17.80 on RedDevil904's bench in Week 11 while Emeka Egbuka started for 3.80, and Trevor Have I Ever lost by 7.32. He's done the math. He'd like a team that does it too."
+  },
+  {
+   "p": "Jack Bech",
+   "team": "Young Love Hunters",
+   "t": "Scored 22.80 on BeatULikeABoss's bench in Week 11, the most of anybody on the roster, while Kyle McCord started at quarterback for 2.98. Young Love Hunters had the low score of the week. Again."
   },
   {
    "p": "Devaughn Vele",
@@ -1021,17 +1048,7 @@
   {
    "p": "Pat Freiermuth",
    "team": "Mean Machine",
-   "t": "Benched again. Scored 9.00 in Week 11 while Brenton Strange started at tight end for 4.60. Has 99.50 points this season and has now outscored the starter two weeks in a row. Mean Machine keeps winning, so nobody's listening."
-  },
-  {
-   "p": "Jack Bech",
-   "team": "Young Love Hunters",
-   "t": "Caught 8 passes for 88 yards and a touchdown and scored 22.80 on BeatULikeABoss's bench, more than Kyle McCord (2.98), Adonai Mitchell (5.00) and Cade Otton (1.80) combined. On a 1-9 team, that's hard to do."
-  },
-  {
-   "p": "Harold Fannin Jr.",
-   "team": "Picken Weiners",
-   "t": "Still has 118.40 points this season, still not starting for Bill_Buttlicker, who picked Sam LaPorta again. The Browns were on bye in Week 11, so he couldn't even make his point. He'll make it again in Week 12."
+   "t": "Scored 9.00 on the bench in Week 11 while Brenton Strange started at tight end for 4.60. Has 99.50 points to Strange's 86.10. Week 12 pays the starting tight end with the most catches, and he isn't starting."
   }
  ],
  "history": {
@@ -1097,7 +1114,7 @@
    ],
    [
     "The Bottom",
-    "G8rDuc went 1-12 in 2020 and 1-13 in 2023. He's 22-84 all time and has never made the playoffs."
+    "G8rDuc went 1-12 in 2020 and 1-13 in 2023. He's 23-84 all time and has never made the playoffs."
    ],
    [
     "Same Name, Same Result",
@@ -1111,80 +1128,80 @@
   "alltime": [
    [
     "TotesMagoat",
-    "81-25",
+    "82-25",
     "4",
     "6"
    ],
    [
     "superdog91",
-    "79-27",
+    "80-27",
     "3",
     "5"
    ],
    [
     "ChuckJ10",
-    "62-44",
+    "64-43",
     "0",
     "0"
    ],
    [
     "Bill_Buttlicker",
-    "58-35",
+    "59-35",
     "0",
     "0"
    ],
    [
     "MakeItRains",
-    "58-48",
+    "58-49",
     "0",
     "0"
    ],
    [
     "BertDirty",
-    "51-55",
+    "52-55",
     "0",
     "1"
    ],
    [
     "RedDevil904",
-    "44-62",
+    "44-63",
     "0",
     "0"
    ],
    [
     "RobMeyers",
-    "38-68",
+    "38-69",
     "0",
     "0"
    ],
    [
     "G8rDuc",
-    "22-84",
+    "23-84",
     "0",
     "0"
    ],
    [
     "Marco_Polo",
-    "17-35",
+    "17-36",
     "0",
     "0"
    ],
    [
     "BeatULikeABoss",
-    "4-20",
+    "4-21",
     "0",
     "0"
    ],
    [
     "Buccaneer51",
-    "6-4",
+    "6-5",
     "0",
     "0"
    ]
   ]
  },
  "hof": {
-  "note": "Regular season, 2019 through Week 10 of 2026. Playoff trips count 2019-2025.",
+  "note": "Regular season, 2019 through Week 11 of 2026. Playoff trips count 2019-2025.",
   "asterisk": "Sleeper history only goes back to 2019. If the league is older than that, take it up with whoever ran it before Sleeper.",
   "cats": [
    {
@@ -1214,28 +1231,28 @@
     "rows": [
      [
       "TotesMagoat",
-      "81 wins",
-      "81-25"
+      "82 wins",
+      "82-25"
      ],
      [
       "superdog91",
-      "79 wins",
-      "79-27"
+      "80 wins",
+      "80-27"
      ],
      [
       "ChuckJ10",
-      "62 wins",
-      "62-44"
+      "64 wins",
+      "64-43"
      ],
      [
       "Bill_Buttlicker",
-      "58 wins",
-      "58-35 (since 2020)"
+      "59 wins",
+      "59-35 (since 2020)"
      ],
      [
       "MakeItRains",
       "58 wins",
-      "58-48"
+      "58-49"
      ]
     ]
    },
@@ -1246,27 +1263,27 @@
      [
       "G8rDuc",
       "84 losses",
-      "22-84"
+      "23-84"
      ],
      [
       "RobMeyers",
-      "68 losses",
-      "38-68"
+      "69 losses",
+      "38-69"
      ],
      [
       "RedDevil904",
-      "62 losses",
-      "44-62"
+      "63 losses",
+      "44-63"
      ],
      [
       "BertDirty",
       "55 losses",
-      "51-55"
+      "52-55"
      ],
      [
       "MakeItRains",
-      "48 losses",
-      "58-48"
+      "49 losses",
+      "58-49"
      ]
     ]
    },
@@ -1399,17 +1416,17 @@
    {
     "t": "The Emperor",
     "w": "TotesMagoat",
-    "why": "Four titles, two runner-ups, the best regular-season record in league history, and ten 2027 picks. 9-1 and the final boss."
+    "why": "Four titles, two runner-ups, the best regular-season record in league history, and ten 2027 picks. 10-1 and the final boss."
    },
    {
     "t": "The Ringless King",
     "w": "ChuckJ10",
-    "why": "62 wins and seven playoff trips without a single final. Went 13-1 last year and still didn't get there."
+    "why": "64 wins and seven playoff trips without a single final. Went 13-1 last year and still didn't get there."
    },
    {
     "t": "The Lifer",
     "w": "G8rDuc",
-    "why": "22-84. Eight seasons. Zero playoff trips. Still shows up every year. Respect."
+    "why": "23-84. Eight seasons. Zero playoff trips. Still shows up every year. Respect."
    },
    {
     "t": "The 0-77",
@@ -1495,15 +1512,15 @@
     "w": 11,
     "c": "Biggest D: Highest-Scoring Defense",
     "win": "Marco_Polo",
-    "detail": "Bears D/ST, 17.00 (six sacks, an interception and a fumble recovery against the Saints), ahead of the Texans D/ST (TotesMagoat) at 15.00 and the Broncos D/ST (superdog91) at 14.00. No starting defense plays Monday night, so it's locked. Paid Tuesday after stat corrections.",
-    "st": "live"
+    "detail": "Bears D/ST, 17.00 (six sacks, an interception and a fumble recovery against the Saints), ahead of the Texans D/ST (TotesMagoat) at 15.00 and the Broncos D/ST (superdog91) at 14.00. Final after stat corrections.",
+    "st": "paid"
    },
    {
     "w": 12,
     "c": "Not So Tight End: TE with the most receptions",
     "win": "",
-    "detail": "",
-    "st": "up"
+    "detail": "Starting tight ends only. Starts Wednesday night with Packers at Rams (Tucker Kraft, Tyler Higbee).",
+    "st": "live"
    },
    {
     "w": 13,
@@ -1571,26 +1588,6 @@
     "3"
    ],
    [
-    "I Believe in Love",
-    "Buccaneer51",
-    [
-     "1, 2 (BertDirty)",
-     "1, 3, 3 (TotesMagoat)",
-     "1, 2, 3"
-    ],
-    "3"
-   ],
-   [
-    "Hurts So Good",
-    "MakeItRains",
-    [
-     "1, 3",
-     "1, 2, 3",
-     "1, 2, 3"
-    ],
-    "3"
-   ],
-   [
     "Chubb So Big I Waddle",
     "RobMeyers",
     [
@@ -1605,6 +1602,26 @@
     "Marco_Polo",
     [
      "1, 3 (BeatULikeABoss)",
+     "1, 2, 3",
+     "1, 2, 3"
+    ],
+    "3"
+   ],
+   [
+    "I Believe in Love",
+    "Buccaneer51",
+    [
+     "1, 2 (BertDirty)",
+     "1, 3, 3 (TotesMagoat)",
+     "1, 2, 3"
+    ],
+    "3"
+   ],
+   [
+    "Hurts So Good",
+    "MakeItRains",
+    [
+     "1, 3",
      "1, 2, 3",
      "1, 2, 3"
     ],
@@ -1656,98 +1673,98 @@
    [
     "Lemon Squeezy",
     "TotesMagoat",
-    "9-1",
+    "10-1",
     "25.6",
     "Contend",
-    "9-1, six firsts, the most points in the league and a 25.6 core age. The window is the next five years, and everyone else is renting."
+    "10-1, six firsts, the most points in the league and a 25.6 core age. Lost a quarterback for six weeks and didn't notice. The window is the next five years."
    ],
    [
     "50 Shades of Rae",
     "superdog91",
-    "8-2",
+    "9-2",
     "25.8",
     "Contend",
-    "8-2 with one of the youngest cores in the league and four firsts, including G8rDuc's 2029. Nacua's IR stint doesn't change anything."
+    "9-2 with four firsts, including G8rDuc's 2029, and a 25.8 core age. Puka Nacua is out for the season and it hasn't mattered yet."
    ],
    [
     "Picken Weiners",
     "Bill_Buttlicker",
-    "7-3",
+    "8-3",
     "27.6",
     "Contend",
-    "7-3, four firsts to reload with, and George Pickens (25) and Ja'Marr Chase (26) at the top. The 33-year-olds (Kittle, Brissett) are the clock."
-   ],
-   [
-    "Trevor Have I Ever",
-    "RedDevil904",
-    "6-4",
-    "27.6",
-    "All-In",
-    "6-4 with no 2027 first, second or third and Lamar Jackson on IR. Kirk Cousins is 38. Cash it in now."
-   ],
-   [
-    "Mean Machine",
-    "BertDirty",
-    "5-5",
-    "26.5",
-    "Purgatory",
-    "Four straight wins and 5-5, but TotesMagoat owns the 2027 first. Owns RedDevil904's first instead. Luther Burden III (22) is the young piece."
+    "8-3, four firsts, George Pickens (25) and Ja'Marr Chase (26) at the top. Kittle and Brissett are 33. Core age 27.6. The commissioner is buying, not selling."
    ],
    [
     "Ceedees ships coming! 🏆",
     "ChuckJ10",
-    "5-5",
-    "28.1",
+    "6-5",
+    "28.2",
     "Stuck",
-    "5-5, third in points, and the oldest core in the league with one first in three drafts. Has to make the playoffs to justify it."
+    "6-5 with the second-most points, the oldest core in the league (28.2) and one first in three drafts. Has to make the playoffs to justify it."
+   ],
+   [
+    "Mean Machine",
+    "BertDirty",
+    "6-5",
+    "26.5",
+    "Purgatory",
+    "Five straight wins and 6-5, but TotesMagoat owns the 2027 first. Owns RedDevil904's first instead. Core age 26.5, Luther Burden III (22) is the young piece."
+   ],
+   [
+    "Trevor Have I Ever",
+    "RedDevil904",
+    "6-5",
+    "27.6",
+    "All-In",
+    "6-5 with no 2027 first, second or third and Lamar Jackson on IR. Kirk Cousins is 38. Core age 27.6. Three weeks to cash it in."
    ],
    [
     "I Believe in Love",
     "Buccaneer51",
-    "6-4",
+    "6-5",
     "27.4",
     "Purgatory",
-    "6-4 in year one, but the quarterbacks are 38 and 32 and Jeremiyah Love (21) is on IR. Ninth in points. Don't buy."
+    "6-5 in year one but eighth in points. The quarterbacks are 38 and 32, Jeremiyah Love (21) is on IR. Core age 27.4. Don't buy."
    ],
    [
     "Hurts So Good",
     "MakeItRains",
-    "5-5",
-    "26.9",
+    "5-6",
+    "27.1",
     "Purgatory",
-    "5-5 with Jahmyr Gibbs and Ashton Jeanty and no healthy quarterback. Owns all its firsts. Could go either way in two weeks."
-   ],
-   [
-    "Prepetente is the GOAT!",
-    "Marco_Polo",
-    "3-7",
-    "27.2",
-    "Rebuild",
-    "3-7 with Brock Purdy, Jayden Daniels and all his 2028-29 picks. Lean in, and put a running back in."
+    "5-6 after three straight losses, with Jahmyr Gibbs (24) and Ashton Jeanty (22). Owns all its firsts. One more loss and it should be a seller."
    ],
    [
     "Chubb So Big I Waddle",
     "RobMeyers",
-    "3-7",
-    "27.8",
+    "3-8",
+    "27.9",
     "Rebuild",
-    "3-7, five straight losses, a 42-year-old starting quarterback. Owns all his picks. Sell Tee Higgins."
+    "3-8, six straight losses, a 42-year-old quarterback on the bench outscoring the starter. Owns all its picks. Core age 27.9. Sell Tee Higgins."
    ],
    [
     "Hanging with Hernandez",
     "G8rDuc",
-    "2-8",
-    "28.0",
+    "3-8",
+    "27.9",
     "Stuck",
-    "2-8, no 2027 picks, a 37-year-old tight end and a 32-year-old RB1. Nowhere to go."
+    "3-8, no 2027 picks, a 37-year-old tight end and a 32-year-old RB1. Core age 27.9. Every win helps TotesMagoat."
+   ],
+   [
+    "Prepetente is the GOAT!",
+    "Marco_Polo",
+    "3-8",
+    "26.4",
+    "Rebuild",
+    "3-8 with Brock Purdy, Jayden Daniels and all its 2028-29 picks. Core age 26.4. Lean in, and put a running back in."
    ],
    [
     "Young Love Hunters",
     "BeatULikeABoss",
-    "1-9",
-    "24.3",
+    "1-10",
+    "24.2",
     "Rebuild",
-    "1-9 with the youngest core in the league (24.3) and eight 2027 picks in the first three rounds. The plan is the top pick."
+    "1-10 with the youngest core in the league (24.2) and eight 2027 picks in the first three rounds. The plan is the top pick."
    ]
   ],
   "taxiNote": "Five taxi spots per team. These are the stashes worth watching.",
@@ -1755,37 +1772,37 @@
    {
     "p": "KC Concepcion Jr.",
     "tag": "Picken Weiners",
-    "t": "22 years old with 101.10 points, still the only taxi stash in the league past 100. The Browns were on bye in Week 11, so he scored 0.00 and nobody had to make a lineup decision."
+    "t": "22 years old with 101.10 points, still the only taxi stash in the league past 100. Back from the Browns' bye for Week 12 against the Raiders on Sunday night."
    },
    {
     "p": "Caleb Douglas",
     "tag": "50 Shades of Rae",
-    "t": "23 years old with 76.70 points on superdog91's taxi squad, 5.00 of them in Week 11. Four straight weeks of 8 or more from Week 7 through Week 10."
+    "t": "23 years old with 76.70 points on superdog91's taxi squad. With Puka Nacua out for the season and the FLEX scoring 5.10 in Week 11, superdog91 has a reason to promote him."
    },
    {
     "p": "Makai Lemon",
     "tag": "Lemon Squeezy",
-    "t": "22 years old with 75.00 points, 1.30 of them in Week 11. Scored 43.50 over Weeks 7 through 9. TotesMagoat already promoted one rookie off this taxi squad and he ran for three touchdowns."
+    "t": "22 years old with 75.00 points. TotesMagoat promoted Jonah Coleman off this same taxi squad and got 34.90 in Week 11. Makai Lemon is next in line, if anyone on that roster ever gets hurt enough to need him."
    },
    {
     "p": "Elic Ayomanor",
     "tag": "Picken Weiners",
-    "t": "23 years old with 60.70 points and 5.70 in Week 11 on my taxi squad. Ten weeks with points this season. The commissioner's taxi squad is the commissioner's best unit."
+    "t": "23 years old with 60.70 points on my taxi squad, and he plays the Jaguars on Sunday. The commissioner's taxi squad is still the commissioner's best unit."
    },
    {
     "p": "Kaelon Black",
     "tag": "Hurts So Good",
-    "t": "25 years old with 54.80 points, and a season-high 14.60 in Week 10. Scored 2.50 in Week 11 on MakeItRains's taxi squad."
+    "t": "25 years old with 54.80 points, and a season-high 14.60 in Week 10. If MakeItRains sells after Week 12, he's the kind of piece you keep."
    },
    {
     "p": "Mike Washington Jr.",
     "tag": "Prepetente is the GOAT!",
-    "t": "23 years old with 45.50 points, 4.20 in Week 11. He's on Marco_Polo's taxi squad, which is why he couldn't fill the empty RB slot. Promote him or stop leaving the slot open."
+    "t": "23 years old with 45.50 points on Marco_Polo's taxi squad while the RB slot sat empty for two straight weeks. Promote him or stop leaving the slot open."
    }
   ]
  },
  "th": {
-  "note": "Every trade in Sleeper history, 2019 through 2025, graded by what each side actually got. Value = PPR fantasy points each player scored from the day of the trade through Week 8 of 2026. Picks count the player who was actually drafted with that pick, from his rookie year on. It measures production, not trade value today: a 2025 rookie hasn't had time to catch up to a five-year vet.",
+  "note": "Every trade in Sleeper history, 2019 through 2025, graded by what each side actually got. Value = PPR fantasy points each player scored from the day of the trade through Week 11 of 2026. Picks count the player who was actually drafted with that pick, from his rookie year on. It measures production, not trade value today: a 2025 rookie hasn't had time to catch up to a five-year vet.",
   "ledgerNote": "Graded trades only. Net = points received minus points sent, added up across every trade. Former managers in italics.",
   "ledger": [
    [
@@ -1793,7 +1810,7 @@
     27,
     15,
     12,
-    2212.3,
+    2289.0,
     0
    ],
    [
@@ -1801,15 +1818,7 @@
     60,
     27,
     30,
-    2009.5,
-    1
-   ],
-   [
-    "BertDirty",
-    11,
-    7,
-    3,
-    1850.3,
+    2243.3,
     1
    ],
    [
@@ -1817,7 +1826,15 @@
     24,
     13,
     9,
-    1706.9,
+    1837.9,
+    1
+   ],
+   [
+    "BertDirty",
+    11,
+    7,
+    3,
+    1780.8,
     1
    ],
    [
@@ -1825,7 +1842,7 @@
     1,
     1,
     0,
-    660.5,
+    625.6,
     0
    ],
    [
@@ -1833,7 +1850,7 @@
     2,
     2,
     0,
-    616.1,
+    612.8,
     0
    ],
    [
@@ -1841,8 +1858,16 @@
     2,
     1,
     1,
-    496.2,
+    552.5,
     0
+   ],
+   [
+    "Marco_Polo",
+    11,
+    5,
+    4,
+    128.4,
+    1
    ],
    [
     "ThrockMorton515",
@@ -1853,19 +1878,11 @@
     0
    ],
    [
-    "Marco_Polo",
-    11,
-    5,
-    4,
-    65.1,
-    1
-   ],
-   [
     "BeatULikeABoss",
     6,
     2,
     2,
-    29.5,
+    18.0,
     1
    ],
    [
@@ -1873,7 +1890,7 @@
     3,
     0,
     2,
-    -141.9,
+    -190.6,
     0
    ],
    [
@@ -1881,15 +1898,7 @@
     54,
     26,
     25,
-    -179.3,
-    1
-   ],
-   [
-    "G8rDuc",
-    29,
-    14,
-    12,
-    -499.6,
+    -286.6,
     1
    ],
    [
@@ -1897,8 +1906,24 @@
     4,
     1,
     3,
-    -631.9,
+    -658.0,
     0
+   ],
+   [
+    "G8rDuc",
+    29,
+    13,
+    13,
+    -710.9,
+    1
+   ],
+   [
+    "TotesMagoat",
+    59,
+    23,
+    27,
+    -738.7,
+    1
    ],
    [
     "BeauBeau86",
@@ -1913,7 +1938,7 @@
     5,
     2,
     3,
-    -946.6,
+    -934.3,
     1
    ],
    [
@@ -1921,15 +1946,7 @@
     11,
     4,
     5,
-    -1034.9,
-    1
-   ],
-   [
-    "TotesMagoat",
-    59,
-    22,
-    28,
-    -1051.2,
+    -1256.1,
     1
    ],
    [
@@ -1937,7 +1954,7 @@
     8,
     4,
     4,
-    -1397.1,
+    -1508.2,
     0
    ],
    [
@@ -1945,7 +1962,7 @@
     38,
     17,
     19,
-    -2958.4,
+    -2999.4,
     1
    ]
   ],
@@ -1953,12 +1970,12 @@
    {
     "i": 4,
     "t": "The Trade That Built an Empire",
-    "take": "In January 2020, superdog91 sent the picks that became Justin Jefferson and Justin Herbert to TotesMagoat for Devin Singletary and a third. Jefferson and Herbert have scored 3,708.3 points since. TotesMagoat has four titles. superdog91 has three, which is impressive given he handed his rival the keys."
+    "take": "In January 2020, superdog91 sent the picks that became Justin Jefferson and Justin Herbert to TotesMagoat for Devin Singletary and a third. Jefferson and Herbert have scored 3,797.3 points since. TotesMagoat has four titles. superdog91 has three, which is impressive given he handed his rival the keys."
    },
    {
     "i": 22,
     "t": "Mahomes for Brees, Basically",
-    "take": "Bill_Buttlicker got Patrick Mahomes and the pick that became Chuba Hubbard. G8rDuc got Drew Brees, who retired after the season, and the Michael Carter pick. The scoreboard says 2,853.1 to 529.9. G8rDuc is 22-80 all time, and this is part of why."
+    "take": "Bill_Buttlicker got Patrick Mahomes and the pick that became Chuba Hubbard. G8rDuc got Drew Brees, who retired after the season, and the Michael Carter pick. The scoreboard says 3,003.8 to 532.0. G8rDuc is 23-84 all time, and this is part of why."
    },
    {
     "i": 20,
@@ -1968,27 +1985,27 @@
    {
     "i": 66,
     "t": "The Fourth-Round Heist",
-    "take": "superdog91 got Kenny Gainwell and the picks that became George Pickens (#16) and Kyren Williams, a fourth-rounder at #40, all for Devin Singletary. Kyren alone has 970.9 points. RedDevil904 still has never made the playoffs."
+    "take": "superdog91 got Kenny Gainwell and the picks that became George Pickens (#16) and Kyren Williams, a fourth-rounder at #40, all for Devin Singletary. Kyren alone has 985.2 points. RedDevil904 still has never made the playoffs."
    },
    {
     "i": 24,
     "t": "Five Picks for CMC",
-    "take": "RedDevil904 sent five picks to Bill_Buttlicker for Christian McCaffrey. Those picks became Javonte Williams, Elijah Moore, Kenneth Walker III, Malik Willis and Roschon Johnson. CMC gave RedDevil904 1,482.6 points. The picks have given 2,855.7."
+    "take": "RedDevil904 sent five picks to Bill_Buttlicker for Christian McCaffrey. Those picks became Javonte Williams, Elijah Moore, Kenneth Walker III, Malik Willis and Roschon Johnson. CMC gave RedDevil904 1,565.8 points. The picks have given 2,951.7."
    },
    {
     "i": 50,
     "t": "Amon-Ra for Spare Parts",
-    "take": "TotesMagoat got Amon-Ra St. Brown from Besch42 for Mecole Hardman Jr. and Quintez Cephus. St. Brown has 1,598.9 points since. Four months later, Besch42 lost the 2021 final to TotesMagoat. He'd handed him the WR1 himself."
+    "take": "TotesMagoat got Amon-Ra St. Brown from Besch42 for Mecole Hardman Jr. and Quintez Cephus. St. Brown has 1,656.0 points since. Four months later, Besch42 lost the 2021 final to TotesMagoat. He'd handed him the WR1 himself."
    },
    {
     "i": 33,
     "t": "The Commissioner Gets Fleeced",
-    "take": "Self-roast time. Bill_Buttlicker traded the picks that became DeVonta Smith (#11) and Kenny Gainwell to RedDevil904 for Miles Sanders. Sanders: 524.5. Smith and Gainwell: 1,782.6. The man who runs this website did that."
+    "take": "Self-roast time. Bill_Buttlicker traded the picks that became DeVonta Smith (#11) and Kenny Gainwell to RedDevil904 for Miles Sanders. Sanders: 524.5. Smith and Gainwell: 1,812.2. The man who runs this website did that."
    },
    {
     "i": 8,
     "t": "Pollard for a Pick That Missed",
-    "take": "superdog91 sent Tony Pollard to ChuckJ10 for a 2021 second that became Terrace Marshall. Pollard has 1,255.7 points since. Marshall has 155.8."
+    "take": "superdog91 sent Tony Pollard to ChuckJ10 for a 2021 second that became Terrace Marshall. Pollard has 1,290.6 points since. Marshall has 155.8."
    }
   ],
   "all": [
@@ -2120,11 +2137,11 @@
     "sides": [
      [
       "superdog91",
-      1425,
+      1433.2,
       [
        [
         "Devin Singletary (RB)",
-        919.8
+        928
        ],
        [
         "2020 R3 (TotesMagoat's) = Chase Claypool (WR) #27",
@@ -2134,7 +2151,7 @@
      ],
      [
       "TotesMagoat",
-      4123,
+      4212,
       [
        [
         "Mecole Hardman Jr. (WR)",
@@ -2142,11 +2159,11 @@
        ],
        [
         "2020 R1 (superdog91's) = Justin Jefferson (WR) #12",
-        1778.8
+        1817.7
        ],
        [
         "2020 R2 (superdog91's) = Justin Herbert (QB) #13",
-        1929.5
+        1979.6
        ]
       ]
      ]
@@ -2224,11 +2241,11 @@
     "sides": [
      [
       "TotesMagoat",
-      330.7,
+      354.7,
       [
        [
         "2021 R4 (ChuckJ10's) = Tommy Tremble (TE) #41",
-        330.7
+        354.7
        ]
       ]
      ],
@@ -2266,11 +2283,11 @@
      ],
      [
       "ChuckJ10",
-      1255.7,
+      1290.6,
       [
        [
         "Tony Pollard (RB)",
-        1255.7
+        1290.6
        ]
       ]
      ]
@@ -2334,7 +2351,7 @@
      ],
      [
       "Scubastanky",
-      1032.9,
+      1049.2,
       [
        [
         "Mike Boone (RB)",
@@ -2342,7 +2359,7 @@
        ],
        [
         "2021 R3 (Bill_Buttlicker's) = Rhamondre Stevenson (RB) #26",
-        961.3
+        977.6
        ]
       ]
      ]
@@ -2356,11 +2373,11 @@
     "sides": [
      [
       "Scubastanky",
-      984.3,
+      999.4,
       [
        [
         "Jerry Jeudy (WR)",
-        984.3
+        999.4
        ]
       ]
      ],
@@ -2388,11 +2405,11 @@
     "sides": [
      [
       "Scubastanky",
-      1039.5,
+      1037.2,
       [
        [
         "2021 R1 (superdog91's) = Justin Fields (QB) #12",
-        931.8
+        929.5
        ],
        [
         "2021 R2 (superdog91's) = Trey Lance (QB) #13",
@@ -2420,21 +2437,21 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      1433.2,
+      1456.1,
       [
        [
         "Mike Evans (WR)",
-        1433.2
+        1456.1
        ]
       ]
      ],
      [
       "Scubastanky",
-      1811.4,
+      1814,
       [
        [
         "Marquise Brown (WR)",
-        864.7
+        867.3
        ],
        [
         "2021 R1 (Bill_Buttlicker's) = Najee Harris (RB) #2",
@@ -2452,7 +2469,7 @@
     "sides": [
      [
       "superdog91",
-      889.8,
+      904.3,
       [
        [
         "Mitchell Trubisky (QB)",
@@ -2460,17 +2477,17 @@
        ],
        [
         "Dawson Knox (TE)",
-        597
+        611.5
        ]
       ]
      ],
      [
       "TotesMagoat",
-      614.3,
+      654.3,
       [
        [
         "2021 R4 (superdog91's) = Jason Sanders (K) #37",
-        603
+        643
        ],
        [
         "2022 R3 (superdog91's) = Justyn Ross (WR) #33",
@@ -2493,11 +2510,11 @@
      ],
      [
       "Scubastanky",
-      452.5,
+      452.6,
       [
        [
         "2021 R5 (Besch42's) = Davis Mills (QB) #55",
-        452.5
+        452.6
        ]
       ]
      ]
@@ -2511,21 +2528,21 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      772,
+      787,
       [
        [
         "Baltimore Ravens (DEF)",
-        772
+        787
        ]
       ]
      ],
      [
       "G8rDuc",
-      965.4,
+      1000.4,
       [
        [
         "Houston Texans (DEF)",
-        735
+        770
        ],
        [
         "2021 R2 (Bill_Buttlicker's) = Dyami Brown (WR) #23",
@@ -2543,11 +2560,11 @@
     "sides": [
      [
       "Scubastanky",
-      737.6,
+      758.1,
       [
        [
         "2021 R1 (MakeItRains's) = Pat Freiermuth (TE) #10",
-        737.6
+        758.1
        ]
       ]
      ],
@@ -2617,11 +2634,11 @@
      ],
      [
       "superdog91",
-      735.3,
+      735.4,
       [
        [
         "2021 R5 (Besch42's) = Davis Mills (QB) #55",
-        452.5
+        452.6
        ],
        [
         "2021 R4 (Scubastanky's) = John Ross (WR) #44",
@@ -2651,7 +2668,7 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      2175.2,
+      2219.3,
       [
        [
         "Christian Kirk (WR)",
@@ -2659,11 +2676,11 @@
        ],
        [
         "2021 R1 (ChuckJ10's) = Michael Carter (RB) #8",
-        475.4
+        477.5
        ],
        [
         "2022 R1 (ChuckJ10's) = Chris Olave (WR) #8",
-        899.8
+        941.8
        ]
       ]
      ],
@@ -2687,7 +2704,7 @@
     "sides": [
      [
       "G8rDuc",
-      1891.6,
+      1900.7,
       [
        [
         "Boston Scott (RB)",
@@ -2695,7 +2712,7 @@
        ],
        [
         "2021 R1 (TotesMagoat's) = DeVonta Smith (WR) #11",
-        1138
+        1147.1
        ],
        [
         "2021 R3 (TotesMagoat's) = Joshua Palmer (WR) #35",
@@ -2723,21 +2740,21 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      2853.1,
+      3003.8,
       [
        [
         "Patrick Mahomes (QB)",
-        1947.3
+        2024.2
        ],
        [
         "2021 R2 (G8rDuc's) = Chuba Hubbard (RB) #21",
-        905.8
+        979.6
        ]
       ]
      ],
      [
       "G8rDuc",
-      529.9,
+      532,
       [
        [
         "Drew Brees (QB)",
@@ -2745,7 +2762,7 @@
        ],
        [
         "2021 R1 (ChuckJ10's) = Michael Carter (RB) #8",
-        475.4
+        477.5
        ]
       ]
      ]
@@ -2759,7 +2776,7 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      1881.9,
+      1955.6,
       [
        [
         "2021 R2 (Bill_Buttlicker's) = Dyami Brown (WR) #23",
@@ -2767,17 +2784,17 @@
        ],
        [
         "2021 R1 (G8rDuc's) = Ja'Marr Chase (WR) #4",
-        1651.5
+        1725.2
        ]
       ]
      ],
      [
       "G8rDuc",
-      1313.5,
+      1336.4,
       [
        [
         "Mike Evans (WR)",
-        1313.5
+        1336.4
        ]
       ]
      ]
@@ -2791,23 +2808,23 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      2855.7,
+      2951.7,
       [
        [
         "2021 R1 (RedDevil904's) = Javonte Williams (RB) #6",
-        961
+        1015.2
        ],
        [
         "2021 R2 (RedDevil904's) = Elijah Moore (WR) #19",
-        512.9
+        513.6
        ],
        [
         "2022 R1 (RedDevil904's) = Kenneth Walker III (RB) #2",
-        935.1
+        971.4
        ],
        [
         "2022 R2 (RedDevil904's) = Malik Willis (QB) #23",
-        233.6
+        238.4
        ],
        [
         "2023 R2 (RedDevil904's) = Roschon Johnson (RB) #19",
@@ -2817,11 +2834,11 @@
      ],
      [
       "RedDevil904",
-      1482.6,
+      1565.8,
       [
        [
         "Christian McCaffrey (RB)",
-        1482.6
+        1565.8
        ]
       ]
      ]
@@ -2835,19 +2852,19 @@
     "sides": [
      [
       "G8rDuc",
-      1048.1,
+      1101.4,
       [
        [
         "Salvon Ahmed (RB)",
-        95.7
+        101.5
        ],
        [
         "2021 R4 (ChuckJ10's) = Tommy Tremble (TE) #41",
-        330.7
+        354.7
        ],
        [
         "2021 R2 (TotesMagoat's) = Rashod Bateman (WR) #14",
-        516.3
+        539.8
        ],
        [
         "2021 R5 (TotesMagoat's) = Cornell Powell (WR) #59",
@@ -2861,7 +2878,7 @@
      ],
      [
       "TotesMagoat",
-      1138,
+      1147.1,
       [
        [
         "2022 R3 (G8rDuc's) = Matt Corral (QB) #29",
@@ -2869,7 +2886,7 @@
        ],
        [
         "2021 R1 (TotesMagoat's) = DeVonta Smith (WR) #11",
-        1138
+        1147.1
        ]
       ]
      ]
@@ -2893,11 +2910,11 @@
      ],
      [
       "ChuckJ10",
-      298,
+      314.4,
       [
        [
         "Sterling Shepard (WR)",
-        298
+        314.4
        ]
       ]
      ]
@@ -2911,11 +2928,11 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      144.8,
+      156,
       [
        [
         "Ian Thomas (TE)",
-        133.2
+        144.4
        ],
        [
         "Anthony McFarland (RB)",
@@ -2943,7 +2960,7 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      695.5,
+      716,
       [
        [
         "Denzel Mims (WR)",
@@ -2951,17 +2968,17 @@
        ],
        [
         "2021 R2 (GoFantYourself's) = Kenny Gainwell (RB) #24",
-        644.6
+        665.1
        ]
       ]
      ],
      [
       "GoFantYourself",
-      1148.2,
+      1164.8,
       [
        [
         "Cooper Kupp (WR)",
-        1148.2
+        1164.8
        ]
       ]
      ]
@@ -2975,11 +2992,11 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      1009.2,
+      1023.2,
       [
        [
         "2021 R1 (Scubastanky's) = Travis Etienne Jr. (RB) #5",
-        901.5
+        915.5
        ],
        [
         "2021 R2 (superdog91's) = Trey Lance (QB) #13",
@@ -2989,11 +3006,11 @@
      ],
      [
       "Scubastanky",
-      1651.5,
+      1725.2,
       [
        [
         "2021 R1 (G8rDuc's) = Ja'Marr Chase (WR) #4",
-        1651.5
+        1725.2
        ]
       ]
      ]
@@ -3007,11 +3024,11 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      699.1,
+      709.9,
       [
        [
         "Darnell Mooney (WR)",
-        699.1
+        709.9
        ]
       ]
      ],
@@ -3030,26 +3047,26 @@
    {
     "d": "2021-03-13",
     "s": 2021,
-    "g": "robbery",
+    "g": "clear",
     "w": 0,
     "sides": [
      [
       "Bill_Buttlicker",
-      1138,
+      1147.1,
       [
        [
         "2021 R1 (TotesMagoat's) = DeVonta Smith (WR) #11",
-        1138
+        1147.1
        ]
       ]
      ],
      [
       "TotesMagoat",
-      373,
+      388.6,
       [
        [
         "2022 R3 (Bill_Buttlicker's) = Jalen Tolbert (WR) #30",
-        265.3
+        280.9
        ],
        [
         "2021 R2 (superdog91's) = Trey Lance (QB) #13",
@@ -3105,15 +3122,15 @@
      ],
      [
       "RedDevil904",
-      1782.6,
+      1812.2,
       [
        [
         "2021 R1 (TotesMagoat's) = DeVonta Smith (WR) #11",
-        1138
+        1147.1
        ],
        [
         "2021 R2 (GoFantYourself's) = Kenny Gainwell (RB) #24",
-        644.6
+        665.1
        ]
       ]
      ]
@@ -3201,11 +3218,11 @@
      ],
      [
       "RedDevil904",
-      1220.2,
+      1260.6,
       [
        [
         "Kirk Cousins (QB)",
-        1220.2
+        1260.6
        ]
       ]
      ]
@@ -3247,7 +3264,7 @@
     "sides": [
      [
       "TotesMagoat",
-      1004.8,
+      1040.7,
       [
        [
         "Tarik Cohen (RB)",
@@ -3259,13 +3276,13 @@
        ],
        [
         "2022 R3 (BertDirty's) = Trey McBride (TE) #25",
-        959.1
+        995
        ]
       ]
      ],
      [
       "BertDirty",
-      881.8,
+      921.8,
       [
        [
         "DeVante Parker (WR)",
@@ -3273,7 +3290,7 @@
        ],
        [
         "2021 R4 (superdog91's) = Jason Sanders (K) #37",
-        603
+        643
        ]
       ]
      ]
@@ -3301,11 +3318,11 @@
      ],
      [
       "TotesMagoat",
-      512.9,
+      513.6,
       [
        [
         "2021 R2 (RedDevil904's) = Elijah Moore (WR) #19",
-        512.9
+        513.6
        ]
       ]
      ]
@@ -3329,11 +3346,11 @@
      ],
      [
       "RedDevil904",
-      679.7,
+      682.3,
       [
        [
         "Marquise Brown (WR)",
-        679.7
+        682.3
        ]
       ]
      ]
@@ -3357,11 +3374,11 @@
      ],
      [
       "TotesMagoat",
-      197,
+      207.3,
       [
        [
         "2022 R2 (Scubastanky's) = John Metchie III (WR) #18",
-        188.9
+        199.2
        ],
        [
         "2023 R2 (Scubastanky's) = Evan Hull (RB) #24",
@@ -3379,11 +3396,11 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      684.4,
+      688.9,
       [
        [
         "Brandin Cooks (WR)",
-        684.4
+        688.9
        ]
       ]
      ],
@@ -3439,15 +3456,15 @@
     "sides": [
      [
       "Scubastanky",
-      1689.3,
+      1738.9,
       [
        [
         "Jared Goff (QB)",
-        1569.5
+        1618.6
        ],
        [
         "2022 R3 (RedDevil904's) = Zamir White (RB) #26",
-        119.8
+        120.3
        ]
       ]
      ],
@@ -3509,11 +3526,11 @@
      ],
      [
       "TotesMagoat",
-      447.5,
+      452.3,
       [
        [
         "2023 R5 (Bill_Buttlicker's) = Tucker Kraft (TE) #58",
-        447.5
+        452.3
        ]
       ]
      ]
@@ -3522,20 +3539,20 @@
    {
     "d": "2021-07-26",
     "s": 2021,
-    "g": "close",
+    "g": "clear",
     "w": 0,
     "sides": [
      [
       "Bill_Buttlicker",
-      1200.5,
+      1253.4,
       [
        [
         "2022 R1 (G8rDuc's) = Treylon Burks (WR) #5",
-        217.8
+        227.5
        ],
        [
         "2023 R1 (G8rDuc's) = Jaxon Smith-Njigba (WR) #3",
-        982.7
+        1025.9
        ]
       ]
      ],
@@ -3563,7 +3580,7 @@
     "sides": [
      [
       "G8rDuc",
-      826.3,
+      841.9,
       [
        [
         "O.J. Howard (TE)",
@@ -3575,7 +3592,7 @@
        ],
        [
         "2022 R3 (Bill_Buttlicker's) = Jalen Tolbert (WR) #30",
-        265.3
+        280.9
        ],
        [
         "2022 R3 (superdog91's) = Justyn Ross (WR) #33",
@@ -3589,19 +3606,19 @@
      ],
      [
       "TotesMagoat",
-      753.2,
+      799.7,
       [
        [
         "2023 R2 (G8rDuc's) = Israel Abanikanda (RB) #22",
-        16.3
+        18.3
        ],
        [
         "2023 R3 (G8rDuc's) = Josh Downs (WR) #27",
-        546.7
+        577.3
        ],
        [
         "2024 R2 (G8rDuc's) = Adonai Mitchell (WR) #22",
-        190.2
+        204.1
        ]
       ]
      ]
@@ -3615,7 +3632,7 @@
     "sides": [
      [
       "TotesMagoat",
-      1605.3,
+      1642.2,
       [
        [
         "Rondale Moore (WR)",
@@ -3623,21 +3640,21 @@
        ],
        [
         "2023 R1 (GoFantYourself's) = Jordan Addison (WR) #5",
-        618
+        622.8
        ],
        [
         "2024 R1 (GoFantYourself's) = Caleb Williams (QB) #5",
-        684.3
+        716.4
        ]
       ]
      ],
      [
       "GoFantYourself",
-      1496.3,
+      1540,
       [
        [
         "Derrick Henry (RB)",
-        1496.3
+        1540
        ]
       ]
      ]
@@ -3665,11 +3682,11 @@
      ],
      [
       "TotesMagoat",
-      1598.9,
+      1656,
       [
        [
         "Amon-Ra St. Brown (WR)",
-        1598.9
+        1656
        ]
       ]
      ]
@@ -3683,29 +3700,29 @@
     "sides": [
      [
       "Besch42",
-      2084.8,
+      2136.2,
       [
        [
         "Josh Allen (QB)",
-        2084.8
+        2136.2
        ]
       ]
      ],
      [
       "TotesMagoat",
-      1353,
+      1425.2,
       [
        [
         "2022 R1 (Besch42's) = Christian Watson (WR) #11",
-        649.9
+        686.7
        ],
        [
         "2023 R1 (Besch42's) = Anthony Richardson Sr. (QB) #8",
-        251.9
+        252.1
        ],
        [
         "2024 R1 (Besch42's) = Malik Nabers (WR) #2",
-        451.2
+        486.4
        ],
        [
         "$1 FAAB",
@@ -3737,7 +3754,7 @@
      ],
      [
       "TotesMagoat",
-      883.8,
+      902.8,
       [
        [
         "Michael Gallup (WR)",
@@ -3745,7 +3762,7 @@
        ],
        [
         "2023 R2 (superdog91's) = Sam LaPorta (TE) #14",
-        606.7
+        625.7
        ]
       ]
      ]
@@ -3759,29 +3776,29 @@
     "sides": [
      [
       "TotesMagoat",
-      1558.6,
+      1590.5,
       [
        [
         "D'Andre Swift (RB)",
-        1086.2
+        1101.2
        ],
        [
         "2023 R1 (RedDevil904's) = Quentin Johnston (WR) #6",
-        472.4
+        489.3
        ]
       ]
      ],
      [
       "RedDevil904",
-      1417.3,
+      1449.3,
       [
        [
         "Saquon Barkley (RB)",
-        1228.4
+        1250.1
        ],
        [
         "2022 R2 (Scubastanky's) = John Metchie III (WR) #18",
-        188.9
+        199.2
        ]
       ]
      ]
@@ -3795,11 +3812,11 @@
     "sides": [
      [
       "TotesMagoat",
-      406.2,
+      410,
       [
        [
         "2023 R2 (GoFantYourself's) = Tyjae Spears (RB) #20",
-        406.2
+        410
        ]
       ]
      ],
@@ -3827,25 +3844,25 @@
     "sides": [
      [
       "TotesMagoat",
-      1307.8,
+      1351.5,
       [
        [
         "Derrick Henry (RB)",
-        1307.8
+        1351.5
        ]
       ]
      ],
      [
       "GoFantYourself",
-      628.8,
+      647.3,
       [
        [
         "Elijah Mitchell (RB)",
-        221.6
+        227.2
        ],
        [
         "2022 R1 (TotesMagoat's) = Jahan Dotson (WR) #12",
-        407.2
+        420.1
        ],
        [
         "$2 FAAB",
@@ -3873,7 +3890,7 @@
      ],
      [
       "RedDevil904",
-      1056.4,
+      1070.7,
       [
        [
         "2022 R3 (Scubastanky's) = Jelani Woods (TE) #31",
@@ -3881,7 +3898,7 @@
        ],
        [
         "2022 R4 (superdog91's) = Kyren Williams (RB) #40",
-        970.9
+        985.2
        ]
       ]
      ]
@@ -3895,25 +3912,25 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      1091.6,
+      1132,
       [
        [
         "Kirk Cousins (QB)",
-        1091.6
+        1132
        ]
       ]
      ],
      [
       "RedDevil904",
-      971.7,
+      988.7,
       [
        [
         "2022 R2 (Bill_Buttlicker's) = Wan'Dale Robinson (WR) #19",
-        662.7
+        666.7
        ],
        [
         "2023 R4 (Bill_Buttlicker's) = Jake Moody (K) #39",
-        309
+        322
        ]
       ]
      ]
@@ -3927,17 +3944,17 @@
     "sides": [
      [
       "superdog91",
-      1228.4,
+      1250.1,
       [
        [
         "Saquon Barkley (RB)",
-        1228.4
+        1250.1
        ]
       ]
      ],
      [
       "RedDevil904",
-      763.8,
+      797.1,
       [
        [
         "James Robinson (RB)",
@@ -3945,7 +3962,7 @@
        ],
        [
         "2022 R1 (superdog91's) = Jameson Williams (WR) #9",
-        628.2
+        661.5
        ]
       ]
      ]
@@ -3959,21 +3976,21 @@
     "sides": [
      [
       "superdog91",
-      1042.8,
+      1074.4,
       [
        [
         "Aaron Rodgers (QB)",
-        1042.8
+        1074.4
        ]
       ]
      ],
      [
       "RedDevil904",
-      939.1,
+      1006.4,
       [
        [
         "2022 R2 (superdog91's) = George Pickens (WR) #16",
-        935.9
+        1003.2
        ],
        [
         "2024 R5 (superdog91's) = Jase McClellan (RB) #60",
@@ -4001,11 +4018,11 @@
      ],
      [
       "Besch42",
-      233.6,
+      238.4,
       [
        [
         "2022 R2 (RedDevil904's) = Malik Willis (QB) #23",
-        233.6
+        238.4
        ]
       ]
      ]
@@ -4029,7 +4046,7 @@
      ],
      [
       "RedDevil904",
-      287.8,
+      304.6,
       [
        [
         "2023 R3 (superdog91's) = Trey Palmer (WR) #35",
@@ -4041,7 +4058,7 @@
        ],
        [
         "2024 R3 (superdog91's) = Audric Estime (RB) #36",
-        104.7
+        121.5
        ]
       ]
      ]
@@ -4083,11 +4100,11 @@
     "sides": [
      [
       "TotesMagoat",
-      2398.1,
+      2490.4,
       [
        [
         "Christian McCaffrey (RB)",
-        1356.1
+        1439.3
        ],
        [
         "James Robinson (RB)",
@@ -4095,17 +4112,17 @@
        ],
        [
         "DeVonta Smith (WR)",
-        952.4
+        961.5
        ]
       ]
      ],
      [
       "RedDevil904",
-      1301,
+      1344.7,
       [
        [
         "Derrick Henry (RB)",
-        1301
+        1344.7
        ]
       ]
      ]
@@ -4115,7 +4132,7 @@
     "d": "2022-03-03",
     "s": 2022,
     "g": "close",
-    "w": 0,
+    "w": 1,
     "sides": [
      [
       "G8rDuc",
@@ -4129,11 +4146,11 @@
      ],
      [
       "TotesMagoat",
-      200.1,
+      220.5,
       [
        [
         "2024 R3 (G8rDuc's) = Braelon Allen (RB) #27",
-        200.1
+        220.5
        ]
       ]
      ]
@@ -4157,7 +4174,7 @@
      ],
      [
       "ChuckJ10",
-      1152.3,
+      1188.2,
       [
        [
         "Michael Gallup (WR)",
@@ -4165,7 +4182,7 @@
        ],
        [
         "2022 R3 (BertDirty's) = Trey McBride (TE) #25",
-        959.1
+        995
        ]
       ]
      ]
@@ -4179,29 +4196,29 @@
     "sides": [
      [
       "superdog91",
-      2430,
+      2532.1,
       [
        [
         "Kenny Gainwell (RB)",
-        523.2
+        543.7
        ],
        [
         "2022 R2 (superdog91's) = George Pickens (WR) #16",
-        935.9
+        1003.2
        ],
        [
         "2022 R4 (superdog91's) = Kyren Williams (RB) #40",
-        970.9
+        985.2
        ]
       ]
      ],
      [
       "RedDevil904",
-      584.4,
+      592.6,
       [
        [
         "Devin Singletary (RB)",
-        584.4
+        592.6
        ]
       ]
      ]
@@ -4215,25 +4232,25 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      1015.8,
+      1042.4,
       [
        [
         "2022 R2 (Bill_Buttlicker's) = Wan'Dale Robinson (WR) #19",
-        662.7
+        666.7
        ],
        [
         "2024 R1 (RedDevil904's) = Xavier Worthy (WR) #6",
-        353.1
+        375.7
        ]
       ]
      ],
      [
       "RedDevil904",
-      569.6,
+      574.1,
       [
        [
         "Brandin Cooks (WR)",
-        452.6
+        457.1
        ],
        [
         "Darrell Henderson (RB)",
@@ -4283,21 +4300,21 @@
     "sides": [
      [
       "Scubastanky",
-      188.9,
+      199.2,
       [
        [
         "2022 R2 (Scubastanky's) = John Metchie III (WR) #18",
-        188.9
+        199.2
        ]
       ]
      ],
      [
       "ChuckJ10",
-      848.4,
+      864.7,
       [
        [
         "Rhamondre Stevenson (RB)",
-        848.4
+        864.7
        ]
       ]
      ]
@@ -4321,19 +4338,19 @@
      ],
      [
       "ChuckJ10",
-      1401.5,
+      1453.3,
       [
        [
         "Devin Singletary (RB)",
-        584.4
+        592.6
        ],
        [
         "2022 R2 (Scubastanky's) = John Metchie III (WR) #18",
-        188.9
+        199.2
        ],
        [
         "2022 R1 (superdog91's) = Jameson Williams (WR) #9",
-        628.2
+        661.5
        ]
       ]
      ]
@@ -4347,7 +4364,7 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      1005.3,
+      1018.4,
       [
        [
         "Rondale Moore (WR)",
@@ -4355,17 +4372,17 @@
        ],
        [
         "2022 R2 (TotesMagoat's) = Rachaad White (RB) #13",
-        812.4
+        825.5
        ]
       ]
      ],
      [
       "TotesMagoat",
-      740.7,
+      755.8,
       [
        [
         "Jerry Jeudy (WR)",
-        740.7
+        755.8
        ]
       ]
      ]
@@ -4379,21 +4396,21 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      740.7,
+      755.8,
       [
        [
         "Jerry Jeudy (WR)",
-        740.7
+        755.8
        ]
       ]
      ],
      [
       "Scubastanky",
-      899.8,
+      941.8,
       [
        [
         "2022 R1 (ChuckJ10's) = Chris Olave (WR) #8",
-        899.8
+        941.8
        ]
       ]
      ]
@@ -4407,7 +4424,7 @@
     "sides": [
      [
       "Besch42",
-      1068.2,
+      1080.9,
       [
        [
         "Ryan Tannehill (QB)",
@@ -4415,11 +4432,11 @@
        ],
        [
         "Marquise Brown (WR)",
-        456.4
+        459
        ],
        [
         "2022 R4 (RedDevil904's) = Daniel Bellinger (TE) #47",
-        227.6
+        237.7
        ],
        [
         "2023 R3 (superdog91's) = Trey Palmer (WR) #35",
@@ -4451,15 +4468,15 @@
     "sides": [
      [
       "G8rDuc",
-      635.4,
+      659.8,
       [
        [
         "Laquon Treadwell (WR)",
-        50.3
+        61.7
        ],
        [
         "2023 R4 (Bill_Buttlicker's) = Jake Moody (K) #39",
-        309
+        322
        ],
        [
         "2022 R5 (RedDevil904's) = Ty Chandler (RB) #50",
@@ -4473,11 +4490,11 @@
      ],
      [
       "RedDevil904",
-      922.1,
+      945,
       [
        [
         "Mike Evans (WR)",
-        922.1
+        945
        ]
       ]
      ]
@@ -4491,17 +4508,17 @@
     "sides": [
      [
       "RedDevil904",
-      251.5,
+      251.9,
       [
        [
         "Carson Wentz (QB)",
-        251.5
+        251.9
        ]
       ]
      ],
      [
       "ChuckJ10",
-      406.7,
+      417.2,
       [
        [
         "Cameron Brate (TE)",
@@ -4513,7 +4530,7 @@
        ],
        [
         "2024 R2 (RedDevil904's) = Keon Coleman (WR) #19",
-        280.6
+        291.1
        ]
       ]
      ]
@@ -4527,7 +4544,7 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      707.1,
+      730.6,
       [
        [
         "K.J. Osborn (WR)",
@@ -4535,17 +4552,17 @@
        ],
        [
         "Rashod Bateman (WR)",
-        412.8
+        436.3
        ]
       ]
      ],
      [
       "G8rDuc",
-      322.9,
+      325.7,
       [
        [
         "2022 R4 (Bill_Buttlicker's) = Zay Jones (WR) #43",
-        322.9
+        325.7
        ],
        [
         "2022 R3 (G8rDuc's) = Matt Corral (QB) #29",
@@ -4563,19 +4580,19 @@
     "sides": [
      [
       "G8rDuc",
-      486.6,
+      503.9,
       [
        [
         "Dare Ogunbowale (RB)",
-        143.1
+        146.9
        ],
        [
         "2023 R4 (RedDevil904's) = Luke Schoonmaker (TE) #43",
-        116.8
+        120.6
        ],
        [
         "2023 R5 (RedDevil904's) = Keaton Mitchell (RB) #54",
-        174.5
+        184.2
        ],
        [
         "2023 R5 (superdog91's) = Will Mallory (TE) #59",
@@ -4585,11 +4602,11 @@
      ],
      [
       "RedDevil904",
-      322,
+      324.1,
       [
        [
         "Michael Carter (RB)",
-        322
+        324.1
        ]
       ]
      ]
@@ -4603,11 +4620,11 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      302.9,
+      306.2,
       [
        [
         "2023 R2 (BertDirty's) = Jonathan Mingo (WR) #18",
-        126.5
+        129.8
        ],
        [
         "2024 R4 (BertDirty's) = Spencer Rattler (QB) #48",
@@ -4635,7 +4652,7 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      499.7,
+      524.2,
       [
        [
         "2023 R3 (RedDevil904's) = Luke Musgrave (TE) #30",
@@ -4643,7 +4660,7 @@
        ],
        [
         "2024 R1 (G8rDuc's) = Rome Odunze (WR) #3",
-        363.8
+        388.3
        ]
       ]
      ],
@@ -4667,17 +4684,17 @@
     "sides": [
      [
       "superdog91",
-      895.7,
+      941.2,
       [
        [
         "2022 R1 (BertDirty's) = Breece Hall (RB) #1",
-        895.7
+        941.2
        ]
       ]
      ],
      [
       "BertDirty",
-      1251.9,
+      1266.2,
       [
        [
         "Dalvin Cook (RB)",
@@ -4685,7 +4702,7 @@
        ],
        [
         "2022 R4 (superdog91's) = Kyren Williams (RB) #40",
-        970.9
+        985.2
        ],
        [
         "2022 R5 (superdog91's) = Abram Smith (RB) #57",
@@ -4703,7 +4720,7 @@
     "sides": [
      [
       "superdog91",
-      1050,
+      1118.1,
       [
        [
         "James Robinson (RB)",
@@ -4711,25 +4728,25 @@
        ],
        [
         "2022 R1 (Besch42's) = Christian Watson (WR) #11",
-        649.9
+        686.7
        ],
        [
         "2023 R3 (TotesMagoat's) = Tank Dell (WR) #36",
-        310.5
+        341.8
        ]
       ]
      ],
      [
       "TotesMagoat",
-      1196.3,
+      1239.6,
       [
        [
         "2023 R1 (superdog91's) = Zach Charbonnet (RB) #11",
-        480.3
+        499.3
        ],
        [
         "2024 R2 (superdog91's) = Drake Maye (QB) #13",
-        716
+        740.3
        ]
       ]
      ]
@@ -4743,25 +4760,25 @@
     "sides": [
      [
       "Scubastanky",
-      1006.3,
+      1054,
       [
        [
         "Travis Kelce (TE)",
-        1006.3
+        1054
        ]
       ]
      ],
      [
       "superdog91",
-      1231.9,
+      1276.8,
       [
        [
         "2022 R3 (RedDevil904's) = Zamir White (RB) #26",
-        119.8
+        120.3
        ],
        [
         "2023 R1 (Scubastanky's) = Bijan Robinson (RB) #1",
-        1112.1
+        1156.5
        ]
       ]
      ]
@@ -4807,11 +4824,11 @@
     "sides": [
      [
       "TotesMagoat",
-      487.2,
+      514.2,
       [
        [
         "New York Giants (DEF)",
-        484
+        511
        ],
        [
         "2024 R5 (superdog91's) = Jase McClellan (RB) #60",
@@ -4821,11 +4838,11 @@
      ],
      [
       "RedDevil904",
-      563,
+      581,
       [
        [
         "Jacksonville Jaguars (DEF)",
-        563
+        581
        ]
       ]
      ]
@@ -4853,11 +4870,11 @@
      ],
      [
       "RedDevil904",
-      1006.3,
+      1054,
       [
        [
         "Travis Kelce (TE)",
-        1006.3
+        1054
        ]
       ]
      ]
@@ -4871,25 +4888,25 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      894,
+      916.5,
       [
        [
         "2022 R1 (Scubastanky's) = Garrett Wilson (WR) #7",
-        894
+        916.5
        ]
       ]
      ],
      [
       "Scubastanky",
-      1475.1,
+      1492.2,
       [
        [
         "2022 R2 (Bill_Buttlicker's) = Wan'Dale Robinson (WR) #19",
-        662.7
+        666.7
        ],
        [
         "2022 R2 (TotesMagoat's) = Rachaad White (RB) #13",
-        812.4
+        825.5
        ]
       ]
      ]
@@ -4903,11 +4920,11 @@
     "sides": [
      [
       "superdog91",
-      322,
+      324.1,
       [
        [
         "Michael Carter (RB)",
-        322
+        324.1
        ]
       ]
      ],
@@ -5005,11 +5022,11 @@
      ],
      [
       "TotesMagoat",
-      309,
+      322,
       [
        [
         "2023 R4 (Bill_Buttlicker's) = Jake Moody (K) #39",
-        309
+        322
        ],
        [
         "$150 FAAB",
@@ -5037,7 +5054,7 @@
      ],
      [
       "ChuckJ10",
-      420.8,
+      424.1,
       [
        [
         "K.J. Osborn (WR)",
@@ -5045,7 +5062,7 @@
        ],
        [
         "2023 R2 (BertDirty's) = Jonathan Mingo (WR) #18",
-        126.5
+        129.8
        ]
       ]
      ]
@@ -5059,11 +5076,11 @@
     "sides": [
      [
       "TotesMagoat",
-      996.2,
+      1046.6,
       [
        [
         "Cooper Kupp (WR)",
-        679.9
+        696.5
        ],
        [
         "Skyy Moore (WR)",
@@ -5071,13 +5088,13 @@
        ],
        [
         "2025 R1 (LAWRENCEndORDER's) = Omarion Hampton (RB) #2",
-        197.9
+        231.7
        ]
       ]
      ],
      [
       "LAWRENCEndORDER",
-      1656.7,
+      1672.2,
       [
        [
         "Joe Mixon (RB)",
@@ -5085,7 +5102,7 @@
        ],
        [
         "Courtland Sutton (WR)",
-        847.5
+        863
        ],
        [
         "Eno Benjamin (RB)",
@@ -5098,16 +5115,16 @@
    {
     "d": "2022-10-19",
     "s": 2022,
-    "g": "clear",
+    "g": "close",
     "w": 1,
     "sides": [
      [
       "Bill_Buttlicker",
-      189.8,
+      205.2,
       [
        [
         "2024 R3 (RedDevil904's) = Kimani Vidal (RB) #30",
-        189.8
+        205.2
        ]
       ]
      ],
@@ -5131,21 +5148,21 @@
     "sides": [
      [
       "superdog91",
-      2092.4,
+      2183.8,
       [
        [
         "Travis Kelce (TE)",
-        877.3
+        925
        ],
        [
         "Derrick Henry (RB)",
-        1215.1
+        1258.8
        ]
       ]
      ],
      [
       "RedDevil904",
-      1362.4,
+      1404.7,
       [
        [
         "Jonnu Smith (TE)",
@@ -5165,7 +5182,7 @@
        ],
        [
         "2025 R2 (superdog91's) = Cam Ward (QB) #14",
-        299.2
+        341.5
        ]
       ]
      ]
@@ -5189,7 +5206,7 @@
      ],
      [
       "RedDevil904",
-      603.4,
+      610.6,
       [
        [
         "Kenyan Drake (RB)",
@@ -5201,7 +5218,7 @@
        ],
        [
         "2023 R2 (MakeItRains's) = Marvin Mims Jr. (WR) #23",
-        311.9
+        319.1
        ],
        [
         "$5 FAAB",
@@ -5219,7 +5236,7 @@
     "sides": [
      [
       "G8rDuc",
-      766.7,
+      799.3,
       [
        [
         "Jimmy Garoppolo (QB)",
@@ -5227,11 +5244,11 @@
        ],
        [
         "2023 R2 (G8rDuc's) = Israel Abanikanda (RB) #22",
-        16.3
+        18.3
        ],
        [
         "2023 R3 (G8rDuc's) = Josh Downs (WR) #27",
-        546.7
+        577.3
        ],
        [
         "2023 R4 (TotesMagoat's) = Zach Evans (RB) #37",
@@ -5277,11 +5294,11 @@
      ],
      [
       "RedDevil904",
-      859.6,
+      938.9,
       [
        [
         "2023 R2 (Bill_Buttlicker's) = C.J. Stroud (QB) #15",
-        859.6
+        938.9
        ]
       ]
      ]
@@ -5295,21 +5312,21 @@
     "sides": [
      [
       "Besch42",
-      828.7,
+      851.6,
       [
        [
         "Mike Evans (WR)",
-        828.7
+        851.6
        ]
       ]
      ],
      [
       "RedDevil904",
-      784.5,
+      817.6,
       [
        [
         "2023 R2 (Besch42's) = Zay Flowers (WR) #17",
-        781.4
+        814.5
        ],
        [
         "2024 R5 (Besch42's) = Jared Wiley (TE) #50",
@@ -5337,11 +5354,11 @@
      ],
      [
       "RedDevil904",
-      821,
+      861.4,
       [
        [
         "Kirk Cousins (QB)",
-        821
+        861.4
        ]
       ]
      ]
@@ -5355,7 +5372,7 @@
     "sides": [
      [
       "G8rDuc",
-      566.9,
+      583.7,
       [
        [
         "Donald Parham (TE)",
@@ -5371,17 +5388,17 @@
        ],
        [
         "Jordan Mason (RB)",
-        309.3
+        326.1
        ]
       ]
      ],
      [
       "TotesMagoat",
-      106.7,
+      128.5,
       [
        [
         "2025 R3 (G8rDuc's) = Pat Bryant (WR) #29",
-        106.7
+        128.5
        ]
       ]
      ]
@@ -5395,21 +5412,21 @@
     "sides": [
      [
       "TotesMagoat",
-      299.2,
+      341.5,
       [
        [
         "2025 R2 (superdog91's) = Cam Ward (QB) #14",
-        299.2
+        341.5
        ]
       ]
      ],
      [
       "RedDevil904",
-      1178.5,
+      1210.3,
       [
        [
         "Calvin Ridley (WR)",
-        491.5
+        509.3
        ],
        [
         "Albert Okwuegbunam (TE)",
@@ -5417,7 +5434,7 @@
        ],
        [
         "Jaylen Warren (RB)",
-        678.4
+        692.4
        ]
       ]
      ]
@@ -5431,11 +5448,11 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      447.5,
+      452.3,
       [
        [
         "2023 R5 (Bill_Buttlicker's) = Tucker Kraft (TE) #58",
-        447.5
+        452.3
        ],
        [
         "$1000 FAAB",
@@ -5463,11 +5480,11 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      781.4,
+      814.5,
       [
        [
         "2023 R2 (Marco_Polo's) = Zay Flowers (WR) #17",
-        781.4
+        814.5
        ]
       ]
      ],
@@ -5491,21 +5508,21 @@
     "sides": [
      [
       "TotesMagoat",
-      152.7,
+      182.3,
       [
        [
         "2025 R1 (RedDevil904's) = Kaleb Johnson (RB) #3",
-        19.2
+        36.2
        ],
        [
         "2025 R3 (RedDevil904's) = Mason Taylor (TE) #27",
-        133.5
+        146.1
        ]
       ]
      ],
      [
       "RedDevil904",
-      1243.7,
+      1266.5,
       [
        [
         "2023 R2 (ChuckJ10's) = Tank Bigsby (RB) #16",
@@ -5517,11 +5534,11 @@
        ],
        [
         "2023 R2 (superdog91's) = Sam LaPorta (TE) #14",
-        606.7
+        625.7
        ],
        [
         "2023 R2 (NixInTheStix's) = Tyjae Spears (RB) #20",
-        406.2
+        410
        ]
       ]
      ]
@@ -5535,11 +5552,11 @@
     "sides": [
      [
       "superdog91",
-      1041.7,
+      1121,
       [
        [
         "2023 R2 (Bill_Buttlicker's) = C.J. Stroud (QB) #15",
-        859.6
+        938.9
        ],
        [
         "2024 R1 (superdog91's) = Ricky Pearsall (WR) #12",
@@ -5549,11 +5566,11 @@
      ],
      [
       "RedDevil904",
-      690,
+      737.7,
       [
        [
         "Travis Kelce (TE)",
-        690
+        737.7
        ]
       ]
      ]
@@ -5567,7 +5584,7 @@
     "sides": [
      [
       "RedDevil904",
-      116.4,
+      118,
       [
        [
         "2023 R3 (ChuckJ10's) = Eric Gray (RB) #33",
@@ -5575,7 +5592,7 @@
        ],
        [
         "2024 R4 (ChuckJ10's) = Luke McCaffrey (WR) #42",
-        86.1
+        87.7
        ],
        [
         "$250 FAAB",
@@ -5585,11 +5602,11 @@
      ],
      [
       "ChuckJ10",
-      307,
+      311.5,
       [
        [
         "Brandin Cooks (WR)",
-        307
+        311.5
        ]
       ]
      ]
@@ -5626,16 +5643,16 @@
    {
     "d": "2023-04-29",
     "s": 2023,
-    "g": "clear",
+    "g": "close",
     "w": 0,
     "sides": [
      [
       "RedDevil904",
-      1094,
+      1097.3,
       [
        [
         "2023 R2 (BertDirty's) = Jonathan Mingo (WR) #18",
-        126.5
+        129.8
        ],
        [
         "2023 R1 (ChuckJ10's) = De'Von Achane (RB) #9",
@@ -5649,11 +5666,11 @@
      ],
      [
       "ChuckJ10",
-      690,
+      737.7,
       [
        [
         "Travis Kelce (TE)",
-        690
+        737.7
        ]
       ]
      ]
@@ -5667,7 +5684,7 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      551.4,
+      568.3,
       [
        [
         "Skyy Moore (WR)",
@@ -5675,17 +5692,17 @@
        ],
        [
         "2023 R1 (RedDevil904's) = Quentin Johnston (WR) #6",
-        472.4
+        489.3
        ]
       ]
      ],
      [
       "TotesMagoat",
-      678.3,
+      700.8,
       [
        [
         "Garrett Wilson (WR)",
-        678.3
+        700.8
        ]
       ]
      ]
@@ -5699,21 +5716,21 @@
     "sides": [
      [
       "superdog91",
-      809.4,
+      817.1,
       [
        [
         "2024 R3 (TotesMagoat's) = Ray Davis (RB) #35",
-        191.4
+        194.3
        ],
        [
         "2023 R1 (NixInTheStix's) = Jordan Addison (WR) #5",
-        618
+        622.8
        ]
       ]
      ],
      [
       "TotesMagoat",
-      421.1,
+      442.4,
       [
        [
         "2024 R1 (superdog91's) = Ricky Pearsall (WR) #12",
@@ -5721,7 +5738,7 @@
        ],
        [
         "2025 R1 (superdog91's) = Colston Loveland (TE) #11",
-        239
+        260.3
        ]
       ]
      ]
@@ -5735,21 +5752,21 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      1387.4,
+      1459.5,
       [
        [
         "George Pickens (WR)",
-        769.4
+        836.7
        ],
        [
         "2023 R1 (NixInTheStix's) = Jordan Addison (WR) #5",
-        618
+        622.8
        ]
       ]
      ],
      [
       "superdog91",
-      592.2,
+      605.8,
       [
        [
         "2023 R3 (RedDevil904's) = Luke Musgrave (TE) #30",
@@ -5757,7 +5774,7 @@
        ],
        [
         "2023 R1 (RobMeyers's) = Dalton Kincaid (TE) #4",
-        456.3
+        469.9
        ],
        [
         "$700 FAAB",
@@ -5775,21 +5792,21 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      456.3,
+      469.9,
       [
        [
         "2023 R1 (RobMeyers's) = Dalton Kincaid (TE) #4",
-        456.3
+        469.9
        ]
       ]
      ],
      [
       "RobMeyers",
-      695.1,
+      712,
       [
        [
         "2023 R1 (RedDevil904's) = Quentin Johnston (WR) #6",
-        472.4
+        489.3
        ],
        [
         "2023 R2 (ChuckJ10's) = Tank Bigsby (RB) #16",
@@ -5807,7 +5824,7 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      1667.4,
+      1686.4,
       [
        [
         "2023 R1 (ChuckJ10's) = De'Von Achane (RB) #9",
@@ -5819,17 +5836,17 @@
        ],
        [
         "2023 R2 (superdog91's) = Sam LaPorta (TE) #14",
-        606.7
+        625.7
        ]
       ]
      ],
      [
       "RedDevil904",
-      982.7,
+      1025.9,
       [
        [
         "2023 R1 (G8rDuc's) = Jaxon Smith-Njigba (WR) #3",
-        982.7
+        1025.9
        ]
       ]
      ]
@@ -5843,25 +5860,25 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      522.6,
+      545.7,
       [
        [
         "Juwan Johnson (TE)",
-        468
+        484.2
        ],
        [
         "2024 R2 (ChuckJ10's) = MarShawn Lloyd (RB) #18",
-        54.6
+        61.5
        ]
       ]
      ],
      [
       "ChuckJ10",
-      125.9,
+      135.6,
       [
        [
         "Treylon Burks (WR)",
-        123.7
+        133.4
        ],
        [
         "2024 R3 (Bill_Buttlicker's) = Javon Baker (WR) #33",
@@ -5879,25 +5896,25 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      466.7,
+      508.9,
       [
        [
         "2024 R2 (G8rDuc's) = Adonai Mitchell (WR) #22",
-        190.2
+        204.1
        ],
        [
         "2025 R3 (TotesMagoat's) = Harold Fannin Jr. (TE) #36",
-        276.5
+        304.8
        ]
       ]
      ],
      [
       "TotesMagoat",
-      406.2,
+      410,
       [
        [
         "2023 R2 (NixInTheStix's) = Tyjae Spears (RB) #20",
-        406.2
+        410
        ]
       ]
      ]
@@ -5911,7 +5928,7 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      350.3,
+      357.5,
       [
        [
         "2023 R3 (ChuckJ10's) = Eric Gray (RB) #33",
@@ -5923,17 +5940,17 @@
        ],
        [
         "2023 R2 (MakeItRains's) = Marvin Mims Jr. (WR) #23",
-        311.9
+        319.1
        ]
       ]
      ],
      [
       "RedDevil904",
-      781.4,
+      814.5,
       [
        [
         "2023 R2 (Marco_Polo's) = Zay Flowers (WR) #17",
-        781.4
+        814.5
        ]
       ]
      ]
@@ -5947,17 +5964,17 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      1107.5,
+      1181.2,
       [
        [
         "Ja'Marr Chase (WR)",
-        1107.5
+        1181.2
        ]
       ]
      ],
      [
       "Scubastanky",
-      1457.4,
+      1524.2,
       [
        [
         "Alexander Mattison (RB)",
@@ -5965,15 +5982,15 @@
        ],
        [
         "Rashod Bateman (WR)",
-        360.3
+        383.8
        ],
        [
         "2024 R1 (Bill_Buttlicker's) = Ladd McConkey (WR) #9",
-        473.4
+        494.1
        ],
        [
         "2024 R1 (RedDevil904's) = Xavier Worthy (WR) #6",
-        353.1
+        375.7
        ]
       ]
      ]
@@ -5987,21 +6004,21 @@
     "sides": [
      [
       "superdog91",
-      258.9,
+      268.8,
       [
        [
         "2023 R2 (TotesMagoat's) = Michael Mayer (TE) #13",
-        258.9
+        268.8
        ]
       ]
      ],
      [
       "TotesMagoat",
-      995.5,
+      1074.8,
       [
        [
         "2023 R2 (Bill_Buttlicker's) = C.J. Stroud (QB) #15",
-        859.6
+        938.9
        ],
        [
         "2023 R3 (RedDevil904's) = Luke Musgrave (TE) #30",
@@ -6019,7 +6036,7 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      745.8,
+      752.9,
       [
        [
         "2023 R2 (RedDevil904's) = Roschon Johnson (RB) #19",
@@ -6027,11 +6044,11 @@
        ],
        [
         "2023 R2 (BertDirty's) = Jonathan Mingo (WR) #18",
-        126.5
+        129.8
        ],
        [
         "2023 R2 (NixInTheStix's) = Tyjae Spears (RB) #20",
-        406.2
+        410
        ]
       ]
      ],
@@ -6055,11 +6072,11 @@
     "sides": [
      [
       "superdog91",
-      447.5,
+      452.3,
       [
        [
         "2023 R5 (Bill_Buttlicker's) = Tucker Kraft (TE) #58",
-        447.5
+        452.3
        ]
       ]
      ],
@@ -6097,11 +6114,11 @@
      ],
      [
       "RedDevil904",
-      447.5,
+      452.3,
       [
        [
         "2023 R5 (Bill_Buttlicker's) = Tucker Kraft (TE) #58",
-        447.5
+        452.3
        ]
       ]
      ]
@@ -6115,11 +6132,11 @@
     "sides": [
      [
       "Scubastanky",
-      196,
+      198.1,
       [
        [
         "Michael Carter (RB)",
-        196
+        198.1
        ]
       ]
      ],
@@ -6143,7 +6160,7 @@
     "sides": [
      [
       "superdog91",
-      850.6,
+      939.3,
       [
        [
         "2024 R1 (ChuckJ10's) = Jonathon Brooks (RB) #7",
@@ -6151,21 +6168,21 @@
        ],
        [
         "2024 R3 (ChuckJ10's) = Bucky Irving (RB) #31",
-        513.5
+        561
        ],
        [
         "2025 R1 (ChuckJ10's) = Tetairoa McMillan (WR) #8",
-        320.3
+        361.5
        ]
       ]
      ],
      [
       "ChuckJ10",
-      781.6,
+      827.1,
       [
        [
         "Breece Hall (RB)",
-        781.6
+        827.1
        ]
       ]
      ]
@@ -6179,11 +6196,11 @@
     "sides": [
      [
       "RobMeyers",
-      577.2,
+      604.1,
       [
        [
         "Aaron Jones Sr. (RB)",
-        575
+        601.9
        ],
        [
         "2024 R3 (Bill_Buttlicker's) = Javon Baker (WR) #33",
@@ -6193,15 +6210,15 @@
      ],
      [
       "ChuckJ10",
-      970.2,
+      1014.5,
       [
        [
         "Drake London (WR)",
-        766.9
+        795.6
        ],
        [
         "2024 R5 (RobMeyers's) = Jalen Tolbert (WR) #52",
-        203.3
+        218.9
        ]
       ]
      ]
@@ -6215,11 +6232,11 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      38.8,
+      36.8,
       [
        [
         "Charlie Jones (WR)",
-        38.8
+        36.8
        ]
       ]
      ],
@@ -6243,25 +6260,25 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      861.3,
+      883,
       [
        [
         "Saquon Barkley (RB)",
-        861.3
+        883
        ]
       ]
      ],
      [
       "superdog91",
-      1699.6,
+      1821.1,
       [
        [
         "Javonte Williams (RB)",
-        717.1
+        771.3
        ],
        [
         "George Pickens (WR)",
-        769.4
+        836.7
        ],
        [
         "Roschon Johnson (RB)",
@@ -6279,17 +6296,17 @@
     "sides": [
      [
       "Marco_Polo",
-      745.9,
+      750.6,
       [
        [
         "A.J. Brown (WR)",
-        745.9
+        750.6
        ]
       ]
      ],
      [
       "Scubastanky",
-      694,
+      715.6,
       [
        [
         "DeAndre Hopkins (WR)",
@@ -6297,7 +6314,7 @@
        ],
        [
         "2025 R1 (Marco_Polo's) = Quinshon Judkins (RB) #4",
-        256.4
+        278
        ],
        [
         "2026 R2 (Marco_Polo's) = Ty Simpson (QB) #13",
@@ -6315,21 +6332,21 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      508.3,
+      524.9,
       [
        [
         "Cooper Kupp (WR)",
-        508.3
+        524.9
        ]
       ]
      ],
      [
       "TotesMagoat",
-      363.8,
+      388.3,
       [
        [
         "2024 R1 (G8rDuc's) = Rome Odunze (WR) #3",
-        363.8
+        388.3
        ]
       ]
      ]
@@ -6357,11 +6374,11 @@
      ],
      [
       "ChuckJ10",
-      1108.3,
+      1141,
       [
        [
         "Geno Smith (QB)",
-        834.3
+        867
        ],
        [
         "2025 R3 (BertDirty's) = Jaxson Dart (QB) #25",
@@ -6417,11 +6434,11 @@
      ],
      [
       "superdog91",
-      0,
+      26,
       [
        [
         "2026 R1 (G8rDuc's) = Jordyn Tyson (WR) #4",
-        0
+        26
        ]
       ]
      ]
@@ -6463,11 +6480,11 @@
     "sides": [
      [
       "G8rDuc",
-      260.5,
+      268.2,
       [
        [
         "Tutu Atwell (WR)",
-        199.1
+        206.8
        ],
        [
         "2024 R4 (superdog91's) = Cade Stover (TE) #37",
@@ -6495,7 +6512,7 @@
     "sides": [
      [
       "Marco_Polo",
-      725.3,
+      779.7,
       [
        [
         "Gus Edwards (RB)",
@@ -6503,17 +6520,17 @@
        ],
        [
         "2024 R1 (MakeItRains's) = Jayden Daniels (QB) #10",
-        582.7
+        637.1
        ]
       ]
      ],
      [
       "MakeItRains",
-      260,
+      281,
       [
        [
         "Austin Ekeler (RB)",
-        260
+        281
        ]
       ]
      ]
@@ -6527,25 +6544,25 @@
     "sides": [
      [
       "Marco_Polo",
-      776.2,
+      872.5,
       [
        [
         "Brock Purdy (QB)",
-        730.3
+        810.4
        ],
        [
         "2026 R1 (superdog91's) = Kenyon Sadiq (TE) #9",
-        45.9
+        62.1
        ]
       ]
      ],
      [
       "superdog91",
-      1101,
+      1152.4,
       [
        [
         "Josh Allen (QB)",
-        1101
+        1152.4
        ]
       ]
      ]
@@ -6559,25 +6576,25 @@
     "sides": [
      [
       "TotesMagoat",
-      562.6,
+      588.7,
       [
        [
         "2024 R1 (RobMeyers's) = Brock Bowers (TE) #4",
-        562.6
+        588.7
        ]
       ]
      ],
      [
       "RobMeyers",
-      884.4,
+      936.9,
       [
        [
         "2024 R3 (G8rDuc's) = Braelon Allen (RB) #27",
-        200.1
+        220.5
        ],
        [
         "2024 R1 (JeremyVaughn20's) = Caleb Williams (QB) #5",
-        684.3
+        716.4
        ]
       ]
      ]
@@ -6591,11 +6608,11 @@
     "sides": [
      [
       "G8rDuc",
-      598,
+      630.8,
       [
        [
         "Geno Smith (QB)",
-        598
+        630.8
        ]
       ]
      ],
@@ -6618,16 +6635,16 @@
    {
     "d": "2024-03-28",
     "s": 2024,
-    "g": "clear",
+    "g": "close",
     "w": 0,
     "sides": [
      [
       "G8rDuc",
-      182.8,
+      222.4,
       [
        [
         "2024 R2 (TotesMagoat's) = J.J. McCarthy (QB) #14",
-        165.1
+        204.7
        ],
        [
         "2024 R5 (TotesMagoat's) = Ainias Smith (WR) #59",
@@ -6641,15 +6658,15 @@
      ],
      [
       "TotesMagoat",
-      102.5,
+      169.5,
       [
        [
         "2026 R2 (G8rDuc's) = Antonio Williams (WR) #16",
-        54.9
+        93.8
        ],
        [
         "2026 R5 (G8rDuc's) = Caleb Douglas (WR) #52",
-        47.6
+        75.7
        ]
       ]
      ]
@@ -6663,7 +6680,7 @@
     "sides": [
      [
       "JeremyVaughn20",
-      770.7,
+      772.3,
       [
        [
         "2024 R4 (Bill_Buttlicker's) = Jalen McMillan (WR) #40",
@@ -6679,7 +6696,7 @@
        ],
        [
         "2024 R4 (ChuckJ10's) = Luke McCaffrey (WR) #42",
-        86.1
+        87.7
        ],
        [
         "2025 R2 (ChuckJ10's) = Jayden Higgins (WR) #17",
@@ -6689,11 +6706,11 @@
      ],
      [
       "RedDevil904",
-      258.2,
+      286,
       [
        [
         "2024 R2 (JeremyVaughn20's) = Michael Penix Jr. (QB) #20",
-        258.2
+        286
        ]
       ]
      ]
@@ -6717,15 +6734,15 @@
      ],
      [
       "TroyMcCoy",
-      807,
+      850.3,
       [
        [
         "2024 R2 (Marco_Polo's) = Ben Sinnott (TE) #23",
-        43.8
+        58
        ],
        [
         "2024 R3 (Marco_Polo's) = Bo Nix (QB) #26",
-        763.2
+        792.3
        ]
       ]
      ]
@@ -6739,15 +6756,15 @@
     "sides": [
      [
       "G8rDuc",
-      280.2,
+      307.3,
       [
        [
         "2025 R4 (RedDevil904's) = Chimere Dike (WR) #46",
-        151.5
+        168.9
        ],
        [
         "2025 R5 (RedDevil904's) = Gunnar Helm (TE) #51",
-        128.7
+        138.4
        ]
       ]
      ],
@@ -6771,7 +6788,7 @@
     "sides": [
      [
       "superdog91",
-      107.8,
+      124.6,
       [
        [
         "2024 R5 (Marco_Polo's) = Jared Wiley (TE) #50",
@@ -6779,17 +6796,17 @@
        ],
        [
         "2024 R3 (superdog91's) = Audric Estime (RB) #36",
-        104.7
+        121.5
        ]
       ]
      ],
      [
       "RedDevil904",
-      191.4,
+      194.3,
       [
        [
         "2024 R3 (TotesMagoat's) = Ray Davis (RB) #35",
-        191.4
+        194.3
        ]
       ]
      ]
@@ -6813,11 +6830,11 @@
      ],
      [
       "superdog91",
-      106.2,
+      111,
       [
        [
         "2026 R4 (Bill_Buttlicker's) = Malik Willis (QB) #43",
-        106.2
+        111
        ]
       ]
      ]
@@ -6841,7 +6858,7 @@
      ],
      [
       "superdog91",
-      79.5,
+      92.4,
       [
        [
         "2025 R5 (Bill_Buttlicker's) = Isaiah Bond (WR) #57",
@@ -6849,7 +6866,7 @@
        ],
        [
         "2026 R5 (Bill_Buttlicker's) = Zavion Thomas (WR) #55",
-        11.2
+        24.1
        ]
       ]
      ]
@@ -6863,11 +6880,11 @@
     "sides": [
      [
       "G8rDuc",
-      394.5,
+      417,
       [
        [
         "Elijah Moore (WR)",
-        154.5
+        155.2
        ],
        [
         "Isaiah Davis (RB)",
@@ -6875,7 +6892,7 @@
        ],
        [
         "2025 R3 (G8rDuc's) = Pat Bryant (WR) #29",
-        106.7
+        128.5
        ]
       ]
      ],
@@ -6899,25 +6916,25 @@
     "sides": [
      [
       "TotesMagoat",
-      834.9,
+      878.1,
       [
        [
         "Jaxon Smith-Njigba (WR)",
-        834.9
+        878.1
        ]
       ]
      ],
      [
       "RedDevil904",
-      643.2,
+      682.3,
       [
        [
         "Jerry Jeudy (WR)",
-        399.7
+        414.8
        ],
        [
         "2025 R1 (TotesMagoat's) = Luther Burden III (WR) #12",
-        243.5
+        267.5
        ]
       ]
      ]
@@ -6931,11 +6948,11 @@
     "sides": [
      [
       "Marco_Polo",
-      324,
+      327.2,
       [
        [
         "J.K. Dobbins (RB)",
-        324
+        327.2
        ],
        [
         "$15 FAAB",
@@ -6945,11 +6962,11 @@
      ],
      [
       "TroyMcCoy",
-      45.9,
+      62.1,
       [
        [
         "2026 R1 (superdog91's) = Kenyon Sadiq (TE) #9",
-        45.9
+        62.1
        ],
        [
         "$7 FAAB",
@@ -6977,11 +6994,11 @@
      ],
      [
       "RedDevil904",
-      545.9,
+      577.5,
       [
        [
         "Aaron Rodgers (QB)",
-        545.9
+        577.5
        ]
       ]
      ]
@@ -7027,17 +7044,17 @@
     "sides": [
      [
       "TotesMagoat",
-      44.1,
+      97.8,
       [
        [
         "2026 R1 (BertDirty's) = Jonah Coleman (RB) #11",
-        44.1
+        97.8
        ]
       ]
      ],
      [
       "BertDirty",
-      515.1,
+      527.7,
       [
        [
         "Emanuel Wilson (RB)",
@@ -7049,7 +7066,7 @@
        ],
        [
         "2025 R3 (RedDevil904's) = Mason Taylor (TE) #27",
-        133.5
+        146.1
        ]
       ]
      ]
@@ -7058,7 +7075,7 @@
    {
     "d": "2024-11-21",
     "s": 2024,
-    "g": "close",
+    "g": "clear",
     "w": 1,
     "sides": [
      [
@@ -7077,11 +7094,11 @@
      ],
      [
       "JeremyVaughn20",
-      319.7,
+      342.6,
       [
        [
         "Mike Evans (WR)",
-        319.7
+        342.6
        ]
       ]
      ]
@@ -7095,7 +7112,7 @@
     "sides": [
      [
       "G8rDuc",
-      256.7,
+      258.5,
       [
        [
         "Will Levis (QB)",
@@ -7103,7 +7120,7 @@
        ],
        [
         "2025 R5 (superdog91's) = Kyle Monangai (RB) #59",
-        206
+        207.8
        ],
        [
         "2026 R3 (superdog91's) = Jam Miller (RB) #33",
@@ -7113,11 +7130,11 @@
      ],
      [
       "superdog91",
-      104.6,
+      114.3,
       [
        [
         "Keaton Mitchell (RB)",
-        104.6
+        114.3
        ]
       ]
      ]
@@ -7126,7 +7143,7 @@
    {
     "d": "2024-12-02",
     "s": 2024,
-    "g": "close",
+    "g": "clear",
     "w": 1,
     "sides": [
      [
@@ -7141,11 +7158,11 @@
      ],
      [
       "ChuckJ10",
-      106.7,
+      128.5,
       [
        [
         "2025 R3 (G8rDuc's) = Pat Bryant (WR) #29",
-        106.7
+        128.5
        ]
       ]
      ]
@@ -7159,17 +7176,17 @@
     "sides": [
      [
       "Marco_Polo",
-      165.9,
+      188.5,
       [
        [
         "Xavier Worthy (WR)",
-        165.9
+        188.5
        ]
       ]
      ],
      [
       "bucaneer50",
-      37.5,
+      35.5,
       [
        [
         "Gus Edwards (RB)",
@@ -7177,7 +7194,7 @@
        ],
        [
         "2025 R2 (Marco_Polo's) = Jaydon Blue (RB) #21",
-        22.3
+        20.3
        ],
        [
         "2026 R3 (Marco_Polo's) = Zachariah Branch (WR) #25",
@@ -7195,11 +7212,11 @@
     "sides": [
      [
       "Marco_Polo",
-      544.7,
+      584.9,
       [
        [
         "Khalil Shakir (WR)",
-        232.8
+        265.4
        ],
        [
         "2025 R3 (BertDirty's) = Jaxson Dart (QB) #25",
@@ -7207,17 +7224,17 @@
        ],
        [
         "2026 R3 (ChuckJ10's) = Mike Washington Jr. (RB) #34",
-        37.9
+        45.5
        ]
       ]
      ],
      [
       "ChuckJ10",
-      284.3,
+      289,
       [
        [
         "A.J. Brown (WR)",
-        239.4
+        244.1
        ],
        [
         "2026 R5 (Marco_Polo's) = Tyquan Thornton (WR) #49",
@@ -7235,15 +7252,15 @@
     "sides": [
      [
       "G8rDuc",
-      420.4,
+      446.3,
       [
        [
         "DeVonta Smith (WR)",
-        270.8
+        279.9
        ],
        [
         "Jordan Mason (RB)",
-        149.6
+        166.4
        ]
       ]
      ],
@@ -7267,7 +7284,7 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      28.6,
+      34.2,
       [
        [
         "AJ Dillon (RB)",
@@ -7275,7 +7292,7 @@
        ],
        [
         "Khalil Herbert (RB)",
-        12.9
+        18.5
        ]
       ]
      ],
@@ -7299,7 +7316,7 @@
     "sides": [
      [
       "RedDevil904",
-      430.9,
+      476.2,
       [
        [
         "Tyreek Hill (WR)",
@@ -7307,7 +7324,7 @@
        ],
        [
         "2025 R1 (BertDirty's) = Ashton Jeanty (RB) #1",
-        377.4
+        422.7
        ],
        [
         "2026 R3 (BertDirty's) = J'Mari Taylor (RB) #35",
@@ -7317,11 +7334,11 @@
      ],
      [
       "BertDirty",
-      609,
+      666.1,
       [
        [
         "Zay Flowers (WR)",
-        365.5
+        398.6
        ],
        [
         "2027 R1 (RedDevil904's) (not drafted yet)",
@@ -7329,7 +7346,7 @@
        ],
        [
         "2025 R1 (TotesMagoat's) = Luther Burden III (WR) #12",
-        243.5
+        267.5
        ]
       ]
      ]
@@ -7371,29 +7388,29 @@
     "sides": [
      [
       "superdog91",
-      280,
+      314.1,
       [
        [
         "Keon Coleman (WR)",
-        169.1
+        179.6
        ],
        [
         "2025 R4 (ChuckJ10's) = Jordan James (RB) #41",
-        4.2
+        6
        ],
        [
         "2025 R3 (G8rDuc's) = Pat Bryant (WR) #29",
-        106.7
+        128.5
        ]
       ]
      ],
      [
       "ChuckJ10",
-      396.2,
+      463.5,
       [
        [
         "George Pickens (WR)",
-        396.2
+        463.5
        ]
       ]
      ]
@@ -7421,11 +7438,11 @@
      ],
      [
       "TotesMagoat",
-      256.4,
+      278,
       [
        [
         "2025 R1 (Marco_Polo's) = Quinshon Judkins (RB) #4",
-        256.4
+        278
        ],
        [
         "2027 R3 (bucaneer50's) (not drafted yet)",
@@ -7443,7 +7460,7 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      299.2,
+      341.5,
       [
        [
         "2026 R3 (G8rDuc's) = Adam Randall (RB) #28",
@@ -7451,17 +7468,17 @@
        ],
        [
         "2025 R2 (superdog91's) = Cam Ward (QB) #14",
-        299.2
+        341.5
        ]
       ]
      ],
      [
       "TotesMagoat",
-      171.2,
+      186.7,
       [
        [
         "2025 R2 (Bill_Buttlicker's) = Dylan Sampson (RB) #16",
-        111.2
+        126.7
        ],
        [
         "2025 R2 (RedDevil904's) = Devin Neal (RB) #22",
@@ -7479,7 +7496,7 @@
     "sides": [
      [
       "BeatULikeABoss",
-      81,
+      84.2,
       [
        [
         "Russell Wilson (QB)",
@@ -7487,17 +7504,17 @@
        ],
        [
         "2026 R3 (RedDevil904's) = Kevin Coleman Jr. (WR) #29",
-        28.2
+        31.4
        ]
       ]
      ],
      [
       "RedDevil904",
-      487.8,
+      543.9,
       [
        [
         "Trevor Lawrence (QB)",
-        487.8
+        543.9
        ]
       ]
      ]
@@ -7511,11 +7528,11 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      206.9,
+      244.4,
       [
        [
         "2025 R2 (bucaneer50's) = Bhayshul Tuten (RB) #19",
-        206.9
+        244.4
        ]
       ]
      ],
@@ -7543,7 +7560,7 @@
     "sides": [
      [
       "bucaneer50",
-      198.1,
+      231.1,
       [
        [
         "2025 R4 (Bill_Buttlicker's) = Will Howard (QB) #40",
@@ -7551,21 +7568,21 @@
        ],
        [
         "2025 R2 (TotesMagoat's) = Cam Skattebo (RB) #13",
-        198.1
+        231.1
        ]
       ]
      ],
      [
       "TotesMagoat",
-      229.2,
+      264.7,
       [
        [
         "2025 R2 (Marco_Polo's) = Jaydon Blue (RB) #21",
-        22.3
+        20.3
        ],
        [
         "2025 R2 (bucaneer50's) = Bhayshul Tuten (RB) #19",
-        206.9
+        244.4
        ]
       ]
      ]
@@ -7579,11 +7596,11 @@
     "sides": [
      [
       "Bill_Buttlicker",
-      19.7,
+      42.9,
       [
        [
         "2026 R1 (RedDevil904's) = Jadarian Price (RB) #5",
-        19.7
+        42.9
        ],
        [
         "2027 R3 (RedDevil904's) (not drafted yet)",
@@ -7593,11 +7610,11 @@
      ],
      [
       "RedDevil904",
-      266.8,
+      277.5,
       [
        [
         "2025 R1 (Bill_Buttlicker's) = Emeka Egbuka (WR) #9",
-        266.8
+        277.5
        ]
       ]
      ]
@@ -7611,29 +7628,29 @@
     "sides": [
      [
       "MakeItRains",
-      377.4,
+      422.7,
       [
        [
         "2025 R1 (BertDirty's) = Ashton Jeanty (RB) #1",
-        377.4
+        422.7
        ]
       ]
      ],
      [
       "RedDevil904",
-      637.6,
+      775.4,
       [
        [
         "James Cook III (RB)",
-        433.9
+        489.5
        ],
        [
         "2025 R1 (MakeItRains's) = Matthew Golden (WR) #10",
-        201.5
+        245.9
        ],
        [
         "2026 R1 (MakeItRains's) = Fernando Mendoza (QB) #8",
-        2.2
+        40
        ]
       ]
      ]
@@ -7657,11 +7674,11 @@
      ],
      [
       "ChuckJ10",
-      22.3,
+      20.3,
       [
        [
         "2025 R2 (Marco_Polo's) = Jaydon Blue (RB) #21",
-        22.3
+        20.3
        ]
       ]
      ]
@@ -7717,11 +7734,11 @@
      ],
      [
       "BertDirty",
-      173.8,
+      196.7,
       [
        [
         "Mike Evans (WR)",
-        173.8
+        196.7
        ],
        [
         "2026 R5 (BeatULikeABoss's) = Riley Leonard (QB) #50",
@@ -7739,7 +7756,7 @@
     "sides": [
      [
       "superdog91",
-      56.3,
+      66.4,
       [
        [
         "Luke Musgrave (TE)",
@@ -7747,17 +7764,17 @@
        ],
        [
         "2026 R5 (TotesMagoat's) = Jack Endries (TE) #60",
-        7.1
+        17.2
        ]
       ]
      ],
      [
       "TotesMagoat",
-      257.2,
+      281.7,
       [
        [
         "Keenan Allen (WR)",
-        257.2
+        281.7
        ]
       ]
      ]
@@ -7817,11 +7834,11 @@
      ],
      [
       "BeatULikeABoss",
-      396,
+      444,
       [
        [
         "Jordan Love (QB)",
-        396
+        444
        ]
       ]
      ]
@@ -7835,11 +7852,11 @@
     "sides": [
      [
       "BeatULikeABoss",
-      277.7,
+      294,
       [
        [
         "Rhamondre Stevenson (RB)",
-        277.7
+        294
        ]
       ]
      ],
@@ -7863,11 +7880,11 @@
     "sides": [
      [
       "Marco_Polo",
-      20.1,
+      41.1,
       [
        [
         "Austin Ekeler (RB)",
-        20.1
+        41.1
        ]
       ]
      ],
@@ -7919,11 +7936,11 @@
     "sides": [
      [
       "superdog91",
-      184.9,
+      250.6,
       [
        [
         "Michael Penix Jr. (QB)",
-        182.7
+        210.6
        ],
        [
         "2028 R1 (RedDevil904's) (not drafted yet)",
@@ -7931,7 +7948,7 @@
        ],
        [
         "2026 R1 (MakeItRains's) = Fernando Mendoza (QB) #8",
-        2.2
+        40
        ]
       ]
      ],
@@ -7950,7 +7967,7 @@
    {
     "d": "2025-11-23",
     "s": 2025,
-    "g": "clear",
+    "g": "close",
     "w": 0,
     "sides": [
      [
@@ -7969,11 +7986,11 @@
      ],
      [
       "ChuckJ10",
-      69.3,
+      100.8,
       [
        [
         "Alvin Kamara (RB)",
-        69.3
+        100.8
        ]
       ]
      ]
